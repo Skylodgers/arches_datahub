@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:Concept rdf:about="http://localhost:8000/fb24954f-1d89-3aae-8872-598e660b9bfc">
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb">
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/5d9ec938-15d7-31b5-b209-1bd683840bb6"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/b355c6fe-dc0a-31b3-950f-9e22081f9d80"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/6a16eb27-bfc8-3e9b-931a-55f887c2e912"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/b1dc9ade-97d6-3b2c-b1b6-e73d0b7e61d5"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/16a8869c-52fb-3676-b4d9-b2a2702805bd"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/ceb2173d-432a-38eb-9b3c-60ace41aaa3f"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/23c57875-7320-3299-a224-856db0f0e939"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/bbf73c99-0b19-3595-94af-528482374f2f"/>
+        <dcterms:identifier xml:lang="en">{"id": "089cd17a-0381-4383-917d-010f94a11268", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty"}</dcterms:identifier>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/2af1ab77-c735-336e-ad74-e9d84eef7c86"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/953c1e32-b742-3cac-b72d-dfd36754aed8"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/90969d7f-1074-3c83-8cd6-b52e7a98deeb"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/fe1af59c-54a1-3b03-8278-fcea2411647c"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/9a25cd3c-f98d-389a-8759-e2e472c6684e"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/c8cac9dc-2c87-31c3-bc21-7f5963d9988f"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/cf3c2a04-ee4a-3575-ac4a-eb68d44dbc80"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/9bc88ec8-792b-31cb-92c9-ebf85023e9cd"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/22b6d954-b16c-3fe9-9fb3-ab300ed5a3a8"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/c51643fd-411e-376c-83ea-518e874c2cb1"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/ca92beb3-bb7f-34de-89f7-ee6a2852e5dc"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/358225fa-1108-302c-b414-dfbbe6bdb4c7"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/16741d8c-b417-3850-99ab-e8e9be4750fb"/>
+        <dcterms:title xml:lang="nl">{"id": "fa00bf44-8dff-4852-93b0-a4c8adf2c943", "value": "Annotation Type"}</dcterms:title>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/2c32a855-9400-3041-adf7-d112a5238e61"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/a6c1df2f-9052-3e07-b848-c81ca9ba3b71"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/012d32c4-78d1-35e1-b864-bb86ae8066a1"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/f4d8b5ff-bdc0-3c72-9113-a9a0b52ecf4b"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/fcefe0a3-2995-35c6-b298-ba79cdd061f1"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/b8154235-9e6f-3244-b238-faf192c10597"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/895b3aca-2e84-3f0d-af44-ad371923d138"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/25d8f4db-f299-327c-ae64-077a51c2e3b4"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/a8fde339-ac2d-33b7-811f-0362f0ba626a"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/5464d76b-86f4-3d6e-b537-2626cd02f866"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/a636d846-6604-3244-8432-10ecc6ad1b87"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/3f7a36a9-a5a5-3ada-82ad-5de746c94366"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/dda5dc4c-ca95-3963-a255-dd819223f059"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/602cfca4-00c5-3fd2-83f2-be8a219d884b"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/d736777e-5913-314a-9592-7b62e4131b1f"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/bb4f79cb-eed0-3ee9-9600-f3a323b76dea"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/5e62c2ee-560d-32e4-9a05-38c27d3a3916"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/75149f63-cecc-3bbd-9a2f-030735205595"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/9c6d4d64-cd2c-3791-88ba-bdf1acc8a147"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/339cde89-4d97-3169-aef7-75fc3c84fa14"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/823def68-a35c-3a00-b80b-54f802dcfa08"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/7793d66f-a3e8-3510-b687-fcd6466b477b"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/f3d16b2e-9b51-3652-95b8-be10f755aa44"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/78ac2032-e7d4-3a0e-a79c-785c3fc5abd1"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/fb24954f-1d89-3aae-8872-598e660b9bfc"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <skos:prefLabel xml:lang="nl">{"id": "7cbac400-e774-4ca3-8568-31d422c45c83", "value": "alg"}</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">{"id": "8fddd120-5767-45ff-889f-856fd4f2c045", "value": "Algemeen"}</skos:altLabel>
+    <dcterms:identifier xml:lang="en">{"id": "dbc50797-0db2-4f18-9230-ac5b259bd43a", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:alg"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/c8cac9dc-2c87-31c3-bc21-7f5963d9988f">
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <skos:altLabel xml:lang="nl">{"id": "b38699c5-6735-4407-9429-bce19eb924ec", "value": "Niveau (digitale thesis)"}</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">{"id": "1018dfa1-02e2-4566-9108-3d6371b66d9e", "value": "etd-level"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "075cd415-7e05-4d7b-8f89-424254104150", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:etd-level"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/f3d16b2e-9b51-3652-95b8-be10f755aa44">
+    <skos:prefLabel xml:lang="nl">{"id": "5ea57529-2493-4f9b-8408-61fecbd79046", "value": "bseries"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <dcterms:identifier xml:lang="en">{"id": "78c1d3fe-af2b-468a-955d-86e97c38ac9c", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:bseries"}</dcterms:identifier>
+    <skos:altLabel xml:lang="nl">{"id": "45a141a6-020c-479f-965a-3f8183a20186", "value": "Reeks"}</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/3f7a36a9-a5a5-3ada-82ad-5de746c94366">
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <skos:altLabel xml:lang="nl">{"id": "35768047-e570-4060-91b9-56d279fd3361", "value": "In (supplement van)"}</skos:altLabel>
+    <dcterms:identifier xml:lang="en">{"id": "d7f82ab9-d06b-479a-a4d3-33b103ef2a2a", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:in"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">{"id": "dc24c45d-d727-4f72-822b-1f0b2c43f340", "value": "in"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/23c57875-7320-3299-a224-856db0f0e939">
+    <dcterms:identifier xml:lang="en">{"id": "7290015b-d1fd-4c1b-8153-1f84b206a3c1", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:nv"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <skos:prefLabel xml:lang="nl">{"id": "8777f03a-104e-454f-8c53-5bc11008411a", "value": "nv"}</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">{"id": "4c893172-5e98-44dc-9666-f29ce90c48fe", "value": "Nummering varieert"}</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/75149f63-cecc-3bbd-9a2f-030735205595">
+    <dcterms:identifier xml:lang="en">{"id": "361f2aa0-0b21-4009-a55c-6bf055c6ad62", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:etd-dis"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">{"id": "1d031225-71d3-4eaf-8825-7bfacdabd99f", "value": "etd-dis"}</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">{"id": "47861272-ba63-4e4f-ba9f-cc85a67738ed", "value": "Discipline (digitale thesis)"}</skos:altLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/bb4f79cb-eed0-3ee9-9600-f3a323b76dea">
+    <dcterms:identifier xml:lang="en">{"id": "1e4a39fd-819b-4d2a-be7a-b9ae4734e6ff", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:tv"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <skos:prefLabel xml:lang="nl">{"id": "9bfe8c8a-77ff-4775-bb6e-68c7db500958", "value": "tv"}</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">{"id": "cb49e70c-41f2-4cfd-a5e4-a04f2aa965d0", "value": "Titel varieert"}</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/16741d8c-b417-3850-99ab-e8e9be4750fb">
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <skos:altLabel xml:lang="nl">{"id": "5896836d-c489-4c20-8a08-80998a7305e2", "value": "Periodiek naar index"}</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">{"id": "4ea8e32d-3908-4fdf-9cdf-f2fae1d6c48a", "value": "pni"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "a1977114-0faa-4783-a979-75259cc09adf", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:pni"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/d736777e-5913-314a-9592-7b62e4131b1f">
+    <skos:altLabel xml:lang="nl">{"id": "39c63cdb-4427-4954-adb8-e06340fa69fa", "value": "Duur van de compositie"}</skos:altLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <skos:prefLabel xml:lang="nl">{"id": "fe332a88-c8b6-4a18-b44e-e8e32c458dcc", "value": "cmp-dur"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "c9759173-e059-4579-91e6-b19feba97b5e", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:cmp-dur"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/90969d7f-1074-3c83-8cd6-b52e7a98deeb">
+    <dcterms:identifier xml:lang="en">{"id": "83adb3e9-ee27-4c75-bf91-53cfdd0afaac", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:st"}</dcterms:identifier>
+    <skos:altLabel xml:lang="nl">{"id": "5e897ed3-95ae-4432-b950-0731968997c7", "value": "Supplement bij"}</skos:altLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <skos:prefLabel xml:lang="nl">{"id": "b61fe92a-8c70-4ddb-84e5-354bf28eed83", "value": "st"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/2c32a855-9400-3041-adf7-d112a5238e61">
+    <dcterms:identifier xml:lang="en">{"id": "77d75d3d-bdba-45c7-bd95-2655a32036c8", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:icp"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <skos:altLabel xml:lang="nl">{"id": "c890b58a-0e92-4c46-ab1d-d7cece9b365c", "value": "Tekst incipit"}</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">{"id": "93e32b5b-a45a-42fd-9a8a-3732491f894d", "value": "icp"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/b355c6fe-dc0a-31b3-950f-9e22081f9d80">
+    <skos:altLabel xml:lang="nl">{"id": "6c2a6da0-7796-426f-9717-521a7da32629", "value": "In"}</skos:altLabel>
+    <dcterms:identifier xml:lang="en">{"id": "1637cc29-8902-4c72-becc-306f0e5b3c09", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:jtitle"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <skos:prefLabel xml:lang="nl">{"id": "2c34fa5e-7e7c-48f0-b00e-09fb71ce05a4", "value": "jtitle"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/2af1ab77-c735-336e-ad74-e9d84eef7c86">
+    <skos:prefLabel xml:lang="nl">{"id": "d289973e-b405-4d00-8dfc-6c6531bc4436", "value": "cmp-yr"}</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">{"id": "4c23af4f-d61d-4240-85c5-5816ac1e083f", "value": "Jaar van de compositie"}</skos:altLabel>
+    <dcterms:identifier xml:lang="en">{"id": "269eef9e-81a0-42df-ba76-4de75e3ebe06", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:cmp-yr"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/a8fde339-ac2d-33b7-811f-0362f0ba626a">
+    <skos:altLabel xml:lang="nl">{"id": "1b6de9d8-08b0-42d4-ad82-4b52b15fa093", "value": "Doelpubliek"}</skos:altLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <dcterms:identifier xml:lang="en">{"id": "2aa15e1a-2e25-4b5e-abe0-465eb375af5e", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:doel"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">{"id": "48583752-b268-4574-9aa8-804cbb514374", "value": "doel"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/16a8869c-52fb-3676-b4d9-b2a2702805bd">
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <skos:prefLabel xml:lang="nl">{"id": "c21e2ee9-b4a6-4dde-8d60-090dee0e1a88", "value": "lot"}</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">{"id": "fafc5458-44fd-492a-9a79-3b187ec48f2f", "value": "Aantal loten"}</skos:altLabel>
+    <dcterms:identifier xml:lang="en">{"id": "65fe2ef4-ee60-424d-8dc0-c9859c615a7c", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:lot"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/ca92beb3-bb7f-34de-89f7-ee6a2852e5dc">
+    <skos:prefLabel xml:lang="nl">{"id": "84fb1b08-1ebc-4090-8b1a-52e68a7970e9", "value": "cui"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <skos:altLabel xml:lang="nl">{"id": "6ad089ff-2a65-42a2-8c73-f7188d5b844a", "value": "Gecumuleerd in"}</skos:altLabel>
+    <dcterms:identifier xml:lang="en">{"id": "11f0ec62-4d7c-48b3-8c47-d35f1391a705", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:cui"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/dda5dc4c-ca95-3963-a255-dd819223f059">
+    <skos:altLabel xml:lang="nl">{"id": "b5a0d1eb-9b22-4d90-a50e-49c24725d4e5", "value": "Opslorping"}</skos:altLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <dcterms:identifier xml:lang="en">{"id": "4fbfe87d-478c-4ef2-b0c7-25d4d4ef1a8f", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:abs"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">{"id": "c4bdd35c-a226-4620-b22e-a5dd2312c63c", "value": "abs"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/823def68-a35c-3a00-b80b-54f802dcfa08">
+    <skos:prefLabel xml:lang="nl">{"id": "101e1f14-59d4-4af8-ae0b-bdeb452ec377", "value": "mt"}</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">{"id": "a2b12895-c0eb-46af-96a0-524e8c31158f", "value": "Meertalige titel"}</skos:altLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <dcterms:identifier xml:lang="en">{"id": "75f1f20d-671b-4228-bfff-b1abfa8bf582", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:mt"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/f4d8b5ff-bdc0-3c72-9113-a9a0b52ecf4b">
+    <skos:altLabel xml:lang="nl">{"id": "66629cd3-5182-461c-be8d-2e54364145b1", "value": "Met"}</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">{"id": "3035be3d-80fb-4156-aab9-63ddfb2dde33", "value": "wi"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <dcterms:identifier xml:lang="en">{"id": "e8fe8a58-ffb7-45c0-97f2-f52e156265f8", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:wi"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/c51643fd-411e-376c-83ea-518e874c2cb1">
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <dcterms:identifier xml:lang="en">{"id": "7f694275-7e43-47f3-9d52-8a959d7feffe", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:rep"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">{"id": "214e9702-da9f-48a6-beec-d0798fe13440", "value": "rep"}</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">{"id": "6230d0ef-d7af-4c2b-bd8b-61c3e783edae", "value": "Reprint van uitgave"}</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/358225fa-1108-302c-b414-dfbbe6bdb4c7">
+    <skos:altLabel xml:lang="nl">{"id": "75d9b52c-9627-43e0-af44-cc1328fbeefb", "value": "Niet verschenen in"}</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">{"id": "4e8891f5-934f-4b19-8fce-b2db756bbcce", "value": "sus"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <dcterms:identifier xml:lang="en">{"id": "77c9f468-27d3-4cde-8491-ab4297e97a76", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:sus"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/fe1af59c-54a1-3b03-8278-fcea2411647c">
+    <dcterms:identifier xml:lang="en">{"id": "02d31868-4624-491d-9a1f-880dbe78dd5b", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:orit"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <skos:altLabel xml:lang="nl">{"id": "53138f7d-48ad-4db2-853c-affaff5fe041", "value": "Oorspronkelijke titel"}</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">{"id": "ff6c9ca8-4bbd-43c5-af11-6ff20e38360f", "value": "orit"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/b1dc9ade-97d6-3b2c-b1b6-e73d0b7e61d5">
+    <skos:altLabel xml:lang="nl">{"id": "25049c78-792c-428d-b300-5996bad4d9e3", "value": "Papier naar elektronische versie"}</skos:altLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <skos:prefLabel xml:lang="nl">{"id": "769f1914-d3fd-4660-a9a2-08686053c9e8", "value": "pne"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "989c67a6-0d52-43a3-a384-6e9f5e09bfbf", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:pne"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/b8154235-9e6f-3244-b238-faf192c10597">
+    <skos:altLabel xml:lang="nl">{"id": "829dff98-20bd-4991-9f87-4cbe095b8f42", "value": "Bibliografische referentie"}</skos:altLabel>
+    <dcterms:identifier xml:lang="en">{"id": "8a875f2c-bed8-46a4-acb1-3eb9e76e8c6b", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:br"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <skos:prefLabel xml:lang="nl">{"id": "8a4c8306-996b-46a6-83fd-76925f0fe794", "value": "br"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/9a25cd3c-f98d-389a-8759-e2e472c6684e">
+    <skos:prefLabel xml:lang="nl">{"id": "ecd49f51-880e-4725-8166-de2a59efc571", "value": "av"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "0d7314b2-9706-4d67-94ac-93e4c570de21", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:av"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <skos:altLabel xml:lang="nl">{"id": "318f81ab-22d2-4931-9c74-ba6c472fa89b", "value": "Auteursnaam varieert"}</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/78ac2032-e7d4-3a0e-a79c-785c3fc5abd1">
+    <skos:prefLabel xml:lang="nl">{"id": "7aab722d-0b31-4766-ae87-710f8dd60955", "value": "cob"}</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">{"id": "75b89043-a3c8-4eb5-a267-c4319b06aced", "value": "Opnieuw voortzetting van"}</skos:altLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <dcterms:identifier xml:lang="en">{"id": "53b2a2c5-333d-4874-ad79-53e47678e2ad", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:cob"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/cf3c2a04-ee4a-3575-ac4a-eb68d44dbc80">
+    <skos:altLabel xml:lang="nl">{"id": "631f9712-5052-448c-8040-5fc57addda7d", "value": "Graad (digitale thesis)"}</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">{"id": "920b0f13-3a98-4819-900a-5dc293e77b89", "value": "etd-degree"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "c91f1017-f15e-4108-902c-d30ad1a04e66", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:etd-degree"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/895b3aca-2e84-3f0d-af44-ad371923d138">
+    <skos:prefLabel xml:lang="nl">{"id": "c62808b8-0f75-4cfb-b4f6-8f80b95f8b86", "value": "rec"}</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">{"id": "d7059a73-4d06-4c37-8aa5-42bbba81176d", "value": "Gerecenseerd in"}</skos:altLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <dcterms:identifier xml:lang="en">{"id": "8436e746-a7e3-4550-a219-32975edafd46", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:rec"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/9c6d4d64-cd2c-3791-88ba-bdf1acc8a147">
+    <skos:altLabel xml:lang="nl">{"id": "e8699dda-cd91-4e6e-b3c5-38608db31d48", "value": "Afgesplitst van"}</skos:altLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <skos:prefLabel xml:lang="nl">{"id": "6bdca28e-0bff-47b9-abda-f00711772e34", "value": "sf"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "a8df5294-4c49-491c-a9dc-f95409f1520f", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:sf"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/5e62c2ee-560d-32e4-9a05-38c27d3a3916">
+    <skos:prefLabel xml:lang="nl">{"id": "81cee4a6-abfc-4d4c-8331-c34833027dde", "value": "ex"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "711a74b8-e22a-45cf-ba7f-b2c2099c279c", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:ex"}</dcterms:identifier>
+    <skos:altLabel xml:lang="nl">{"id": "3526f916-31cd-40ac-8c17-fe20e89cb23d", "value": "Tentoonstelling"}</skos:altLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/012d32c4-78d1-35e1-b864-bb86ae8066a1">
+    <skos:prefLabel xml:lang="nl">{"id": "77b2625d-ed23-4588-b2f4-3ae254b1faf9", "value": "tho"}</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">{"id": "5f4e450b-412d-452d-bba3-e85df2e4572c", "value": "Eindwerk"}</skos:altLabel>
+    <dcterms:identifier xml:lang="en">{"id": "8a7b389a-2d62-40c9-8e6b-e3fd095584a3", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:tho"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/9bc88ec8-792b-31cb-92c9-ebf85023e9cd">
+    <skos:altLabel xml:lang="nl">{"id": "008b97a1-d6c9-4672-814e-3eae3e57c0f1", "value": "Vertaling van"}</skos:altLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <skos:prefLabel xml:lang="nl">{"id": "744648dc-20af-438e-ac0e-48efae543d27", "value": "to"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "c934e7ff-483c-43f8-9be6-cf0b93123740", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:to"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/25d8f4db-f299-327c-ae64-077a51c2e3b4">
+    <skos:altLabel xml:lang="nl">{"id": "c552d21a-7b0e-4a8b-8373-95f3ffb330c6", "value": "Facsimile"}</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">{"id": "bc9dff0c-ded8-4c8d-9372-3bb44ff9ab4b", "value": "fac"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "f90e82ba-a7cb-46da-8e90-4bbcfced89dc", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:fac"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/5d9ec938-15d7-31b5-b209-1bd683840bb6">
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <dcterms:identifier xml:lang="en">{"id": "488dab54-7180-416a-ad8a-e81810b1eae1", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:cbo"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">{"id": "90bdcd02-ceb1-43cc-8a4c-569b04a6048f", "value": "cbo"}</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">{"id": "c45bc430-d876-46d6-9fe9-a730c4a4c4b2", "value": "Opnieuw voortgezet door"}</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/6a16eb27-bfc8-3e9b-931a-55f887c2e912">
+    <skos:prefLabel xml:lang="nl">{"id": "e672fb08-78dc-47cb-b093-525a2cd5daa1", "value": "cuo"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <dcterms:identifier xml:lang="en">{"id": "a8398a1a-b316-4455-aaa4-8ef56260a56e", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:cuo"}</dcterms:identifier>
+    <skos:altLabel xml:lang="nl">{"id": "0f685203-c58e-4cbd-8c3f-9748af7ce386", "value": "Cumulatie van"}</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/7793d66f-a3e8-3510-b687-fcd6466b477b">
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <dcterms:identifier xml:lang="en">{"id": "83543b77-7e25-4e4f-94a2-cf5bfc03f706", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:vv"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">{"id": "99147abd-3b61-4d52-a24f-09ffa06dc38c", "value": "vv"}</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">{"id": "36d9f3d2-7317-49e7-ac73-f9612007e4c4", "value": "Bestaat uit"}</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/bbf73c99-0b19-3595-94af-528482374f2f">
+    <skos:prefLabel xml:lang="nl">{"id": "7bbb0e01-2c66-469f-9313-978e187fe7ac", "value": "rp"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <dcterms:identifier xml:lang="en">{"id": "ff3879f1-fc13-49e3-bdeb-bc5f7ea21223", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:rp"}</dcterms:identifier>
+    <skos:altLabel xml:lang="nl">{"id": "52777880-0031-4f3d-b62d-8b08180e8a94", "value": "Overdruk uit"}</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/339cde89-4d97-3169-aef7-75fc3c84fa14">
+    <skos:prefLabel xml:lang="nl">{"id": "11502ea5-e267-4074-8b3f-c16408b5bb78", "value": "ak"}</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">{"id": "a1da1084-e1e8-44b0-9efa-aaa4a3f11f94", "value": "In"}</skos:altLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <dcterms:identifier xml:lang="en">{"id": "456b0f64-8e50-43b3-a1ff-09252a17c4d4", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:ak"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/a6c1df2f-9052-3e07-b848-c81ca9ba3b71">
+    <skos:prefLabel xml:lang="nl">{"id": "13131133-5415-4722-836b-710e67f800ae", "value": "etd-grant"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "6174b8f0-b597-43a3-b751-cb9bf7af228d", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:etd-grant"}</dcterms:identifier>
+    <skos:altLabel xml:lang="nl">{"id": "34f98370-81d5-40a2-9151-a10471a11720", "value": "Instelling (digitale thesis)"}</skos:altLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/ceb2173d-432a-38eb-9b3c-60ace41aaa3f">
+    <dcterms:identifier xml:lang="en">{"id": "ec82e795-6948-4baf-a269-5103f9c90c76", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:ewi"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <skos:altLabel xml:lang="nl">{"id": "258d2f66-c617-41b9-809f-a347bd3bd0e3", "value": "Samen met"}</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">{"id": "26eaa802-4d22-4874-99c2-84fd8b9b31da", "value": "ewi"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/953c1e32-b742-3cac-b72d-dfd36754aed8">
+    <skos:prefLabel xml:lang="nl">{"id": "f1593292-e598-4844-8f51-0e1526985d9a", "value": "cong"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "da196f7f-31ed-46bb-975c-0cf05d60f13e", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:cong"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <skos:altLabel xml:lang="nl">{"id": "e97f72e9-9532-48d1-80b4-14046d1f096e", "value": "Congres"}</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/22b6d954-b16c-3fe9-9fb3-ab300ed5a3a8">
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <dcterms:identifier xml:lang="en">{"id": "297495b7-b369-48ca-badb-8fd7a1375865", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:pub"}</dcterms:identifier>
+    <skos:altLabel xml:lang="nl">{"id": "49a1ede0-34ff-4550-84a1-83cbc65ad9b9", "value": "Uitgegeven door/in"}</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">{"id": "4d5891a9-59ad-40cc-ba7c-3cd1c20c9bcd", "value": "pub"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/a636d846-6604-3244-8432-10ecc6ad1b87">
+    <dcterms:identifier xml:lang="en">{"id": "3c59e247-2299-4815-93fa-94f48a7350cb", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:prom"}</dcterms:identifier>
+    <skos:altLabel xml:lang="nl">{"id": "ec74fd96-711a-4a08-9b72-59aa31f37904", "value": "Promotor"}</skos:altLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <skos:prefLabel xml:lang="nl">{"id": "5758acfd-aef4-4448-a058-0e2b2cd04044", "value": "prom"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/5464d76b-86f4-3d6e-b537-2626cd02f866">
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <dcterms:identifier xml:lang="en">{"id": "2b27fce2-9500-4085-8879-1cc1f0c97e20", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:cb"}</dcterms:identifier>
+    <skos:altLabel xml:lang="nl">{"id": "36d73eec-b766-4229-af25-c2f890b76857", "value": "Voortgezet door"}</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">{"id": "5f854c09-c4ba-42f5-a0ed-dfecd73e1e25", "value": "cb"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/fcefe0a3-2995-35c6-b298-ba79cdd061f1">
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+    <skos:altLabel xml:lang="nl">{"id": "a7200e71-fd5c-47b9-9be7-302239e6f8a4", "value": "Meestal samen uitgegeven met"}</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">{"id": "647767b9-09b8-41fa-a013-9ef8b0074b41", "value": "iswi"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "63f078e5-9305-486e-b31c-87ec9ee75085", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:iswi"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/602cfca4-00c5-3fd2-83f2-be8a219d884b">
+    <skos:altLabel xml:lang="nl">{"id": "bd8dfacc-4c14-4ca7-b097-d10b73c1e6f4", "value": "Voortzetting van"}</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">{"id": "6f235856-bc0c-46b3-8104-350554bd93ff", "value": "co"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "d130118d-99cf-459f-bb3f-7b3cdf75b208", "value": "https://data.antwerp.be/id/concept/brocade-catalog/nt_ty:co"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/7f2bb104-31b9-317d-a9ab-4da50edf0abb"/>
+  </skos:Concept>
+</rdf:RDF>

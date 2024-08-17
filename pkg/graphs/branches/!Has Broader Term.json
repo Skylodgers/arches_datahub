@@ -1,0 +1,231 @@
+{
+    "graph": [
+        {
+            "author": "",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "3c9cbe42-18e2-11ef-8fc9-960002548b4f",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": {
+                        "nl": ""
+                    },
+                    "graph_id": "3c9cbbfc-18e2-11ef-8261-960002548b4f",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": "",
+                        "nl": ""
+                    },
+                    "helptitle": {
+                        "en": "",
+                        "nl": ""
+                    },
+                    "instructions": {
+                        "en": "",
+                        "nl": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "nl": "!Has Broader Term"
+                    },
+                    "nodegroup_id": "3c9cbd03-18e2-11ef-8207-960002548b4f",
+                    "sortorder": null,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "3c9cbe42-18e2-11ef-8fc9-960002548b4f",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Ruimer Concept URI",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "3c9cbf90-18e2-11ef-946c-960002548b4f",
+                    "label": {
+                        "en": "Ruimer Concept URI"
+                    },
+                    "node_id": "3c9cbd03-18e2-11ef-8207-960002548b4f",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "3c9cbe42-18e2-11ef-8fc9-960002548b4f",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Ruimer Concept Label",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "3c9cbfe3-18e2-11ef-97b0-960002548b4f",
+                    "label": {
+                        "en": "Ruimer Concept Label"
+                    },
+                    "node_id": "3c9cbf10-18e2-11ef-8c45-960002548b4f",
+                    "sortorder": 1,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                }
+            ],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "nl": ""
+            },
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "3c9cbd03-18e2-11ef-8207-960002548b4f",
+                    "edgeid": "3c9cc157-18e2-11ef-860f-960002548b4f",
+                    "graph_id": "3c9cbbfc-18e2-11ef-8261-960002548b4f",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "rangenode_id": "3c9cbf10-18e2-11ef-8c45-960002548b4f"
+                }
+            ],
+            "functions_x_graphs": [],
+            "graphid": "3c9cbbfc-18e2-11ef-8261-960002548b4f",
+            "iconclass": "fa fa-plus",
+            "is_editable": true,
+            "isresource": false,
+            "jsonldcontext": null,
+            "name": {
+                "nl": "!Has Broader Term"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "3c9cbd03-18e2-11ef-8207-960002548b4f",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "has_broader_term",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "74c87bc1-8a29-437a-88cc-3f49837dfc4e",
+                                "name": "!! Referenced model does not exist -- Delete and select a new model !!"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "3c9cbbfc-18e2-11ef-8261-960002548b4f",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "!Has Broader Term",
+                    "nodegroup_id": "3c9cbd03-18e2-11ef-8207-960002548b4f",
+                    "nodeid": "3c9cbd03-18e2-11ef-8207-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                    "parentproperty": "",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "has_broader_term_label",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "3c9cbbfc-18e2-11ef-8261-960002548b4f",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Has Broader Term Label",
+                    "nodegroup_id": "3c9cbd03-18e2-11ef-8207-960002548b4f",
+                    "nodeid": "3c9cbf10-18e2-11ef-8c45-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "sortorder": 0
+                }
+            ],
+            "ontology_id": "83a164f7-2ec1-48db-bdd8-b73779c339c9",
+            "publication": {
+                "graph_id": "3c9cbbfc-18e2-11ef-8261-960002548b4f",
+                "notes": null,
+                "publicationid": "8530a6e5-18e2-11ef-a33b-960002548b4f",
+                "published_time": "2024-05-23T03:57:44.800",
+                "user_id": 3
+            },
+            "relatable_resource_model_ids": [],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": "has_broader_term",
+                "config": {
+                    "graphs": [
+                        {
+                            "graphid": "74c87bc1-8a29-437a-88cc-3f49837dfc4e",
+                            "name": "!! Referenced model does not exist -- Delete and select a new model !!"
+                        }
+                    ],
+                    "searchDsl": "",
+                    "searchString": ""
+                },
+                "datatype": "resource-instance",
+                "description": null,
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "3c9cbbfc-18e2-11ef-8261-960002548b4f",
+                "hascustomalias": false,
+                "is_collector": true,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "!Has Broader Term",
+                "nodegroup_id": "3c9cbd03-18e2-11ef-8207-960002548b4f",
+                "nodeid": "3c9cbd03-18e2-11ef-8207-960002548b4f",
+                "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                "sortorder": 0
+            },
+            "slug": null,
+            "subtitle": {
+                "nl": "P127_has_broader_term"
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ],
+    "metadata": {
+        "db": "PostgreSQL 15.5 (Debian 15.5-0+deb12u1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit",
+        "git hash": "fatal: not a git repository (or any of the parent directories): .git",
+        "os": "Linux",
+        "os version": "6.1.0-13-amd64"
+    }
+}

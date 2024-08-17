@@ -1,0 +1,2589 @@
+{
+    "graph": [
+        {
+            "author": "Vincent van Beek",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "00c1e98c-e612-45d3-a719-7d732d06abc3",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "00c1e98c-e612-45d3-a719-7d732d06abc3",
+                            "constraintid": "49d90597-fcef-487a-aa24-cd69bc931aee",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "00c1e98c-e612-45d3-a719-7d732d06abc3",
+                            "constraintid": "372c2eaf-d02e-42fb-a71e-a7c950f583f8",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "helptitle": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "instructions": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "nl": "Merk bibliografie"
+                    },
+                    "nodegroup_id": "4f528283-ca72-11ee-b40c-960002548b4f",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "1af881c3-1bbd-420f-bfb6-8d2b53974132",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "1af881c3-1bbd-420f-bfb6-8d2b53974132",
+                            "constraintid": "a7c7c9c8-9fd4-4a24-bd23-c041f6620c47",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "1af881c3-1bbd-420f-bfb6-8d2b53974132",
+                            "constraintid": "00965464-fb28-4579-a8b7-d89ce609ed36",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "helptitle": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "instructions": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "nl": "Merk gerelateerd object"
+                    },
+                    "nodegroup_id": "5288cf65-ca6b-11ee-9862-960002548b4f",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "407f74a9-f4ed-460f-ba90-cb8d61febfe8",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "407f74a9-f4ed-460f-ba90-cb8d61febfe8",
+                            "constraintid": "e77e2ade-13e5-44ba-bb1a-5e5ee218c017",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "407f74a9-f4ed-460f-ba90-cb8d61febfe8",
+                            "constraintid": "674787eb-a091-47f4-893d-c76932009ec9",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "helptitle": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "instructions": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "nl": "Merk titel"
+                    },
+                    "nodegroup_id": "aa0d5d9c-ca69-11ee-b573-960002548b4f",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "4b637771-53df-4806-beaa-24ae22adde53",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "4b637771-53df-4806-beaa-24ae22adde53",
+                            "constraintid": "fd990cbd-a8d9-430a-982d-0b371493f101",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "4b637771-53df-4806-beaa-24ae22adde53",
+                            "constraintid": "1bb3b9ba-76f8-48a9-99e3-c6e1006037f6",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "helptitle": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "instructions": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "nl": "Mark Description"
+                    },
+                    "nodegroup_id": "5ae5240b-ca6a-11ee-a9a5-960002548b4f",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "59eb983f-1045-413a-9fd5-5316136c5e40",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "59eb983f-1045-413a-9fd5-5316136c5e40",
+                            "constraintid": "62f14a23-a67c-4aac-820a-f5f8514b46f3",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "59eb983f-1045-413a-9fd5-5316136c5e40",
+                            "constraintid": "50c61f1d-c55c-4ddd-b80b-0be3bc469dad",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "helptitle": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "instructions": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "nl": "Mark Keyword"
+                    },
+                    "nodegroup_id": "9cd1d5ef-ca6e-11ee-8557-960002548b4f",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "785d39ea-3c76-4f34-a885-c427a6526d15",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "785d39ea-3c76-4f34-a885-c427a6526d15",
+                            "constraintid": "57b147ae-4ae2-4ad1-8abe-b53d7e3a343f",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "785d39ea-3c76-4f34-a885-c427a6526d15",
+                            "constraintid": "48b6c9df-6054-47a6-af64-c40122a1e926",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "helptitle": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "instructions": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "nl": "Mark Place"
+                    },
+                    "nodegroup_id": "5772435f-ca71-11ee-a86e-960002548b4f",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "7f1adfb7-3a4d-4d2b-acf8-d2484ce13195",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "7f1adfb7-3a4d-4d2b-acf8-d2484ce13195",
+                            "constraintid": "0484f05e-be7c-4fbb-8f32-7e9e9432254b",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "7f1adfb7-3a4d-4d2b-acf8-d2484ce13195",
+                            "constraintid": "fcff9047-6b86-4e45-955f-f9b0fdf85e23",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "helptitle": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "instructions": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "nl": "Mark Note"
+                    },
+                    "nodegroup_id": "d729cdc3-ca6f-11ee-b8ca-960002548b4f",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "8e6ab164-d303-4f19-a094-75d6b0211104",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "8e6ab164-d303-4f19-a094-75d6b0211104",
+                            "constraintid": "97186057-333d-4b96-b356-6a8142bd4abf",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "8e6ab164-d303-4f19-a094-75d6b0211104",
+                            "constraintid": "304ee7ea-4811-4bc5-b934-4d71e66e6be0",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "helptitle": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "instructions": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "nl": "Merk vorm"
+                    },
+                    "nodegroup_id": "2ed5a590-ca6e-11ee-99ee-960002548b4f",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "9009ad1d-87fd-4c58-a0cd-ae3a36e5c706",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "9009ad1d-87fd-4c58-a0cd-ae3a36e5c706",
+                            "constraintid": "1fe8c584-a526-4538-96e3-f9597f6e72fa",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "9009ad1d-87fd-4c58-a0cd-ae3a36e5c706",
+                            "constraintid": "5636dd5d-23b4-46c2-83e6-bb5c01a01db2",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "helptitle": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "instructions": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "nl": "Mark Image"
+                    },
+                    "nodegroup_id": "b4a2ba81-ca71-11ee-b3cf-960002548b4f",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "9f0ab3d8-0ed1-45bb-a2a9-7fdd4cf76fcb",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "9f0ab3d8-0ed1-45bb-a2a9-7fdd4cf76fcb",
+                            "constraintid": "5921db2a-3bc1-4557-835c-11a7ad4e0f76",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "9f0ab3d8-0ed1-45bb-a2a9-7fdd4cf76fcb",
+                            "constraintid": "55546187-9fce-45bb-bd70-bd690ae90b42",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "helptitle": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "instructions": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "nl": "Merk tijdsspanne"
+                    },
+                    "nodegroup_id": "0281cff0-ca70-11ee-8755-960002548b4f",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "c10293e1-2b83-4a41-8b9c-838fc09ff44a",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "c10293e1-2b83-4a41-8b9c-838fc09ff44a",
+                            "constraintid": "3b46a8ce-6937-4184-9107-60f1abf958e8",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "c10293e1-2b83-4a41-8b9c-838fc09ff44a",
+                            "constraintid": "cc000ab8-54a3-407f-b422-93aacd7ee3f1",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "helptitle": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "instructions": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "nl": "Mark Type"
+                    },
+                    "nodegroup_id": "daa0159b-ca6d-11ee-8620-960002548b4f",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "db8e4519-cb65-4a89-9386-6fcda1f185ab",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "db8e4519-cb65-4a89-9386-6fcda1f185ab",
+                            "constraintid": "770e20c3-8bc1-436c-982c-bb3f863f3627",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "db8e4519-cb65-4a89-9386-6fcda1f185ab",
+                            "constraintid": "a1cfc8b6-d87e-487e-a3c7-1d76d6760928",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "helptitle": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "instructions": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "nl": "Merk materiaal"
+                    },
+                    "nodegroup_id": "082c17c3-ca76-11ee-99e6-960002548b4f",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "f1290c5e-cf57-464d-8e3e-51692cdbe8d5",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "f1290c5e-cf57-464d-8e3e-51692cdbe8d5",
+                            "constraintid": "88b1f358-10ca-40f3-a1c7-d28f5efe5679",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "f1290c5e-cf57-464d-8e3e-51692cdbe8d5",
+                            "constraintid": "d05d08f6-e33b-4e89-a014-398c6e803869",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "helptitle": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "instructions": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "nl": "Mark Actor"
+                    },
+                    "nodegroup_id": "7c1edcb3-ca6c-11ee-9280-960002548b4f",
+                    "sortorder": null,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "c10293e1-2b83-4a41-8b9c-838fc09ff44a",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Mark Type",
+                        "placeholder": {
+                            "nl": ""
+                        }
+                    },
+                    "id": "0f6d8d27-ca34-484e-a114-4b557a39f91b",
+                    "label": {
+                        "nl": "Mark Type"
+                    },
+                    "node_id": "daa0159b-ca6d-11ee-8620-960002548b4f",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "00c1e98c-e612-45d3-a719-7d732d06abc3",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Merk bibliografie URI",
+                        "placeholder": {
+                            "nl": ""
+                        }
+                    },
+                    "id": "21d44f9e-c235-4e2c-a445-40902d131354",
+                    "label": {
+                        "nl": "Merk bibliografie URI"
+                    },
+                    "node_id": "4f528283-ca72-11ee-b40c-960002548b4f",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "407f74a9-f4ed-460f-ba90-cb8d61febfe8",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            },
+                            "nl": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Merk titel inhoud",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "2623f946-e0ce-45a7-bb99-5ba0f824add6",
+                    "label": {
+                        "nl": "Merk titel inhoud"
+                    },
+                    "node_id": "ec77afd4-ca69-11ee-87d1-960002548b4f",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "00c1e98c-e612-45d3-a719-7d732d06abc3",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            },
+                            "nl": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Merk bibliografie opmerking",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "2a2dd61a-ca53-461a-8f48-2ba89f5d457f",
+                    "label": {
+                        "nl": "Merk bibliografie opmerking"
+                    },
+                    "node_id": "dab5662f-ca72-11ee-a844-960002548b4f",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "00c1e98c-e612-45d3-a719-7d732d06abc3",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            },
+                            "nl": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Merk bibliografie pagina",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "391b7de4-9df9-43bb-86be-1485ea592aeb",
+                    "label": {
+                        "nl": "Merk bibliografie pagina"
+                    },
+                    "node_id": "0cf41490-ca73-11ee-bf47-960002548b4f",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "8e6ab164-d303-4f19-a094-75d6b0211104",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Merk vorm URI",
+                        "placeholder": {
+                            "nl": ""
+                        }
+                    },
+                    "id": "422ff355-aaee-47bb-ada0-c39f4c130955",
+                    "label": {
+                        "nl": "Merk vorm URI"
+                    },
+                    "node_id": "2ed5a590-ca6e-11ee-99ee-960002548b4f",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "9f0ab3d8-0ed1-45bb-a2a9-7fdd4cf76fcb",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            },
+                            "nl": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Merk tijdsspanne einde",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "4eb20b3b-5f2c-4e89-98ac-cb79ac4ea125",
+                    "label": {
+                        "nl": "Merk tijdsspanne einde"
+                    },
+                    "node_id": "fde5e6e5-ca70-11ee-8e1b-960002548b4f",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "785d39ea-3c76-4f34-a885-c427a6526d15",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Mark Place",
+                        "placeholder": {
+                            "nl": ""
+                        }
+                    },
+                    "id": "606b3f79-7685-4c0b-9274-e8141f4182b2",
+                    "label": {
+                        "nl": "Mark Place"
+                    },
+                    "node_id": "5772435f-ca71-11ee-a86e-960002548b4f",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "7f1adfb7-3a4d-4d2b-acf8-d2484ce13195",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Mark Note",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "7d2838c7-d0c6-440c-a80e-abeb3fcad755",
+                    "label": {
+                        "nl": "Mark Note"
+                    },
+                    "node_id": "d729cdc3-ca6f-11ee-b8ca-960002548b4f",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "db8e4519-cb65-4a89-9386-6fcda1f185ab",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            },
+                            "nl": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Merk materiaal label",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "8efd08fa-7134-4abf-a97d-f3ec111a777b",
+                    "label": {
+                        "nl": "Merk materiaal label"
+                    },
+                    "node_id": "49250704-ca7b-11ee-a6b0-960002548b4f",
+                    "sortorder": 1,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "1af881c3-1bbd-420f-bfb6-8d2b53974132",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Mark Related Object",
+                        "placeholder": {
+                            "nl": ""
+                        }
+                    },
+                    "id": "9fbf674c-8749-4173-99b9-ad813aee3623",
+                    "label": {
+                        "nl": "Mark Related Object"
+                    },
+                    "node_id": "5288cf65-ca6b-11ee-9862-960002548b4f",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "8e6ab164-d303-4f19-a094-75d6b0211104",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            },
+                            "nl": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Merk vorm label",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "ae15e68c-d3a8-4ff9-a42a-e764811985c2",
+                    "label": {
+                        "nl": "Merk vorm label"
+                    },
+                    "node_id": "d3affcf2-ca7b-11ee-bd8e-960002548b4f",
+                    "sortorder": 1,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "db8e4519-cb65-4a89-9386-6fcda1f185ab",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Merk materiaal naam URI",
+                        "placeholder": {
+                            "nl": ""
+                        }
+                    },
+                    "id": "c13fcbae-854b-4668-afb8-286fef1b72cb",
+                    "label": {
+                        "nl": "Merk materiaal naam URI"
+                    },
+                    "node_id": "2b2d0b1a-ca76-11ee-8eb3-960002548b4f",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "407f74a9-f4ed-460f-ba90-cb8d61febfe8",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Merk titel taal",
+                        "placeholder": {
+                            "nl": ""
+                        }
+                    },
+                    "id": "c6c311c3-edb6-4992-b273-b6e3b3674848",
+                    "label": {
+                        "nl": "Merk titel taal"
+                    },
+                    "node_id": "1a770b2f-ca6a-11ee-8e0d-960002548b4f",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "1af881c3-1bbd-420f-bfb6-8d2b53974132",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            },
+                            "nl": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Mark Position Label",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "f21ccc5f-6191-489a-bfdb-2aa54c4e0ad9",
+                    "label": {
+                        "nl": "Mark Position Label"
+                    },
+                    "node_id": "07fef3f8-ca6c-11ee-b89b-960002548b4f",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "9f0ab3d8-0ed1-45bb-a2a9-7fdd4cf76fcb",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            },
+                            "nl": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Merk tijdsspanne begin",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "f8836411-ab00-4390-8e86-28d72428fadb",
+                    "label": {
+                        "nl": "Merk tijdsspanne begin"
+                    },
+                    "node_id": "eaa66deb-ca70-11ee-9b97-960002548b4f",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                }
+            ],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "nl": ""
+            },
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "b8df2b6b-ca70-11ee-a936-960002548b4f",
+                    "edgeid": "0170993a-577a-449e-99e5-de1bef6bda23",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end",
+                    "rangenode_id": "fde5e6e5-ca70-11ee-8e1b-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "52918bea-ca69-11ee-b98e-960002548b4f",
+                    "edgeid": "06b1438b-0d20-4721-830c-3bf3bf39864d",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P138_represents",
+                    "rangenode_id": "5772435f-ca71-11ee-a86e-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "5772435f-ca71-11ee-a86e-960002548b4f",
+                    "edgeid": "0b4ac19f-6e13-4b90-a374-e5e9f1f29956",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "rangenode_id": "bf1262c9-ca7a-11ee-8b78-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "daa0159b-ca6d-11ee-8620-960002548b4f",
+                    "edgeid": "0db40207-6ce6-43d6-9cf9-4b0eac8c1a9f",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "rangenode_id": "31e77081-ca7b-11ee-b9d5-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "4f528283-ca72-11ee-b40c-960002548b4f",
+                    "edgeid": "1594470f-0479-4471-afa7-de702d46bfc3",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P3_has_note",
+                    "rangenode_id": "dab5662f-ca72-11ee-a844-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "2ed5a590-ca6e-11ee-99ee-960002548b4f",
+                    "edgeid": "1764efbc-c0ea-4ea7-9906-8633465ca464",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "rangenode_id": "09196ea0-fb07-11ee-8f8a-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "2ed5a590-ca6e-11ee-99ee-960002548b4f",
+                    "edgeid": "1c43a0e5-4605-4ecc-8faf-c4408485ea1d",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "rangenode_id": "d3affcf2-ca7b-11ee-bd8e-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "55516444-fb07-11ee-879a-960002548b4f",
+                    "edgeid": "1dca80ba-5a21-468d-a5e6-0b0e86eecc00",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "rangenode_id": "9bef7278-fb07-11ee-8658-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "09196ea0-fb07-11ee-8f8a-960002548b4f",
+                    "edgeid": "2a83d4c4-1cc5-4165-854b-3167ff767c1d",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "rangenode_id": "18361338-fb07-11ee-8aec-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "52918bea-ca69-11ee-b98e-960002548b4f",
+                    "edgeid": "2ac83dfa-8097-4893-9c00-fb73ef48f3ec",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P3_has_note",
+                    "rangenode_id": "d729cdc3-ca6f-11ee-b8ca-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "5ae5240b-ca6a-11ee-a9a5-960002548b4f",
+                    "edgeid": "2d82cbe8-ed69-4c1f-a3bc-7fd518e295ef",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "rangenode_id": "e9449c8d-ca6a-11ee-b0be-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "52918bea-ca69-11ee-b98e-960002548b4f",
+                    "edgeid": "330ce016-8801-439e-8651-116dbecd02bc",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P129i_is_subject_of",
+                    "rangenode_id": "4f528283-ca72-11ee-b40c-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "aa0d5d9c-ca69-11ee-b573-960002548b4f",
+                    "edgeid": "4c0b5b7f-828f-4355-9ae0-18af84f1b4f2",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P72_has_language",
+                    "rangenode_id": "1a770b2f-ca6a-11ee-8e0d-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "52918bea-ca69-11ee-b98e-960002548b4f",
+                    "edgeid": "4c8d899e-93a4-4449-88db-252eb69272bb",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P01i_is_domain_of",
+                    "rangenode_id": "7c1edcb3-ca6c-11ee-9280-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "9cd1d5ef-ca6e-11ee-8557-960002548b4f",
+                    "edgeid": "5ab8555a-09e8-4796-9a21-cf3ac1e5b32d",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "rangenode_id": "55516444-fb07-11ee-879a-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "5ae5240b-ca6a-11ee-a9a5-960002548b4f",
+                    "edgeid": "5c69648a-d4ff-45ec-905c-db4b3d325c66",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
+                    "rangenode_id": "bbb6ab27-ca6a-11ee-bb23-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "7c1edcb3-ca6c-11ee-9280-960002548b4f",
+                    "edgeid": "60f4874d-524a-4a7d-bd2c-57a7864eab36",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P02_has_range",
+                    "rangenode_id": "a626ee40-ca6c-11ee-98e6-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "4f528283-ca72-11ee-b40c-960002548b4f",
+                    "edgeid": "61685d9f-c20f-46c6-8a32-587e82ef643b",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P3_has_note",
+                    "rangenode_id": "0cf41490-ca73-11ee-bf47-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "2b2d0b1a-ca76-11ee-8eb3-960002548b4f",
+                    "edgeid": "63eb2072-bd6c-4f1c-a5c5-8f0e46edb1d7",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "rangenode_id": "49250704-ca7b-11ee-a6b0-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "a626ee40-ca6c-11ee-98e6-960002548b4f",
+                    "edgeid": "642b6b8e-4d97-48bf-8fc2-197a520033cf",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "rangenode_id": "fc428114-ca7a-11ee-8136-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "52918bea-ca69-11ee-b98e-960002548b4f",
+                    "edgeid": "656d1305-93e2-4bf6-9adb-a94e65d9d637",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
+                    "rangenode_id": "aa0d5d9c-ca69-11ee-b573-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "b8df2b6b-ca70-11ee-a936-960002548b4f",
+                    "edgeid": "6701aaa1-f368-499a-a6fa-ff63fe265eab",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin",
+                    "rangenode_id": "eaa66deb-ca70-11ee-9b97-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "52918bea-ca69-11ee-b98e-960002548b4f",
+                    "edgeid": "93c62d37-dcc8-417c-818d-7a36da598e4c",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P138_represents",
+                    "rangenode_id": "9cd1d5ef-ca6e-11ee-8557-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "29afad8c-fb07-11ee-9832-960002548b4f",
+                    "edgeid": "95a70c45-a32b-43eb-9595-b1f7427a99b7",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "rangenode_id": "3aecbfc8-fb07-11ee-aa59-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "daa0159b-ca6d-11ee-8620-960002548b4f",
+                    "edgeid": "9a6e5aeb-6369-48c4-950d-2b81976eeaa3",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "rangenode_id": "29afad8c-fb07-11ee-9832-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "52918bea-ca69-11ee-b98e-960002548b4f",
+                    "edgeid": "a0082809-d8d2-4905-8a93-22cd5d8b620a",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P129i_is_subject_of",
+                    "rangenode_id": "5ae5240b-ca6a-11ee-a9a5-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "b4a2ba81-ca71-11ee-b3cf-960002548b4f",
+                    "edgeid": "a9a6e3c3-04dc-44a7-828e-5c9c7d335ab0",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "https://linked.art/ns/terms/digitally_carried_by",
+                    "rangenode_id": "c5f9f36e-ca71-11ee-8e46-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "52918bea-ca69-11ee-b98e-960002548b4f",
+                    "edgeid": "ad878813-1189-461d-9efb-f3b58526fd77",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P138i_has_representation",
+                    "rangenode_id": "b4a2ba81-ca71-11ee-b3cf-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "aa0d5d9c-ca69-11ee-b573-960002548b4f",
+                    "edgeid": "af36a14a-9664-4826-9d4d-4ff135be2997",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
+                    "rangenode_id": "ec77afd4-ca69-11ee-87d1-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "52918bea-ca69-11ee-b98e-960002548b4f",
+                    "edgeid": "bc05587a-0e87-491a-b337-9364a928b352",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "rangenode_id": "2ed5a590-ca6e-11ee-99ee-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "4f528283-ca72-11ee-b40c-960002548b4f",
+                    "edgeid": "c02973f1-fdb2-4445-98e1-df12b427f4b5",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "rangenode_id": "7f46a7e1-ca7b-11ee-a777-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "cca6c450-ca6b-11ee-bd41-960002548b4f",
+                    "edgeid": "c1c0e50b-cb89-41e4-a8d1-203927aa7040",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "rangenode_id": "07fef3f8-ca6c-11ee-b89b-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "5ae5240b-ca6a-11ee-a9a5-960002548b4f",
+                    "edgeid": "c2ad4e73-480a-497b-9af1-75ac5182f01c",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P72_has_language",
+                    "rangenode_id": "21be6412-ca6b-11ee-be73-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "0281cff0-ca70-11ee-8755-960002548b4f",
+                    "edgeid": "c6e665c1-3333-4356-9228-f1e1aabd9501",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span",
+                    "rangenode_id": "b8df2b6b-ca70-11ee-a936-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "9cd1d5ef-ca6e-11ee-8557-960002548b4f",
+                    "edgeid": "d53be5ac-8235-4862-b8ba-ebded5d71bfb",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "rangenode_id": "5fe7949d-ca7b-11ee-bdb7-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "a626ee40-ca6c-11ee-98e6-960002548b4f",
+                    "edgeid": "d8d076d7-8de9-437a-a1f4-ba22c7d01140",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "rangenode_id": "58649504-ca73-11ee-a1ae-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "52918bea-ca69-11ee-b98e-960002548b4f",
+                    "edgeid": "d920ca7a-29cf-461f-8dc8-6f2c738f213a",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P128i_is_carried_by",
+                    "rangenode_id": "5288cf65-ca6b-11ee-9862-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "082c17c3-ca76-11ee-99e6-960002548b4f",
+                    "edgeid": "ed45979f-2594-4872-9e58-a20f04c86128",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P02_has_range",
+                    "rangenode_id": "2b2d0b1a-ca76-11ee-8eb3-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "52918bea-ca69-11ee-b98e-960002548b4f",
+                    "edgeid": "f53dedb8-1df0-431e-bcb5-4cc6f79eae91",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P12i_was_present_at",
+                    "rangenode_id": "0281cff0-ca70-11ee-8755-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "52918bea-ca69-11ee-b98e-960002548b4f",
+                    "edgeid": "f8585a64-578e-4179-988e-ef8d3d722926",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "rangenode_id": "daa0159b-ca6d-11ee-8620-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "5288cf65-ca6b-11ee-9862-960002548b4f",
+                    "edgeid": "faa5f83a-2fe2-4045-8005-89ef4e18cdab",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P59_has_section",
+                    "rangenode_id": "cca6c450-ca6b-11ee-bd41-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "52918bea-ca69-11ee-b98e-960002548b4f",
+                    "edgeid": "fd099f1c-d49c-4c14-815d-9aa8424b6075",
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P01i_is_domain_of",
+                    "rangenode_id": "082c17c3-ca76-11ee-99e6-960002548b4f"
+                }
+            ],
+            "functions_x_graphs": [],
+            "graphid": "21befc26-af3e-48e7-b542-5df0646066b5",
+            "iconclass": "",
+            "is_editable": true,
+            "isresource": true,
+            "jsonldcontext": null,
+            "name": {
+                "nl": "Mark"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "0281cff0-ca70-11ee-8755-960002548b4f",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "082c17c3-ca76-11ee-99e6-960002548b4f",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "2ed5a590-ca6e-11ee-99ee-960002548b4f",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "4f528283-ca72-11ee-b40c-960002548b4f",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "5288cf65-ca6b-11ee-9862-960002548b4f",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "5772435f-ca71-11ee-a86e-960002548b4f",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "5ae5240b-ca6a-11ee-a9a5-960002548b4f",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "7c1edcb3-ca6c-11ee-9280-960002548b4f",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "9cd1d5ef-ca6e-11ee-8557-960002548b4f",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "aa0d5d9c-ca69-11ee-b573-960002548b4f",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "b4a2ba81-ca71-11ee-b3cf-960002548b4f",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "d729cdc3-ca6f-11ee-b8ca-960002548b4f",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "daa0159b-ca6d-11ee-8620-960002548b4f",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "mark_time_span_activity",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "semantic",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Time-Span Activity",
+                    "nodegroup_id": "0281cff0-ca70-11ee-8755-960002548b4f",
+                    "nodeid": "0281cff0-ca70-11ee-8755-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E7_Activity",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P12i_was_present_at",
+                    "sortorder": 5
+                },
+                {
+                    "alias": "mark_position_label",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Position Label",
+                    "nodegroup_id": "5288cf65-ca6b-11ee-9862-960002548b4f",
+                    "nodeid": "07fef3f8-ca6c-11ee-b89b-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "mark_material",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "semantic",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Material",
+                    "nodegroup_id": "082c17c3-ca76-11ee-99e6-960002548b4f",
+                    "nodeid": "082c17c3-ca76-11ee-99e6-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/PC67_refers_to",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P01i_is_domain_of",
+                    "sortorder": 10
+                },
+                {
+                    "alias": "mark_form_type",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "74c87bc1-8a29-437a-88cc-3f49837dfc4e",
+                                "name": "Concept"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Form Type",
+                    "nodegroup_id": "2ed5a590-ca6e-11ee-99ee-960002548b4f",
+                    "nodeid": "09196ea0-fb07-11ee-8f8a-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "mark_bibliography_page_number",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Bibliography Page Number",
+                    "nodegroup_id": "4f528283-ca72-11ee-b40c-960002548b4f",
+                    "nodeid": "0cf41490-ca73-11ee-bf47-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P3_has_note",
+                    "sortorder": 2
+                },
+                {
+                    "alias": "mark_form_type_label",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Form Type Label",
+                    "nodegroup_id": "2ed5a590-ca6e-11ee-99ee-960002548b4f",
+                    "nodeid": "18361338-fb07-11ee-8aec-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "mark_title_language",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "74c87bc1-8a29-437a-88cc-3f49837dfc4e",
+                                "name": "Concept"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Title Language",
+                    "nodegroup_id": "aa0d5d9c-ca69-11ee-b573-960002548b4f",
+                    "nodeid": "1a770b2f-ca6a-11ee-8e0d-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E56_Language",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P72_has_language",
+                    "sortorder": 1
+                },
+                {
+                    "alias": "mark_description_language",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "74c87bc1-8a29-437a-88cc-3f49837dfc4e",
+                                "name": "Concept"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Description Language",
+                    "nodegroup_id": "5ae5240b-ca6a-11ee-a9a5-960002548b4f",
+                    "nodeid": "21be6412-ca6b-11ee-be73-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E56_Language",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P72_has_language",
+                    "sortorder": 1
+                },
+                {
+                    "alias": "mark_type_type",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "74c87bc1-8a29-437a-88cc-3f49837dfc4e",
+                                "name": "Concept"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Type Type",
+                    "nodegroup_id": "daa0159b-ca6d-11ee-8620-960002548b4f",
+                    "nodeid": "29afad8c-fb07-11ee-9832-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "sortorder": 1
+                },
+                {
+                    "alias": "mark_material_name",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "74c87bc1-8a29-437a-88cc-3f49837dfc4e",
+                                "name": "Concept"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Material Name",
+                    "nodegroup_id": "082c17c3-ca76-11ee-99e6-960002548b4f",
+                    "nodeid": "2b2d0b1a-ca76-11ee-8eb3-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E57_Material",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P02_has_range",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "mark_form",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "74c87bc1-8a29-437a-88cc-3f49837dfc4e",
+                                "name": "Concept"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Form",
+                    "nodegroup_id": "2ed5a590-ca6e-11ee-99ee-960002548b4f",
+                    "nodeid": "2ed5a590-ca6e-11ee-99ee-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "sortorder": 2
+                },
+                {
+                    "alias": "mark_type_label",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Type Label",
+                    "nodegroup_id": "daa0159b-ca6d-11ee-8620-960002548b4f",
+                    "nodeid": "31e77081-ca7b-11ee-b9d5-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "mark_type_type_label",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Type Type label",
+                    "nodegroup_id": "daa0159b-ca6d-11ee-8620-960002548b4f",
+                    "nodeid": "3aecbfc8-fb07-11ee-aa59-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "mark_material_label",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Material Label",
+                    "nodegroup_id": "082c17c3-ca76-11ee-99e6-960002548b4f",
+                    "nodeid": "49250704-ca7b-11ee-a6b0-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "marks_bibliography",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "17e0c85a-8e93-11ee-8f9d-96a6d245525a",
+                                "name": "Bibliographical Manifestation"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Marks Bibliography",
+                    "nodegroup_id": "4f528283-ca72-11ee-b40c-960002548b4f",
+                    "nodeid": "4f528283-ca72-11ee-b40c-960002548b4f",
+                    "ontologyclass": "http://iflastandards.info/ns/lrm/lrmoo/F3_Manifestation",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P129i_is_subject_of",
+                    "sortorder": 12
+                },
+                {
+                    "alias": "mark_related_object",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "fa952d08-dd27-11ed-9655-00163e71351b",
+                                "name": "Museological Object"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Related Object",
+                    "nodegroup_id": "5288cf65-ca6b-11ee-9862-960002548b4f",
+                    "nodeid": "5288cf65-ca6b-11ee-9862-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P128i_is_carried_by",
+                    "sortorder": 9
+                },
+                {
+                    "alias": null,
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "Mark",
+                    "nodegroup_id": null,
+                    "nodeid": "52918bea-ca69-11ee-b98e-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E37_Mark",
+                    "parentproperty": "",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "mark_keyword_type",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "74c87bc1-8a29-437a-88cc-3f49837dfc4e",
+                                "name": "Concept"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Keyword Type",
+                    "nodegroup_id": "9cd1d5ef-ca6e-11ee-8557-960002548b4f",
+                    "nodeid": "55516444-fb07-11ee-879a-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "sortorder": 1
+                },
+                {
+                    "alias": "mark_place",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "74c87bc1-8a29-437a-88cc-3f49837dfc4e",
+                                "name": "Concept"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Place",
+                    "nodegroup_id": "5772435f-ca71-11ee-a86e-960002548b4f",
+                    "nodeid": "5772435f-ca71-11ee-a86e-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E53_Place",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P138_represents",
+                    "sortorder": 4
+                },
+                {
+                    "alias": "mark_actor_role",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "74c87bc1-8a29-437a-88cc-3f49837dfc4e",
+                                "name": "Concept"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Actor Role",
+                    "nodegroup_id": "7c1edcb3-ca6c-11ee-9280-960002548b4f",
+                    "nodeid": "58649504-ca73-11ee-a1ae-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "mark_description",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "semantic",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Description",
+                    "nodegroup_id": "5ae5240b-ca6a-11ee-a9a5-960002548b4f",
+                    "nodeid": "5ae5240b-ca6a-11ee-a9a5-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P129i_is_subject_of",
+                    "sortorder": 3
+                },
+                {
+                    "alias": "mark_keyword_label",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Keyword Label",
+                    "nodegroup_id": "9cd1d5ef-ca6e-11ee-8557-960002548b4f",
+                    "nodeid": "5fe7949d-ca7b-11ee-bdb7-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "mark_actor",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "semantic",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Actor",
+                    "nodegroup_id": "7c1edcb3-ca6c-11ee-9280-960002548b4f",
+                    "nodeid": "7c1edcb3-ca6c-11ee-9280-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/PC67_refers_to",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P01i_is_domain_of",
+                    "sortorder": 7
+                },
+                {
+                    "alias": "marks_bibliography_label",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Marks Bibliography Label",
+                    "nodegroup_id": "4f528283-ca72-11ee-b40c-960002548b4f",
+                    "nodeid": "7f46a7e1-ca7b-11ee-a777-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "mark_keyword_type_label",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Keyword Type Label",
+                    "nodegroup_id": "9cd1d5ef-ca6e-11ee-8557-960002548b4f",
+                    "nodeid": "9bef7278-fb07-11ee-8658-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "mark_keyword",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "74c87bc1-8a29-437a-88cc-3f49837dfc4e",
+                                "name": "Concept"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Keyword",
+                    "nodegroup_id": "9cd1d5ef-ca6e-11ee-8557-960002548b4f",
+                    "nodeid": "9cd1d5ef-ca6e-11ee-8557-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P138_represents",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "mark_actor_name",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "e53e0b75-d18e-46ce-8c50-865491d68d9c",
+                                "name": "Group"
+                            },
+                            {
+                                "graphid": "0d9ce288-e37c-11ed-9064-00163e71351b",
+                                "name": "Person"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Actor Name",
+                    "nodegroup_id": "7c1edcb3-ca6c-11ee-9280-960002548b4f",
+                    "nodeid": "a626ee40-ca6c-11ee-98e6-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E39_Actor",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P02_has_range",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "mark_title",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "semantic",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Title",
+                    "nodegroup_id": "aa0d5d9c-ca69-11ee-b573-960002548b4f",
+                    "nodeid": "aa0d5d9c-ca69-11ee-b573-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
+                    "sortorder": 1
+                },
+                {
+                    "alias": "mark_image",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "semantic",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Image",
+                    "nodegroup_id": "b4a2ba81-ca71-11ee-b3cf-960002548b4f",
+                    "nodeid": "b4a2ba81-ca71-11ee-b3cf-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P138i_has_representation",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "mark_time_span",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "semantic",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Time-Span",
+                    "nodegroup_id": "0281cff0-ca70-11ee-8755-960002548b4f",
+                    "nodeid": "b8df2b6b-ca70-11ee-a936-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "mark_description_content",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Description Content",
+                    "nodegroup_id": "5ae5240b-ca6a-11ee-a9a5-960002548b4f",
+                    "nodeid": "bbb6ab27-ca6a-11ee-bb23-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "mark_place_label",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Place Label",
+                    "nodegroup_id": "5772435f-ca71-11ee-a86e-960002548b4f",
+                    "nodeid": "bf1262c9-ca7a-11ee-8b78-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "digital_object",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "ad7f933c-04fa-11ee-9497-96a6d2455259",
+                                "name": "Digital Object"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Digital Object",
+                    "nodegroup_id": "b4a2ba81-ca71-11ee-b3cf-960002548b4f",
+                    "nodeid": "c5f9f36e-ca71-11ee-8e46-960002548b4f",
+                    "ontologyclass": "http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object",
+                    "parentproperty": "https://linked.art/ns/terms/digitally_carried_by",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "mark_position",
+                    "config": {
+                        "graphs": [],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "semantic",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Position",
+                    "nodegroup_id": "5288cf65-ca6b-11ee-9862-960002548b4f",
+                    "nodeid": "cca6c450-ca6b-11ee-bd41-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E53_Place",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P59_has_section",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "mark_form_label",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Form Label",
+                    "nodegroup_id": "2ed5a590-ca6e-11ee-99ee-960002548b4f",
+                    "nodeid": "d3affcf2-ca7b-11ee-bd8e-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "mark_note",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Note",
+                    "nodegroup_id": "d729cdc3-ca6f-11ee-b8ca-960002548b4f",
+                    "nodeid": "d729cdc3-ca6f-11ee-b8ca-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P3_has_note",
+                    "sortorder": 6
+                },
+                {
+                    "alias": "mark_type",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "74c87bc1-8a29-437a-88cc-3f49837dfc4e",
+                                "name": "Concept"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Type",
+                    "nodegroup_id": "daa0159b-ca6d-11ee-8620-960002548b4f",
+                    "nodeid": "daa0159b-ca6d-11ee-8620-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "sortorder": 8
+                },
+                {
+                    "alias": "mark_bibliography_comment",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Bibliography Comment",
+                    "nodegroup_id": "4f528283-ca72-11ee-b40c-960002548b4f",
+                    "nodeid": "dab5662f-ca72-11ee-a844-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P3_has_note",
+                    "sortorder": 1
+                },
+                {
+                    "alias": "mark_description_type",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "74c87bc1-8a29-437a-88cc-3f49837dfc4e",
+                                "name": "Concept"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Description Type",
+                    "nodegroup_id": "5ae5240b-ca6a-11ee-a9a5-960002548b4f",
+                    "nodeid": "e9449c8d-ca6a-11ee-b0be-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "sortorder": 2
+                },
+                {
+                    "alias": "mark_time_span_begin",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Time-Span Begin",
+                    "nodegroup_id": "0281cff0-ca70-11ee-8755-960002548b4f",
+                    "nodeid": "eaa66deb-ca70-11ee-9b97-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "mark_title_content",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Title Content",
+                    "nodegroup_id": "aa0d5d9c-ca69-11ee-b573-960002548b4f",
+                    "nodeid": "ec77afd4-ca69-11ee-87d1-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "mark_actor_label",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Actor Label",
+                    "nodegroup_id": "7c1edcb3-ca6c-11ee-9280-960002548b4f",
+                    "nodeid": "fc428114-ca7a-11ee-8136-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "mark_time_span_end",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mark Time-Span End",
+                    "nodegroup_id": "0281cff0-ca70-11ee-8755-960002548b4f",
+                    "nodeid": "fde5e6e5-ca70-11ee-8e1b-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end",
+                    "sortorder": 1
+                }
+            ],
+            "ontology_id": "83a164f7-2ec1-48db-bdd8-b73779c339c9",
+            "publication": null,
+            "relatable_resource_model_ids": [],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": null,
+                "config": {
+                    "nl": ""
+                },
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "21befc26-af3e-48e7-b542-5df0646066b5",
+                "hascustomalias": false,
+                "is_collector": false,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "Mark",
+                "nodegroup_id": null,
+                "nodeid": "52918bea-ca69-11ee-b98e-960002548b4f",
+                "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E37_Mark",
+                "sortorder": 0
+            },
+            "slug": null,
+            "subtitle": {
+                "nl": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ],
+    "metadata": {
+        "db": "PostgreSQL 15.5 (Debian 15.5-0+deb12u1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit",
+        "git hash": "fatal: not a git repository (or any of the parent directories): .git",
+        "os": "Linux",
+        "os version": "6.1.0-13-amd64"
+    }
+}

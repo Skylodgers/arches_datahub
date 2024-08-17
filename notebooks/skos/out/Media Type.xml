@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/dr:url">
+    <skos:prefLabel xml:lang="nl">url</skos:prefLabel>
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/dr">
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr:dia"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr:dvd-video"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr:cas"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr:cd"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr:dvd-rom"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr:micro"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr:url"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr:video"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr:cdrom"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr:mm"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr:paper"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr:disk"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr:gp"/>
+        <dcterms:title xml:lang="nl">Media Type</dcterms:title>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr:dvd-audio"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr:mb"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr:perkament"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr:bd"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr:realia"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr:dvd"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/dr:micro">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr"/>
+    <skos:prefLabel xml:lang="nl">micro</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/dr:disk">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr"/>
+    <skos:prefLabel xml:lang="nl">disk</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/dr:dvd">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr"/>
+    <skos:prefLabel xml:lang="nl">dvd</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/dr:mb">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr"/>
+    <skos:prefLabel xml:lang="nl">mb</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/dr:dvd-audio">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr"/>
+    <skos:prefLabel xml:lang="nl">dvd-audio</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/dr:mm">
+    <skos:prefLabel xml:lang="nl">mm</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/dr:cas">
+    <skos:prefLabel xml:lang="nl">cas</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/dr:realia">
+    <skos:prefLabel xml:lang="nl">realia</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/dr:paper">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr"/>
+    <skos:prefLabel xml:lang="nl">paper</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/dr:cd">
+    <skos:prefLabel xml:lang="nl">cd</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/dr:video">
+    <skos:prefLabel xml:lang="nl">video</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/dr:cdrom">
+    <skos:prefLabel xml:lang="nl">cdrom</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/dr:perkament">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr"/>
+    <skos:prefLabel xml:lang="nl">perkament</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/dr:gp">
+    <skos:prefLabel xml:lang="nl">gp</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/dr:dia">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr"/>
+    <skos:prefLabel xml:lang="nl">dia</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/dr:bd">
+    <skos:prefLabel xml:lang="nl">bd</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/dr:dvd-rom">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr"/>
+    <skos:prefLabel xml:lang="nl">dvd-rom</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/dr:dvd-video">
+    <skos:prefLabel xml:lang="nl">dvd-video</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/dr"/>
+  </skos:Concept>
+</rdf:RDF>

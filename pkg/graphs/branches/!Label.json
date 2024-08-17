@@ -1,0 +1,164 @@
+{
+    "graph": [
+        {
+            "author": "",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "f4cd3087-18e4-11ef-858b-960002548b4f",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": {
+                        "nl": ""
+                    },
+                    "graph_id": "f4cd2d91-18e4-11ef-bdcf-960002548b4f",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "helptitle": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "instructions": {
+                        "en": null,
+                        "nl": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "nl": "!Label"
+                    },
+                    "nodegroup_id": "f4cd2edb-18e4-11ef-bc02-960002548b4f",
+                    "sortorder": null,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "f4cd3087-18e4-11ef-858b-960002548b4f",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Type Label",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "f4cd312f-18e4-11ef-8acd-960002548b4f",
+                    "label": {
+                        "nl": "Type Label"
+                    },
+                    "node_id": "f4cd2edb-18e4-11ef-bc02-960002548b4f",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                }
+            ],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "nl": ""
+            },
+            "edges": [],
+            "functions_x_graphs": [],
+            "graphid": "f4cd2d91-18e4-11ef-bdcf-960002548b4f",
+            "iconclass": "fa fa-plus",
+            "is_editable": true,
+            "isresource": false,
+            "jsonldcontext": null,
+            "name": {
+                "nl": "!Label"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "f4cd2edb-18e4-11ef-bc02-960002548b4f",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "type_label_n1",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f4cd2d91-18e4-11ef-bdcf-960002548b4f",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "!Label",
+                    "nodegroup_id": "f4cd2edb-18e4-11ef-bc02-960002548b4f",
+                    "nodeid": "f4cd2edb-18e4-11ef-bc02-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "",
+                    "sortorder": 0
+                }
+            ],
+            "ontology_id": "83a164f7-2ec1-48db-bdd8-b73779c339c9",
+            "publication": {
+                "graph_id": "f4cd2d91-18e4-11ef-bdcf-960002548b4f",
+                "notes": null,
+                "publicationid": "0580c636-18e5-11ef-9a97-960002548b4f",
+                "published_time": "2024-05-23T04:15:39.067",
+                "user_id": 3
+            },
+            "relatable_resource_model_ids": [],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": "type_label_n1",
+                "config": {
+                    "nl": ""
+                },
+                "datatype": "string",
+                "description": null,
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "f4cd2d91-18e4-11ef-bdcf-960002548b4f",
+                "hascustomalias": false,
+                "is_collector": true,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "!Label",
+                "nodegroup_id": "f4cd2edb-18e4-11ef-bc02-960002548b4f",
+                "nodeid": "f4cd2edb-18e4-11ef-bc02-960002548b4f",
+                "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                "sortorder": 0
+            },
+            "slug": null,
+            "subtitle": {
+                "nl": "rdfs:label"
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ],
+    "metadata": {
+        "db": "PostgreSQL 15.5 (Debian 15.5-0+deb12u1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit",
+        "git hash": "fatal: not a git repository (or any of the parent directories): .git",
+        "os": "Linux",
+        "os version": "6.1.0-13-amd64"
+    }
+}

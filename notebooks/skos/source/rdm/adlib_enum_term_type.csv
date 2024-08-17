@@ -1,0 +1,15 @@
+﻿concept,label,,comment,identifier,inscheme,metadata_no_priref,metadata_no_occ
+https://data.antwerp.be/id/term/adlib-collect/association-person-type,associatie persoon soort,,,,https://data.antwerp.be/id/term/adlib-collect,3284,3658
+https://data.antwerp.be/id/term/adlib-collect/association-subject-name,associatie onderwerp naam,,,,https://data.antwerp.be/id/term/adlib-collect,,
+https://data.antwerp.be/id/term/adlib-collect/association-subject-type,associatie onderwerp soort,,,,https://data.antwerp.be/id/term/adlib-collect,3719,4271
+https://data.antwerp.be/id/term/adlib-collect/collection,collectie,,,,https://data.antwerp.be/id/term/adlib-collect,,
+https://data.antwerp.be/id/term/adlib-collect/content-person-name-type,inhoud peroon naam soort,,,,https://data.antwerp.be/id/term/adlib-collect,978,1161
+https://data.antwerp.be/id/term/adlib-collect/content-subject-type,inhoud onderwerp soort,,,,https://data.antwerp.be/id/term/adlib-collect,11815,15201
+https://data.antwerp.be/id/term/adlib-collect/objectname,object naam,,,,https://data.antwerp.be/id/term/adlib-collect,,
+https://data.antwerp.be/id/term/adlib-location/location-type,standplaats soort,,,,https://data.antwerp.be/id/term/adlib-location,63370,63402
+https://data.antwerp.be/id/term/adlib-location/package-location,verpakking of standplaats,,,,https://data.antwerp.be/id/term/adlib-location,104412,104412
+https://data.antwerp.be/id/term/adlib-people/gender,geslacht,,,,https://data.antwerp.be/id/term/adlib-people,12406,12406
+https://data.antwerp.be/id/term/adlib-people/name-status,naam status,,,,https://data.antwerp.be/id/term/adlib-people,32368,32368
+https://data.antwerp.be/id/term/adlib-people/name-type,naam soort,,,,https://data.antwerp.be/id/term/adlib-people,32365,62869
+https://data.antwerp.be/id/term/adlib-thesau/term-status,term status,,,,https://data.antwerp.be/id/term/adlib-thesau,29656,29656
+https://data.antwerp.be/id/term/adlib-thesau/term-type,term soort,,,,https://data.antwerp.be/id/term/adlib-thesau,26484,33135

@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:mwr">
+    <skos:prefLabel xml:lang="nl">mwr</skos:prefLabel>
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg">
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:ara"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:ind"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:nep"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:ave"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:amh"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:tel"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:cop"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:mul"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:syc"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:chu"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:kor"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:chr"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:run"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:pan"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:baq"/>
+        <dcterms:title xml:lang="nl">Language Type</dcterms:title>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:sin"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:roh"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:guj"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:arm"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:syr"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:jav"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:ine"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:lat"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:tur"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:nya"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:ita"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:swa"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:sun"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:slo"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:cze"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:kan"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:fro"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:chg"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:btk"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:gla"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:nia"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:pap"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:mad"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:tup"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:ber"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:chi"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:vie"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:spa"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:moh"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:hin"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:iku"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:kaw"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:dan"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:lol"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:epo"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:sot"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:mlg"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:geo"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:tmh"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:art"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:ban"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:hun"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:wel"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:sla"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:tib"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:mac"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:ben"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:dut"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:est"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:mao"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:ina"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:aze"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:ukr"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:bul"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:oci"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:kaz"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:non"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:fur"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:yid"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:grn"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:bnt"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:mga"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:lah"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:pus"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:zxx"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:mak"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:fin"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:aka"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:bem"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:frm"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:srp"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:sai"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:ger"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:pal"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:smi"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:slv"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:mlt"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:khm"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:bre"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:zul"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:lit"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:inc"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:san"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:nor"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:kal"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:hrv"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:pol"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:glv"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:ido"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:gmh"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:mwr"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:mon"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:cpf"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:tuk"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:urd"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:dra"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:cos"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:glg"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:kua"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:sem"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:heb"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:raj"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:orm"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:ile"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:tha"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:eng"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:pro"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:tah"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:gre"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:may"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:sux"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:enm"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:pli"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:cel"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:srn"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:tam"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:und"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:arc"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:nds"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:ltz"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:sam"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:gez"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:ang"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:goh"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:kin"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:lad"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:por"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:alb"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:krl"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:fre"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:ice"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:grc"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:fry"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:mar"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:lin"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:mal"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:bos"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:rum"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:gle"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:dsb"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:vol"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:sgn"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:asm"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:rom"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:afr"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:lav"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:map"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:afa"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:sco"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:nai"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:chv"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:jpn"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:dum"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:wen"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:rar"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:swe"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:fao"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:bat"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:cat"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:egy"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:roa"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:got"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:kur"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:kas"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:gem"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:akk"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:ady"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:wln"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:per"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:rus"/>
+        <skos:hasTopConcept rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg:paa"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:epo">
+    <skos:prefLabel xml:lang="nl">epo</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:tib">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">tib</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:bre">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">bre</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:mga">
+    <skos:prefLabel xml:lang="nl">mga</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:aka">
+    <skos:prefLabel xml:lang="nl">aka</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:pli">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">pli</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:hrv">
+    <skos:prefLabel xml:lang="nl">hrv</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:oci">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">oci</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:amh">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">amh</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:bem">
+    <skos:prefLabel xml:lang="nl">bem</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:tuk">
+    <skos:prefLabel xml:lang="nl">tuk</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:guj">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">guj</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:glv">
+    <skos:prefLabel xml:lang="nl">glv</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:orm">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">orm</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:gez">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">gez</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:kas">
+    <skos:prefLabel xml:lang="nl">kas</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:wel">
+    <skos:prefLabel xml:lang="nl">wel</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:ady">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">ady</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:lat">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">lat</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:hin">
+    <skos:prefLabel xml:lang="nl">hin</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:sun">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">sun</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:non">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">non</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:grc">
+    <skos:prefLabel xml:lang="nl">grc</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:arm">
+    <skos:prefLabel xml:lang="nl">arm</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:goh">
+    <skos:prefLabel xml:lang="nl">goh</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:inc">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">inc</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:ang">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">ang</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:jav">
+    <skos:prefLabel xml:lang="nl">jav</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:ben">
+    <skos:prefLabel xml:lang="nl">ben</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:lin">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">lin</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:kan">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">kan</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:lav">
+    <skos:prefLabel xml:lang="nl">lav</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:hun">
+    <skos:prefLabel xml:lang="nl">hun</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:nds">
+    <skos:prefLabel xml:lang="nl">nds</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:rar">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">rar</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:tmh">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">tmh</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:spa">
+    <skos:prefLabel xml:lang="nl">spa</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:sot">
+    <skos:prefLabel xml:lang="nl">sot</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:sla">
+    <skos:prefLabel xml:lang="nl">sla</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:wen">
+    <skos:prefLabel xml:lang="nl">wen</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:heb">
+    <skos:prefLabel xml:lang="nl">heb</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:akk">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">akk</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:sam">
+    <skos:prefLabel xml:lang="nl">sam</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:zul">
+    <skos:prefLabel xml:lang="nl">zul</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:rom">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">rom</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:chi">
+    <skos:prefLabel xml:lang="nl">chi</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:mad">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">mad</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:cel">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">cel</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:ind">
+    <skos:prefLabel xml:lang="nl">ind</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:san">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">san</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:ber">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">ber</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:vie">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">vie</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:nai">
+    <skos:prefLabel xml:lang="nl">nai</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:gem">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">gem</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:swe">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">swe</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:fur">
+    <skos:prefLabel xml:lang="nl">fur</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:cat">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">cat</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:nya">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">nya</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:cop">
+    <skos:prefLabel xml:lang="nl">cop</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:ban">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">ban</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:nep">
+    <skos:prefLabel xml:lang="nl">nep</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:bul">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">bul</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:sgn">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">sgn</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:aze">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">aze</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:rus">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">rus</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:cze">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">cze</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:kin">
+    <skos:prefLabel xml:lang="nl">kin</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:khm">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">khm</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:slo">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">slo</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:raj">
+    <skos:prefLabel xml:lang="nl">raj</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:fry">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">fry</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:tha">
+    <skos:prefLabel xml:lang="nl">tha</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:per">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">per</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:mon">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">mon</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:pan">
+    <skos:prefLabel xml:lang="nl">pan</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:iku">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">iku</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:kal">
+    <skos:prefLabel xml:lang="nl">kal</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:fin">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">fin</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:tam">
+    <skos:prefLabel xml:lang="nl">tam</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:srp">
+    <skos:prefLabel xml:lang="nl">srp</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:pol">
+    <skos:prefLabel xml:lang="nl">pol</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:mul">
+    <skos:prefLabel xml:lang="nl">mul</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:ile">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">ile</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:chu">
+    <skos:prefLabel xml:lang="nl">chu</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:mao">
+    <skos:prefLabel xml:lang="nl">mao</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:zxx">
+    <skos:prefLabel xml:lang="nl">zxx</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:ger">
+    <skos:prefLabel xml:lang="nl">ger</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:pap">
+    <skos:prefLabel xml:lang="nl">pap</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:chg">
+    <skos:prefLabel xml:lang="nl">chg</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:gre">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">gre</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:roh">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">roh</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:lah">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">lah</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:wln">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">wln</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:bos">
+    <skos:prefLabel xml:lang="nl">bos</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:geo">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">geo</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:dsb">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">dsb</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:chv">
+    <skos:prefLabel xml:lang="nl">chv</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:lol">
+    <skos:prefLabel xml:lang="nl">lol</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:yid">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">yid</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:egy">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">egy</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:sco">
+    <skos:prefLabel xml:lang="nl">sco</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:bnt">
+    <skos:prefLabel xml:lang="nl">bnt</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:gmh">
+    <skos:prefLabel xml:lang="nl">gmh</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:fao">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">fao</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:lit">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">lit</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:slv">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">slv</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:tah">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">tah</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:gla">
+    <skos:prefLabel xml:lang="nl">gla</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:arc">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">arc</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:sux">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">sux</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:urd">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">urd</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:dut">
+    <skos:prefLabel xml:lang="nl">dut</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:sai">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">sai</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:eng">
+    <skos:prefLabel xml:lang="nl">eng</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:bat">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">bat</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:cpf">
+    <skos:prefLabel xml:lang="nl">cpf</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:ave">
+    <skos:prefLabel xml:lang="nl">ave</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:glg">
+    <skos:prefLabel xml:lang="nl">glg</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:dum">
+    <skos:prefLabel xml:lang="nl">dum</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:ina">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">ina</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:dra">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">dra</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:tur">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">tur</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:pus">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">pus</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:nia">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">nia</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:gle">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">gle</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:ine">
+    <skos:prefLabel xml:lang="nl">ine</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:tup">
+    <skos:prefLabel xml:lang="nl">tup</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:kur">
+    <skos:prefLabel xml:lang="nl">kur</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:moh">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">moh</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:fro">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">fro</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:art">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">art</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:roa">
+    <skos:prefLabel xml:lang="nl">roa</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:alb">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">alb</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:kaw">
+    <skos:prefLabel xml:lang="nl">kaw</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:mar">
+    <skos:prefLabel xml:lang="nl">mar</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:ita">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">ita</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:vol">
+    <skos:prefLabel xml:lang="nl">vol</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:kaz">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">kaz</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:mal">
+    <skos:prefLabel xml:lang="nl">mal</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:kor">
+    <skos:prefLabel xml:lang="nl">kor</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:mlt">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">mlt</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:mak">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">mak</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:got">
+    <skos:prefLabel xml:lang="nl">got</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:ukr">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">ukr</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:mlg">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">mlg</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:srn">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">srn</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:ice">
+    <skos:prefLabel xml:lang="nl">ice</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:pro">
+    <skos:prefLabel xml:lang="nl">pro</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:est">
+    <skos:prefLabel xml:lang="nl">est</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:frm">
+    <skos:prefLabel xml:lang="nl">frm</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:lad">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">lad</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:nor">
+    <skos:prefLabel xml:lang="nl">nor</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:kua">
+    <skos:prefLabel xml:lang="nl">kua</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:asm">
+    <skos:prefLabel xml:lang="nl">asm</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:btk">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">btk</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:sem">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">sem</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:por">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">por</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:baq">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">baq</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:mac">
+    <skos:prefLabel xml:lang="nl">mac</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:tel">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">tel</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:und">
+    <skos:prefLabel xml:lang="nl">und</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:enm">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">enm</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:syr">
+    <skos:prefLabel xml:lang="nl">syr</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:ara">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">ara</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:paa">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">paa</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:cos">
+    <skos:prefLabel xml:lang="nl">cos</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:swa">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">swa</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:run">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">run</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:krl">
+    <skos:prefLabel xml:lang="nl">krl</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:jpn">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">jpn</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:smi">
+    <skos:prefLabel xml:lang="nl">smi</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:dan">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">dan</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:sin">
+    <skos:prefLabel xml:lang="nl">sin</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:afr">
+    <skos:prefLabel xml:lang="nl">afr</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:map">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">map</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:pal">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">pal</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:ido">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">ido</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:afa">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">afa</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:fre">
+    <skos:prefLabel xml:lang="nl">fre</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:rum">
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+    <skos:prefLabel xml:lang="nl">rum</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:chr">
+    <skos:prefLabel xml:lang="nl">chr</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:grn">
+    <skos:prefLabel xml:lang="nl">grn</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:may">
+    <skos:prefLabel xml:lang="nl">may</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:syc">
+    <skos:prefLabel xml:lang="nl">syc</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/lg:ltz">
+    <skos:prefLabel xml:lang="nl">ltz</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/lg"/>
+  </skos:Concept>
+</rdf:RDF>

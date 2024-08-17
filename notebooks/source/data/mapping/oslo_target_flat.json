@@ -1,0 +1,350 @@
+    {
+    "@context": ["https://data.vlaanderen.be/doc/applicatieprofiel/cultureel-erfgoed-object/erkendestandaard/2021-04-22/context/cultureel-erfgoed-object-ap.jsonld", {
+            "DigitaalObject": {
+                "@id": "http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object"
+            },
+            "GetypeerdeString": "http://www.w3.org/2000/01/rdf-schema#Literal",
+            "MaterieelDing.materiaal": {
+                "@id": "http://www.cidoc-crm.org/cidoc-crm/P45_consists_of"
+            },
+            "digitaalGetoondDoor": {
+                "@id": "https://linked.art/ns/terms/digitally_shown_by"
+            },
+            "equivalent": {
+                "@id": "https://linked.art/ns/terms/equivalent"
+            },
+            "inhoud": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
+            "label": "http://www.w3.org/2000/01/rdf-schema#label",
+            "opmerking": "http://www.w3.org/2004/02/skos/core#note"
+        }
+    ],
+    "@id": "https://data.antwerp.be/id/materieelding/adlib-collect/6947",
+    "@type": "MensgemaaktObject",
+    "Entiteit.beschrijving": [{
+            "@language": "nl",
+            "@value": "Driekwart portret van Michaël Ophovius"
+        }, {
+            "@language": "en",
+            "@value": "Three-quarter portrait of Michael Ophovius"
+        }
+    ],
+    "Entiteit.classificatie": {
+        "@type": "Classificatie",
+        "Classificatie.toegekendType": {
+            "@id": "https://data.antwerp.be/id/concept/adlib-thesau/530009136",
+            "@type": "TypeEntiteit",
+            "label": "barok"
+        },
+        "Entiteit.type": {
+            "@id": "http://vocab.getty.edu/aat/300056462",
+            "@type": "TypeEntiteit",
+            "label": "style/genre"
+        }
+    },
+    "Entiteit.identificator": {
+        "@type": "Identificator",
+        "Entiteit.type": {
+            "@type": "TypeEntiteit",
+            "label": "comment: to be elaborated - source adlib as a concept?"
+        },
+        "Identificator.identificator": {
+            "@type": "GetypeerdeString",
+            "@value": "RH.S.197"
+        },
+        "Identificator.toegekendDoor": {
+            "@type": "Agent",
+            "label": "comment: to be elaborated - source adlib as an agent?"
+        }
+    },
+    "Entiteit.type": {
+        "@id": "https://data.antwerp.be/id/concept/adlib-thesau/3842",
+        "label": "schilderij"
+    },
+    "Entiteit.wordtvoorgesteldDoor": {
+        "@type": "VisueelItem",
+        "digitaalGetoondDoor": {
+            "@id": "https://data.antwerp.be/id/conceptueelding/dams/hNVmXNdYqSTiTgpLjbENDAWG",
+            "@type": "DigitaalObject",
+            "WettelijkObject.isOnderworpenAan": {
+                "@type": "Recht",
+                "Entiteit.type": {
+                    "@type": "TypeRecht"
+                },
+                "Recht.beschrijving": {
+                    "@type": "Beschrijving",
+                    "Beschrijving.tekst": {
+                        "@language": "en",
+                        "@value": "public domain"
+                    }
+                },
+                "Recht.isInBezitVan": {
+                    "@type": "Agent"
+                },
+                "label": "comment: this part can or will be part of the digital object model."
+            }
+        }
+    },
+    "MaterieelDing.beheerder": {
+        "@id": "https://data.antwerp.be/id/agent/adlib-people/678",
+        "@type": "Agent",
+        "label": "Rubenshuis (Antwerpen)"
+    },
+    "MaterieelDing.eigenaar": {
+        "@id": "https://data.antwerp.be/id/agent/adlib-people/678",
+        "@type": "Agent",
+        "label": "Rubenshuis (Antwerpen)"
+    },
+    "MaterieelDing.isOvergedragenBijVerwerving": {
+        "@type": "Verwerving",
+        "Entiteit.type": {
+            "@type": "TypeEntiteit",
+            "Entiteit.type": {
+                "@id": "https://data.antwerp.be/id/concept/adlib-thesau/17",
+                "label": "aankoop"
+            }
+        },
+        "Gebeurtenis.tijd": {
+            "@type": "Periode",
+            "@value": "2011-07-29"
+        },
+        "Verwerving.overgedragenVan": {
+            "@id": "https://data.antwerp.be/id/agent/adlib-people/833",
+            "@type": "Agent",
+            "label": "Ormly Ltd."
+        }
+    },
+    "MaterieelDing.productie": {
+        "@reverse": {
+            "Rol.activiteit": {
+                "@type": "Rol",
+                "Rol.agent": {
+                    "@id": "https://data.antwerp.be/id/agent/adlib-people/833",
+                    "@type": "Agent",
+                    "label": "Rubens, Peter Paul"
+                },
+                "Rol.rol": {
+                    "@id": "https://data.antwerp.be/id/concept/adlib-thesau/8130",
+                    "@type": "TypeRol",
+                    "label": "schilder"
+                }
+            }
+        },
+        "@type": "Productie",
+        "Activiteit.gebruikteTechniek": {
+            "@id": "https://data.antwerp.be/id/concept/adlib-thesau/10081",
+            "@type": "TypeTechniek",
+            "label": "geschilderd"
+        },
+        "Activiteit.uitgevoerdDoor": {
+            "@id": "https://data.antwerp.be/id/agent/adlib-people/833",
+            "@type": "Agent",
+            "label": "Rubens, Peter Paul"
+        },
+        "Gebeurtenis.tijd": {
+            "@type": "Periode",
+            "@value": "1900/1901"
+        },
+        "MaterieelDing.bestaatUit": [{
+                "@type": "MaterieelDing",
+                "Entiteit.beschrijving": {
+                    "@language": "nl",
+                    "@value": "medium"
+                },
+                "MaterieelDing.materiaal": {
+                    "@id": "https://data.antwerp.be/id/concept/adlib-thesau/5649",
+                    "@type": "TypeMateriaal",
+                    "label": "olieverf"
+                }
+            }, {
+                "@type": "MaterieelDing",
+                "Entiteit.beschrijving": {
+                    "@language": "nl",
+                    "@value": "drager"
+                },
+                "MaterieelDing.materiaal": {
+                    "@id": "https://data.antwerp.be/id/concept/adlib-thesau/7955",
+                    "@type": "TypeMateriaal",
+                    "label": "canvas"
+                }
+            }
+        ],
+        "MensgemaaktObject.materiaal": [{
+                "@id": "https://data.antwerp.be/id/concept/adlib-thesau/5649",
+                "@type": "TypeMateriaal",
+                "label": "olieverf"
+            }, {
+                "@id": "https://data.antwerp.be/id/concept/adlib-thesau/7955",
+                "@type": "TypeMateriaal",
+                "label": "canvas"
+            }
+        ]
+    },
+    "MensgemaaktObject.beeldtUit": {
+        "@type": "Entiteit",
+        "Entiteit.beschrijving": {
+            "@language": "nl",
+            "@value": "Michaël Ophovius"
+        }
+    },
+    "MensgemaaktObject.conditie": {
+        "@type": "Conditie",
+        "Conditie.beschrijving": {
+            "@type": "Beschrijving",
+            "Beschrijving.tekst": {
+                "@language": "nl",
+                "@value": "geheel"
+            }
+        },
+        "Conditie.type": {
+            "@id": "https://data.antwerp.be/id/concept/adlib-thesau/27320",
+            "@type": "TypeConditie",
+            "label": "redelijk"
+        }
+    },
+    "MensgemaaktObject.dimensie": [{
+            "@type": "Dimensie",
+            "Dimensie.beschrijving": {
+                "@type": "Beschrijving",
+                "Beschrijving.tekst": {
+                    "@language": "nl",
+                    "@value": "doek"
+                }
+            },
+            "Dimensie.standaardEenheid": {
+                "@id": "http://qudt.org/vocab/unit/CentiM",
+                "@type": "StandaardEenheid",
+                "label": "centimeter"
+            },
+            "Dimensie.type": {
+                "@id": "https://data.antwerp.be/id/concept/adlib-thesau/9",
+                "@type": "TypeGrootheid",
+                "label": "hoogte"
+            },
+            "Dimensie.waarde": {
+                "@type": "Getal",
+                "@value": "112"
+            }
+        }, {
+            "@type": "Dimensie",
+            "Dimensie.beschrijving": {
+                "@type": "Beschrijving",
+                "Beschrijving.tekst": {
+                    "@language": "nl",
+                    "@value": "doek"
+                }
+            },
+            "Dimensie.standaardEenheid": {
+                "@id": "http://qudt.org/vocab/unit/CentiM",
+                "@type": "StandaardEenheid",
+                "label": "centimeter"
+            },
+            "Dimensie.type": {
+                "@id": "https://data.antwerp.be/id/concept/adlib-thesau/10",
+                "@type": "TypeGrootheid",
+                "label": "breedte"
+            },
+            "Dimensie.waarde": {
+                "@type": "Getal",
+                "@value": "84"
+            }
+        }, {
+            "@type": "Dimensie",
+            "Dimensie.beschrijving": {
+                "@type": "Beschrijving",
+                "Beschrijving.tekst": {
+                    "@language": "nl",
+                    "@value": "lijst"
+                }
+            },
+            "Dimensie.standaardEenheid": {
+                "@id": "http://qudt.org/vocab/unit/CentiM",
+                "@type": "StandaardEenheid",
+                "label": "centimeter"
+            },
+            "Dimensie.type": {
+                "@id": "https://data.antwerp.be/id/concept/adlib-thesau/9",
+                "@type": "TypeGrootheid",
+                "label": "hoogte"
+            },
+            "Dimensie.waarde": {
+                "@type": "Getal",
+                "@value": "138.8"
+            }
+        }, {
+            "@type": "Dimensie",
+            "Dimensie.beschrijving": {
+                "@type": "Beschrijving",
+                "Beschrijving.tekst": {
+                    "@language": "nl",
+                    "@value": "lijst"
+                }
+            },
+            "Dimensie.standaardEenheid": {
+                "@id": "http://qudt.org/vocab/unit/CentiM",
+                "@type": "StandaardEenheid",
+                "label": "centimeter"
+            },
+            "Dimensie.type": {
+                "@id": "https://data.antwerp.be/id/concept/adlib-thesau/10",
+                "@type": "TypeGrootheid",
+                "label": "breedte"
+            },
+            "Dimensie.waarde": {
+                "@type": "Getal",
+                "@value": "109"
+            }
+        }, {
+            "@type": "Dimensie",
+            "Dimensie.beschrijving": {
+                "@type": "Beschrijving",
+                "Beschrijving.tekst": {
+                    "@language": "nl",
+                    "@value": "lijst"
+                }
+            },
+            "Dimensie.standaardEenheid": {
+                "@id": "http://qudt.org/vocab/unit/CentiM",
+                "@type": "StandaardEenheid",
+                "label": "centimeter"
+            },
+            "Dimensie.type": {
+                "@id": "https://data.antwerp.be/id/concept/adlib-thesau/8139",
+                "@type": "TypeGrootheid",
+                "label": "diepte"
+            },
+            "Dimensie.waarde": {
+                "@type": "Getal",
+                "@value": "9.5"
+            }
+        }
+    ],
+    "MensgemaaktObject.draagt": {
+        "@type": "InformatieObject",
+        "InformatieObject.gaatOver": {
+            "@type": "Entiteit",
+            "label": "comment: here comes subject info."
+        }
+    },
+    "MensgemaaktObject.locatie": {
+        "@reverse": {
+            "Agent.residentie": {
+                "@id": "https://data.antwerp.be/id/agent/adlib-people/678",
+                "@type": "Agent",
+                "label": "Rubenshuis (Antwerpen)"
+            }
+        },
+        "@type": "Locatie",
+        "Entiteit.beschrijving": {
+            "@language": "nl",
+            "@value": "RH/grote slaapkamer"
+        }
+    },
+    "MensgemaaktObject.titel": [{
+            "@language": "nl",
+            "@value": "Michaël Ophovius"
+        }, {
+            "@language": "en",
+            "@value": "Michael Ophovius"
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+arches==7.5.3
+jupyterlab==4.2.4
+pandas==2.2.2
+django_extensions==3.2.3

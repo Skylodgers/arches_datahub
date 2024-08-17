@@ -1,0 +1,2653 @@
+<pockets>
+  <pocket id="3" >
+    <record selected="False" modification="2021-04-08T15:24:31" created="2012-06-22T09:07:27" priref="3">
+      <priref>3</priref>
+      <term>
+        <value invariant="false" lang="nl-NL">aalschop</value>
+      </term>
+      <term.status>
+        <value lang="neutral">2</value>
+        <value lang="0">approved non preferred term</value>
+        <value lang="1">niet-voorkeursterm</value>
+        <value lang="2">référence</value>
+        <value lang="3">Verweisungsform</value>
+        <value lang="5">termine non preferenziale approvato</value>
+        <value lang="9">godkänd icke-föredragen term</value>
+        <value lang="10">מונח מאושר - לא מועדף</value>
+        <value lang="11">godkendt ikke foretrukket term</value>
+      </term.status>
+      <use>
+        <value invariant="false" lang="nl-NL">schop</value>
+      </use>
+      <use.lref>3880</use.lref>
+    </record>
+  </pocket>
+  <pocket id="4" >
+    <record selected="False" modification="2021-04-29T10:32:51" created="2012-06-22T09:07:27" priref="4">
+      <priref>4</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300025367</source.number>
+        <source.url>http://vocab.getty.edu/aat/300025367</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="nl-NL">wever</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">ROLE</value>
+        <value lang="0">role</value>
+        <value lang="1">rol</value>
+        <value lang="2">fonction</value>
+        <value lang="3">Rolle</value>
+        <value lang="4">دور</value>
+        <value lang="5">ruolo</value>
+        <value lang="6">ρόλος</value>
+        <value lang="9">roll</value>
+        <value lang="10">תפקיד</value>
+        <value lang="11">rolle</value>
+      </term.type>
+    </record>
+  </pocket>
+  <pocket id="5" >
+    <record selected="False" modification="2020-10-27T10:09:40" created="2012-06-22T09:07:27" priref="5">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">aambeelden en bijbehorende accessoires</value>
+      </broader_term>
+      <broader_term.lref>6158</broader_term.lref>
+      <priref>5</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300023119</source.number>
+        <source.url>http://vocab.getty.edu/aat/300023119</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="nl-NL">aambeeld [gereedschap]</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+      <used_for>
+        <value invariant="false" lang="nl-NL">aambeeld</value>
+      </used_for>
+      <used_for.lref>9907</used_for.lref>
+    </record>
+  </pocket>
+  <pocket id="7" >
+    <record selected="False" modification="2021-05-21T12:06:04" created="2010-02-24T18:20:49" priref="7">
+      <priref>7</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300243428</source.number>
+        <source.url>http://vocab.getty.edu/aat/300243428</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="en-US">silk (textile)</value>
+        <value invariant="false" lang="nl-NL">zijde [textiel]</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">MATER</value>
+        <value lang="0">material</value>
+        <value lang="1">materiaal</value>
+        <value lang="2">matériel</value>
+        <value lang="3">Material</value>
+        <value lang="4">المواد</value>
+        <value lang="5">materiale</value>
+        <value lang="6">υλικό</value>
+        <value lang="9">material</value>
+        <value lang="10">חומר</value>
+        <value lang="11">materiale</value>
+      </term.type>
+      <use>
+        <value invariant="false" lang="en-US">silk (fiber)</value>
+        <value invariant="false" lang="nl-NL">zijde [vezel]</value>
+      </use>
+      <use.lref>5959</use.lref>
+    </record>
+  </pocket>
+  <pocket id="8" >
+    <record selected="False" modification="2020-12-08T18:19:58" created="2012-06-22T09:07:27" priref="8">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">objectgenres naar functie</value>
+      </broader_term>
+      <broader_term.lref>6404</broader_term.lref>
+      <narrower_term>
+        <value invariant="false" lang="nl-NL">communiebestek</value>
+      </narrower_term>
+      <narrower_term>
+        <value invariant="false" lang="nl-NL">doopbeker</value>
+      </narrower_term>
+      <narrower_term>
+        <value invariant="false" lang="nl-NL">doopbord</value>
+      </narrower_term>
+      <narrower_term>
+        <value invariant="false" lang="nl-NL">doopschotel</value>
+      </narrower_term>
+      <narrower_term>
+        <value invariant="false" lang="nl-NL">geboortelepel</value>
+      </narrower_term>
+      <narrower_term>
+        <value invariant="false" lang="nl-NL">gedenkbord [vaatwerk]</value>
+      </narrower_term>
+      <narrower_term>
+        <value invariant="false" lang="nl-NL">gedenkdoek</value>
+      </narrower_term>
+      <narrower_term>
+        <value invariant="false" lang="nl-NL">gedenksteen</value>
+      </narrower_term>
+      <narrower_term>
+        <value invariant="false" lang="nl-NL">gelegenheidsglas</value>
+      </narrower_term>
+      <narrower_term>
+        <value invariant="false" lang="nl-NL">gelegenheidslepel</value>
+      </narrower_term>
+      <narrower_term>
+        <value invariant="false" lang="nl-NL">gevelsteen</value>
+      </narrower_term>
+      <narrower_term>
+        <value invariant="false" lang="nl-NL">grafteken [aandenken]</value>
+      </narrower_term>
+      <narrower_term>
+        <value invariant="false" lang="nl-NL">haarwerk</value>
+      </narrower_term>
+      <narrower_term>
+        <value invariant="false" lang="nl-NL">kloostercel</value>
+      </narrower_term>
+      <narrower_term>
+        <value invariant="false" lang="nl-NL">trouwring</value>
+      </narrower_term>
+      <narrower_term.lref>7681</narrower_term.lref>
+      <narrower_term.lref>7067</narrower_term.lref>
+      <narrower_term.lref>29970</narrower_term.lref>
+      <narrower_term.lref>1060</narrower_term.lref>
+      <narrower_term.lref>1383</narrower_term.lref>
+      <narrower_term.lref>36301</narrower_term.lref>
+      <narrower_term.lref>29988</narrower_term.lref>
+      <narrower_term.lref>1390</narrower_term.lref>
+      <narrower_term.lref>29989</narrower_term.lref>
+      <narrower_term.lref>29990</narrower_term.lref>
+      <narrower_term.lref>1434</narrower_term.lref>
+      <narrower_term.lref>36818</narrower_term.lref>
+      <narrower_term.lref>22579</narrower_term.lref>
+      <narrower_term.lref>30041</narrower_term.lref>
+      <narrower_term.lref>4633</narrower_term.lref>
+      <priref>8</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300235430</source.number>
+        <source.url>http://vocab.getty.edu/aat/300235430</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="en-US">commemorative</value>
+        <value invariant="false" lang="nl-NL">aandenken</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+    </record>
+  </pocket>
+  <pocket id="9" >
+    <record selected="False" modification="2020-03-26T10:19:45" created="2012-06-22T09:07:27" priref="9">
+      <priref>9</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300055644</source.number>
+        <source.url>http://vocab.getty.edu/aat/300055644</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="en-US">height</value>
+        <value invariant="false" lang="fr-FR">hauteur</value>
+        <value invariant="false" lang="nl-NL">hoogte</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">DIM</value>
+        <value lang="0">dimension</value>
+        <value lang="1">afmeting</value>
+        <value lang="2">dimension</value>
+        <value lang="3">Dimension</value>
+        <value lang="4">أبعاد</value>
+        <value lang="5">dimensione</value>
+        <value lang="6">διάσταση</value>
+        <value lang="9">dimension</value>
+        <value lang="10">היקף פיזי</value>
+        <value lang="11">dimension</value>
+      </term.type>
+    </record>
+  </pocket>
+  <pocket id="10" >
+    <record selected="False" modification="2020-03-26T10:20:12" created="2012-06-22T09:07:27" priref="10">
+      <priref>10</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300055647</source.number>
+        <source.url>http://vocab.getty.edu/aat/300055647</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="en-US">width</value>
+        <value invariant="false" lang="fr-FR">largeur</value>
+        <value invariant="false" lang="nl-NL">breedte</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">DIM</value>
+        <value lang="0">dimension</value>
+        <value lang="1">afmeting</value>
+        <value lang="2">dimension</value>
+        <value lang="3">Dimension</value>
+        <value lang="4">أبعاد</value>
+        <value lang="5">dimensione</value>
+        <value lang="6">διάσταση</value>
+        <value lang="9">dimension</value>
+        <value lang="10">היקף פיזי</value>
+        <value lang="11">dimension</value>
+      </term.type>
+    </record>
+  </pocket>
+  <pocket id="11" >
+    <record selected="False" modification="2022-08-04T16:03:59" created="2012-06-22T09:07:27" priref="11">
+      <priref>11</priref>
+      <source>
+        <source>QUDT</source>
+        <source.number></source.number>
+        <source.url>http://qudt.org/vocab/unit/CentiM</source.url>
+      </source>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300379098</source.number>
+        <source.url>http://vocab.getty.edu/aat/300379098</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="en-US">cm</value>
+        <value invariant="false" lang="fr-FR">cm</value>
+        <value invariant="false" lang="nl-NL">cm</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">UNIT</value>
+        <value lang="0">unit</value>
+        <value lang="1">eenheid</value>
+        <value lang="2">unité</value>
+        <value lang="3">Einheit</value>
+        <value lang="4">وحدة</value>
+        <value lang="5">unità</value>
+        <value lang="6">μονάδα</value>
+        <value lang="9">enhet</value>
+        <value lang="10">יחידה</value>
+        <value lang="11">enhed</value>
+      </term.type>
+    </record>
+  </pocket>
+  <pocket id="12" >
+    <record selected="False" modification="2022-09-22T16:36:53" created="2012-06-22T09:07:27" priref="12">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">allegorie</value>
+      </broader_term>
+      <broader_term.lref>31785</broader_term.lref>
+      <priref>12</priref>
+      <term>
+        <value invariant="false" lang="nl-NL">verlossing</value>
+      </term>
+      <term.status>
+        <value lang="neutral">3</value>
+        <value lang="0">candidate</value>
+        <value lang="1">kandidaat</value>
+        <value lang="2">candidat</value>
+        <value lang="3">Kandidat</value>
+        <value lang="5">candidato</value>
+        <value lang="9">kandidat</value>
+        <value lang="10">מועמד</value>
+        <value lang="11">kandidat</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">SUBJECT</value>
+        <value lang="0">subject</value>
+        <value lang="1">onderwerp</value>
+        <value lang="2">sujet</value>
+        <value lang="3">Thema</value>
+        <value lang="4">موضوع</value>
+        <value lang="5">soggetto</value>
+        <value lang="6">θέμα</value>
+        <value lang="9">ämne</value>
+        <value lang="10">נושא</value>
+        <value lang="11">emne</value>
+      </term.type>
+    </record>
+  </pocket>
+  <pocket id="13" >
+    <record selected="False" modification="2020-02-14T14:36:37" created="2012-06-22T09:07:27" priref="13">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">verkondigende documenten</value>
+      </broader_term>
+      <broader_term.lref>6165</broader_term.lref>
+      <narrower_term>
+        <value invariant="false" lang="nl-NL">nieuwsbulletin</value>
+      </narrower_term>
+      <narrower_term.lref>112112</narrower_term.lref>
+      <priref>13</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300026707</source.number>
+        <source.url>http://vocab.getty.edu/aat/300026707</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="nl-NL">aankondiging</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+      <used_for>
+        <value invariant="false" lang="nl-NL">bekendmaking</value>
+      </used_for>
+      <used_for.lref>365</used_for.lref>
+    </record>
+  </pocket>
+  <pocket id="15" >
+    <record selected="False" modification="2021-10-26T11:52:40" created="2012-06-22T09:07:27" priref="15">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">vuurmakende en beheersende uitrusting</value>
+      </broader_term>
+      <broader_term.lref>6440</broader_term.lref>
+      <priref>15</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300265545</source.number>
+        <source.url>http://vocab.getty.edu/aat/300265545</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="nl-NL">aansteker</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+    </record>
+  </pocket>
+  <pocket id="17" >
+    <record selected="False" modification="2020-04-17T16:26:34" created="2012-06-22T09:07:27" priref="17">
+      <priref>17</priref>
+      <source>
+        <source>Wikidata</source>
+        <source.number>Q22340494</source.number>
+        <source.url>https://www.wikidata.org/wiki/Q22340494</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="de-DE">Kauf</value>
+        <value invariant="false" lang="en-US">purchase</value>
+        <value invariant="false" lang="fr-FR">achat</value>
+        <value invariant="false" lang="nl-NL">aankoop</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">ACQMETH</value>
+        <value lang="0">acquisition method</value>
+        <value lang="1">verwervingsmethode</value>
+        <value lang="2">méthode d'acquisition</value>
+        <value lang="3">Art des Erwerbs</value>
+        <value lang="4">طريقة الإقتناء</value>
+        <value lang="5">metodo di aquisizione</value>
+        <value lang="6">μέθοδος πρόσκτησης</value>
+        <value lang="9">förvärvsmetoden</value>
+        <value lang="10">אופן הרכישה</value>
+        <value lang="11">Erhvervelsesmetoden</value>
+      </term.type>
+    </record>
+  </pocket>
+  <pocket id="18" >
+    <record selected="False" modification="2021-04-08T15:24:31" created="2012-06-22T09:07:27" priref="18">
+      <priref>18</priref>
+      <term>
+        <value invariant="false" lang="nl-NL">aanzetriem</value>
+      </term>
+      <term.status>
+        <value lang="neutral">2</value>
+        <value lang="0">approved non preferred term</value>
+        <value lang="1">niet-voorkeursterm</value>
+        <value lang="2">référence</value>
+        <value lang="3">Verweisungsform</value>
+        <value lang="5">termine non preferenziale approvato</value>
+        <value lang="9">godkänd icke-föredragen term</value>
+        <value lang="10">מונח מאושר - לא מועדף</value>
+        <value lang="11">godkendt ikke foretrukket term</value>
+      </term.status>
+      <use>
+        <value invariant="false" lang="nl-NL">drijfriem</value>
+      </use>
+      <use.lref>1117</use.lref>
+    </record>
+  </pocket>
+  <pocket id="19" >
+    <record selected="False" modification="2020-03-03T15:40:41" created="2012-06-22T09:07:27" priref="19">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">metaaldraad</value>
+      </broader_term>
+      <broader_term.lref>5615</broader_term.lref>
+      <priref>19</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300395639</source.number>
+        <source.url>http://vocab.getty.edu/aat/300395639</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="nl-NL">zilverdraad</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">MATER</value>
+        <value lang="0">material</value>
+        <value lang="1">materiaal</value>
+        <value lang="2">matériel</value>
+        <value lang="3">Material</value>
+        <value lang="4">المواد</value>
+        <value lang="5">materiale</value>
+        <value lang="6">υλικό</value>
+        <value lang="9">material</value>
+        <value lang="10">חומר</value>
+        <value lang="11">materiale</value>
+      </term.type>
+    </record>
+  </pocket>
+  <pocket id="21" >
+    <record selected="False" modification="2021-04-08T15:24:31" created="2012-06-22T09:07:27" priref="21">
+      <priref>21</priref>
+      <term>
+        <value invariant="false" lang="nl-NL">aardbol</value>
+      </term>
+      <term.status>
+        <value lang="neutral">2</value>
+        <value lang="0">approved non preferred term</value>
+        <value lang="1">niet-voorkeursterm</value>
+        <value lang="2">référence</value>
+        <value lang="3">Verweisungsform</value>
+        <value lang="5">termine non preferenziale approvato</value>
+        <value lang="9">godkänd icke-föredragen term</value>
+        <value lang="10">מונח מאושר - לא מועדף</value>
+        <value lang="11">godkendt ikke foretrukket term</value>
+      </term.status>
+      <use>
+        <value invariant="false" lang="en-US">terrestrial globe</value>
+        <value invariant="false" lang="nl-NL">aardglobe</value>
+      </use>
+      <use.lref>23</use.lref>
+    </record>
+  </pocket>
+  <pocket id="22" >
+    <record selected="False" modification="2022-04-04T14:08:20" created="2010-02-24T18:20:49" priref="22">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">pottenbakkersgoed</value>
+      </broader_term>
+      <broader_term.lref>6007</broader_term.lref>
+      <priref>22</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300140803</source.number>
+        <source.url>http://vocab.getty.edu/aat/300140803</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="en-US">earthenware</value>
+        <value invariant="false" lang="nl-NL">aardewerk [object]</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">MATER</value>
+        <value lang="0">material</value>
+        <value lang="1">materiaal</value>
+        <value lang="2">matériel</value>
+        <value lang="3">Material</value>
+        <value lang="4">المواد</value>
+        <value lang="5">materiale</value>
+        <value lang="6">υλικό</value>
+        <value lang="9">material</value>
+        <value lang="10">חומר</value>
+        <value lang="11">materiale</value>
+      </term.type>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+    </record>
+  </pocket>
+  <pocket id="23" >
+    <record selected="False" modification="2020-02-14T13:17:00" created="2012-06-22T09:07:27" priref="23">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">globe</value>
+      </broader_term>
+      <broader_term.lref>1492</broader_term.lref>
+      <priref>23</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300028092</source.number>
+        <source.url>http://vocab.getty.edu/aat/300028092</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="en-US">terrestrial globe</value>
+        <value invariant="false" lang="nl-NL">aardglobe</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+      <used_for>
+        <value invariant="false" lang="nl-NL">aardbol</value>
+      </used_for>
+      <used_for>
+        <value invariant="false" lang="nl-NL">wereldbol</value>
+      </used_for>
+      <used_for.lref>21</used_for.lref>
+      <used_for.lref>5057</used_for.lref>
+    </record>
+  </pocket>
+  <pocket id="24" >
+    <record selected="False" modification="2021-04-08T15:24:31" created="2012-06-22T09:07:27" priref="24">
+      <priref>24</priref>
+      <term>
+        <value invariant="false" lang="nl-NL">AA-steker</value>
+      </term>
+      <term.status>
+        <value lang="neutral">2</value>
+        <value lang="0">approved non preferred term</value>
+        <value lang="1">niet-voorkeursterm</value>
+        <value lang="2">référence</value>
+        <value lang="3">Verweisungsform</value>
+        <value lang="5">termine non preferenziale approvato</value>
+        <value lang="9">godkänd icke-föredragen term</value>
+        <value lang="10">מונח מאושר - לא מועדף</value>
+        <value lang="11">godkendt ikke foretrukket term</value>
+      </term.status>
+      <use>
+        <value invariant="false" lang="nl-NL">vuursteen [archeologisch object]</value>
+      </use>
+      <use.lref>4933</use.lref>
+    </record>
+  </pocket>
+  <pocket id="26" >
+    <record selected="False" modification="2020-02-14T14:36:37" created="2012-06-22T09:07:27" priref="26">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">eerste leesboekje</value>
+      </broader_term>
+      <broader_term.lref>6278</broader_term.lref>
+      <priref>26</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300202510</source.number>
+        <source.url>http://vocab.getty.edu/aat/300202510</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="en-US">alphabet book</value>
+        <value invariant="false" lang="nl-NL">abc-boekje</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+      <used_for>
+        <value invariant="false" lang="nl-NL">abecedarium</value>
+      </used_for>
+      <used_for.lref>27</used_for.lref>
+    </record>
+  </pocket>
+  <pocket id="27" >
+    <record selected="False" modification="2021-04-08T15:24:31" created="2012-06-22T09:07:27" priref="27">
+      <priref>27</priref>
+      <term>
+        <value invariant="false" lang="nl-NL">abecedarium</value>
+      </term>
+      <term.status>
+        <value lang="neutral">2</value>
+        <value lang="0">approved non preferred term</value>
+        <value lang="1">niet-voorkeursterm</value>
+        <value lang="2">référence</value>
+        <value lang="3">Verweisungsform</value>
+        <value lang="5">termine non preferenziale approvato</value>
+        <value lang="9">godkänd icke-föredragen term</value>
+        <value lang="10">מונח מאושר - לא מועדף</value>
+        <value lang="11">godkendt ikke foretrukket term</value>
+      </term.status>
+      <use>
+        <value invariant="false" lang="en-US">alphabet book</value>
+        <value invariant="false" lang="nl-NL">abc-boekje</value>
+      </use>
+      <use.lref>26</use.lref>
+    </record>
+  </pocket>
+  <pocket id="29" >
+    <record selected="False" modification="2020-02-14T13:17:00" created="2012-06-22T09:07:27" priref="29">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">rietorgel</value>
+      </broader_term>
+      <broader_term.lref>6716</broader_term.lref>
+      <narrower_term>
+        <value invariant="false" lang="nl-NL">concertina</value>
+      </narrower_term>
+      <narrower_term.lref>862</narrower_term.lref>
+      <priref>29</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300042819</source.number>
+        <source.url>http://vocab.getty.edu/aat/300042819</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="nl-NL">accordeon</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+      <used_for>
+        <value invariant="false" lang="nl-NL">harmonica</value>
+      </used_for>
+      <used_for>
+        <value invariant="false" lang="nl-NL">trekharmonika</value>
+      </used_for>
+      <used_for.lref>1704</used_for.lref>
+      <used_for.lref>4601</used_for.lref>
+    </record>
+  </pocket>
+  <pocket id="30" >
+    <record selected="False" modification="2021-04-08T15:24:31" created="2012-06-22T09:07:27" priref="30">
+      <priref>30</priref>
+      <term>
+        <value invariant="false" lang="nl-NL">achterglasschilderij</value>
+      </term>
+      <term.status>
+        <value lang="neutral">2</value>
+        <value lang="0">approved non preferred term</value>
+        <value lang="1">niet-voorkeursterm</value>
+        <value lang="2">référence</value>
+        <value lang="3">Verweisungsform</value>
+        <value lang="5">termine non preferenziale approvato</value>
+        <value lang="9">godkänd icke-föredragen term</value>
+        <value lang="10">מונח מאושר - לא מועדף</value>
+        <value lang="11">godkendt ikke foretrukket term</value>
+      </term.status>
+      <use>
+        <value invariant="false" lang="en-US">reverse paintings on glass (visual works)</value>
+        <value invariant="false" lang="nl-NL">achterglasschildering [beeldmateriaal]</value>
+      </use>
+      <use.lref>31</use.lref>
+    </record>
+  </pocket>
+  <pocket id="31" >
+    <record selected="False" modification="2021-03-02T17:10:09" created="2012-06-22T09:07:27" priref="31">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">schilderingen naar materiaal of techniek</value>
+      </broader_term>
+      <broader_term.lref>6136</broader_term.lref>
+      <priref>31</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300343821</source.number>
+        <source.url>http://vocab.getty.edu/aat/300343821</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="en-US">reverse paintings on glass (visual works)</value>
+        <value invariant="false" lang="nl-NL">achterglasschildering [beeldmateriaal]</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+      <used_for>
+        <value invariant="false" lang="nl-NL">achterglasschilderij</value>
+      </used_for>
+      <used_for>
+        <value invariant="false" lang="nl-NL">eglomisé</value>
+      </used_for>
+      <used_for.lref>30</used_for.lref>
+      <used_for.lref>7704</used_for.lref>
+    </record>
+  </pocket>
+  <pocket id="38" >
+    <record selected="False" modification="2021-04-08T15:24:31" created="2012-06-22T09:07:27" priref="38">
+      <priref>38</priref>
+      <term>
+        <value invariant="false" lang="nl-NL">acrobatenpak</value>
+      </term>
+      <term.status>
+        <value lang="neutral">2</value>
+        <value lang="0">approved non preferred term</value>
+        <value lang="1">niet-voorkeursterm</value>
+        <value lang="2">référence</value>
+        <value lang="3">Verweisungsform</value>
+        <value lang="5">termine non preferenziale approvato</value>
+        <value lang="9">godkänd icke-föredragen term</value>
+        <value lang="10">מונח מאושר - לא מועדף</value>
+        <value lang="11">godkendt ikke foretrukket term</value>
+      </term.status>
+      <use>
+        <value invariant="false" lang="en-US">suit (main garment)</value>
+        <value invariant="false" lang="nl-NL">pak [kleding]</value>
+      </use>
+      <use.lref>3169</use.lref>
+    </record>
+  </pocket>
+  <pocket id="40" >
+    <record selected="False" modification="2021-04-08T15:24:31" created="2012-06-22T09:07:27" priref="40">
+      <priref>40</priref>
+      <term>
+        <value invariant="false" lang="nl-NL">aderlaatmes</value>
+      </term>
+      <term.status>
+        <value lang="neutral">2</value>
+        <value lang="0">approved non preferred term</value>
+        <value lang="1">niet-voorkeursterm</value>
+        <value lang="2">référence</value>
+        <value lang="3">Verweisungsform</value>
+        <value lang="5">termine non preferenziale approvato</value>
+        <value lang="9">godkänd icke-föredragen term</value>
+        <value lang="10">מונח מאושר - לא מועדף</value>
+        <value lang="11">godkendt ikke foretrukket term</value>
+      </term.status>
+      <use>
+        <value invariant="false" lang="nl-NL">mes [snijgereedschap]</value>
+      </use>
+      <use.lref>2812</use.lref>
+    </record>
+  </pocket>
+  <pocket id="42" >
+    <record selected="False" modification="2020-02-14T14:36:37" created="2012-06-22T09:07:27" priref="42">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">identificatiekaarten</value>
+      </broader_term>
+      <broader_term.lref>6281</broader_term.lref>
+      <priref>42</priref>
+      <related_term.lref>3574</related_term.lref>
+      <related_term.lref>4764</related_term.lref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300026767</source.number>
+        <source.url>http://vocab.getty.edu/aat/300026767</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="nl-NL">adreskaart</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+    </record>
+  </pocket>
+  <pocket id="43" >
+    <record selected="False" modification="2020-10-27T10:24:50" created="2012-06-22T09:07:27" priref="43">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">verkondigende documenten</value>
+      </broader_term>
+      <broader_term.lref>6165</broader_term.lref>
+      <priref>43</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300193993</source.number>
+        <source.url>http://vocab.getty.edu/aat/300193993</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="nl-NL">advertentie [drukwerk]</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+      <used_for>
+        <value invariant="false" lang="nl-NL">publiciteitsprent</value>
+      </used_for>
+      <used_for.lref>11357</used_for.lref>
+    </record>
+  </pocket>
+  <pocket id="44" >
+    <record selected="False" modification="2021-04-08T15:24:31" created="2010-02-24T18:20:49" priref="44">
+      <priref>44</priref>
+      <term>
+        <value invariant="false" lang="nl-NL">aegis</value>
+      </term>
+      <term.status>
+        <value lang="neutral">2</value>
+        <value lang="0">approved non preferred term</value>
+        <value lang="1">niet-voorkeursterm</value>
+        <value lang="2">référence</value>
+        <value lang="3">Verweisungsform</value>
+        <value lang="5">termine non preferenziale approvato</value>
+        <value lang="9">godkänd icke-föredragen term</value>
+        <value lang="10">מונח מאושר - לא מועדף</value>
+        <value lang="11">godkendt ikke foretrukket term</value>
+      </term.status>
+      <use>
+        <value invariant="false" lang="nl-NL">schild [harnas]</value>
+      </use>
+      <use.lref>9294</use.lref>
+    </record>
+  </pocket>
+  <pocket id="46" >
+    <record selected="False" modification="2020-02-14T13:17:00" created="2012-06-22T09:07:27" priref="46">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">afwerkingsijzerwaren</value>
+      </broader_term>
+      <broader_term.lref>6075</broader_term.lref>
+      <narrower_term>
+        <value invariant="false" lang="en-US">keyhole plate</value>
+        <value invariant="false" lang="nl-NL">sleutelplaat</value>
+      </narrower_term>
+      <narrower_term.lref>4068</narrower_term.lref>
+      <priref>46</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300033602</source.number>
+        <source.url>http://vocab.getty.edu/aat/300033602</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="nl-NL">afdekplaatje</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+      <used_for>
+        <value invariant="false" lang="nl-NL">dekplaat</value>
+      </used_for>
+      <used_for>
+        <value invariant="false" lang="nl-NL">krukplaat</value>
+      </used_for>
+      <used_for.lref>932</used_for.lref>
+      <used_for.lref>2468</used_for.lref>
+    </record>
+  </pocket>
+  <pocket id="47" >
+    <record selected="False" modification="2020-02-14T14:36:37" created="2012-06-22T09:07:27" priref="47">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">standaarden naar functie</value>
+      </broader_term>
+      <broader_term.lref>6243</broader_term.lref>
+      <priref>47</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300411571</source.number>
+        <source.url>http://vocab.getty.edu/aat/300411571</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="nl-NL">afdruiprek</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+      <used_for>
+        <value invariant="false" lang="nl-NL">afwasrek</value>
+      </used_for>
+      <used_for.lref>65</used_for.lref>
+    </record>
+  </pocket>
+  <pocket id="48" >
+    <record selected="False" modification="2020-02-28T11:02:38" created="2012-06-22T09:07:27" priref="48">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">prent</value>
+      </broader_term>
+      <broader_term.lref>3465</broader_term.lref>
+      <priref>48</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300178549</source.number>
+        <source.url>http://vocab.getty.edu/aat/300178549</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="nl-NL">afdruk</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+    </record>
+  </pocket>
+  <pocket id="52" >
+    <record selected="False" modification="2020-02-14T13:17:00" created="2014-09-12T15:10:11" priref="52">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">aankondigings- en reclamedragers</value>
+      </broader_term>
+      <broader_term.lref>6854</broader_term.lref>
+      <narrower_term>
+        <value invariant="false" lang="nl-NL">rouwaffiche</value>
+      </narrower_term>
+      <narrower_term.lref>30083</narrower_term.lref>
+      <priref>52</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300027221</source.number>
+        <source.url>http://vocab.getty.edu/aat/300027221</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="en-US">poster</value>
+        <value invariant="false" lang="nl-NL">affiche</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">KEYWORD</value>
+        <value lang="0">keyword</value>
+        <value lang="1">trefwoord</value>
+        <value lang="2">mot-clé</value>
+        <value lang="3">Schlagwort</value>
+        <value lang="4">كلمة.مفتاحية</value>
+        <value lang="5">parola chiave</value>
+        <value lang="6">λέξη-κλειδί</value>
+        <value lang="9">sökord</value>
+        <value lang="10">מילת_מפתח</value>
+        <value lang="11">søgeord</value>
+      </term.type>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+      <used_for>
+        <value invariant="false" lang="nl-NL">plakkaat</value>
+      </used_for>
+      <used_for.lref>3361</used_for.lref>
+    </record>
+  </pocket>
+  <pocket id="55" >
+    <record selected="False" modification="2020-02-14T13:17:00" created="2012-06-22T09:07:27" priref="55">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">beeldhouwwerken naar techniek</value>
+      </broader_term>
+      <broader_term.lref>6619</broader_term.lref>
+      <priref>55</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300047806</source.number>
+        <source.url>http://vocab.getty.edu/aat/300047806</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="nl-NL">afgietsel</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+    </record>
+  </pocket>
+  <pocket id="56" >
+    <record selected="False" modification="2021-04-08T15:24:31" created="2012-06-22T09:07:27" priref="56">
+      <priref>56</priref>
+      <term>
+        <value invariant="false" lang="nl-NL">afhaalder</value>
+      </term>
+      <term.status>
+        <value lang="neutral">2</value>
+        <value lang="0">approved non preferred term</value>
+        <value lang="1">niet-voorkeursterm</value>
+        <value lang="2">référence</value>
+        <value lang="3">Verweisungsform</value>
+        <value lang="5">termine non preferenziale approvato</value>
+        <value lang="9">godkänd icke-föredragen term</value>
+        <value lang="10">מונח מאושר - לא מועדף</value>
+        <value lang="11">godkendt ikke foretrukket term</value>
+      </term.status>
+      <use>
+        <value invariant="false" lang="nl-NL">lisijzer</value>
+      </use>
+      <use.lref>2637</use.lref>
+    </record>
+  </pocket>
+  <pocket id="58" >
+    <record selected="False" modification="2021-04-08T15:24:31" created="2012-06-22T09:07:27" priref="58">
+      <priref>58</priref>
+      <term>
+        <value invariant="false" lang="nl-NL">afslag</value>
+      </term>
+      <term.status>
+        <value lang="neutral">2</value>
+        <value lang="0">approved non preferred term</value>
+        <value lang="1">niet-voorkeursterm</value>
+        <value lang="2">référence</value>
+        <value lang="3">Verweisungsform</value>
+        <value lang="5">termine non preferenziale approvato</value>
+        <value lang="9">godkänd icke-föredragen term</value>
+        <value lang="10">מונח מאושר - לא מועדף</value>
+        <value lang="11">godkendt ikke foretrukket term</value>
+      </term.status>
+      <use>
+        <value invariant="false" lang="nl-NL">vuursteen [archeologisch object]</value>
+      </use>
+      <use.lref>4933</use.lref>
+    </record>
+  </pocket>
+  <pocket id="59" >
+    <record selected="False" modification="2021-04-08T15:24:32" created="2012-06-22T09:07:27" priref="59">
+      <priref>59</priref>
+      <term>
+        <value invariant="false" lang="nl-NL">afslaglemmer</value>
+      </term>
+      <term.status>
+        <value lang="neutral">2</value>
+        <value lang="0">approved non preferred term</value>
+        <value lang="1">niet-voorkeursterm</value>
+        <value lang="2">référence</value>
+        <value lang="3">Verweisungsform</value>
+        <value lang="5">termine non preferenziale approvato</value>
+        <value lang="9">godkänd icke-föredragen term</value>
+        <value lang="10">מונח מאושר - לא מועדף</value>
+        <value lang="11">godkendt ikke foretrukket term</value>
+      </term.status>
+      <use>
+        <value invariant="false" lang="nl-NL">vuursteen [archeologisch object]</value>
+      </use>
+      <use.lref>4933</use.lref>
+    </record>
+  </pocket>
+  <pocket id="60" >
+    <record selected="False" modification="2021-04-08T15:24:32" created="2012-06-22T09:07:27" priref="60">
+      <priref>60</priref>
+      <term>
+        <value invariant="false" lang="nl-NL">afslagwerktuig</value>
+      </term>
+      <term.status>
+        <value lang="neutral">2</value>
+        <value lang="0">approved non preferred term</value>
+        <value lang="1">niet-voorkeursterm</value>
+        <value lang="2">référence</value>
+        <value lang="3">Verweisungsform</value>
+        <value lang="5">termine non preferenziale approvato</value>
+        <value lang="9">godkänd icke-föredragen term</value>
+        <value lang="10">מונח מאושר - לא מועדף</value>
+        <value lang="11">godkendt ikke foretrukket term</value>
+      </term.status>
+      <use>
+        <value invariant="false" lang="nl-NL">vuursteen [archeologisch object]</value>
+      </use>
+      <use.lref>4933</use.lref>
+    </record>
+  </pocket>
+  <pocket id="61" >
+    <record selected="False" modification="2022-04-04T14:00:01" created="2012-06-22T09:07:27" priref="61">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">hekwerken en hekwerkonderdelen</value>
+      </broader_term>
+      <broader_term.lref>6718</broader_term.lref>
+      <priref>61</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300005043</source.number>
+        <source.url>http://vocab.getty.edu/aat/300005043</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="nl-NL">hekwerk</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+      <used_for>
+        <value invariant="false" lang="nl-NL">afsluiting</value>
+      </used_for>
+      <used_for>
+        <value invariant="false" lang="nl-NL">dwanghekken</value>
+      </used_for>
+      <used_for>
+        <value invariant="false" lang="nl-NL">hekbekroning</value>
+      </used_for>
+      <used_for.lref>7226</used_for.lref>
+      <used_for.lref>12239</used_for.lref>
+      <used_for.lref>1728</used_for.lref>
+    </record>
+  </pocket>
+  <pocket id="63" >
+    <record selected="False" modification="2021-04-08T15:24:32" created="2012-06-22T09:07:27" priref="63">
+      <priref>63</priref>
+      <term>
+        <value invariant="false" lang="nl-NL">aftrekinrichting</value>
+      </term>
+      <term.status>
+        <value lang="neutral">2</value>
+        <value lang="0">approved non preferred term</value>
+        <value lang="1">niet-voorkeursterm</value>
+        <value lang="2">référence</value>
+        <value lang="3">Verweisungsform</value>
+        <value lang="5">termine non preferenziale approvato</value>
+        <value lang="9">godkänd icke-föredragen term</value>
+        <value lang="10">מונח מאושר - לא מועדף</value>
+        <value lang="11">godkendt ikke foretrukket term</value>
+      </term.status>
+      <use>
+        <value invariant="false" lang="nl-NL">handgranaat</value>
+      </use>
+      <use.lref>1663</use.lref>
+    </record>
+  </pocket>
+  <pocket id="64" >
+    <record selected="False" modification="2020-02-28T09:22:42" created="2012-06-22T09:07:27" priref="64">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">onderdelen van loodgieterswerk en afvoersystemen voor regenwater</value>
+      </broader_term>
+      <broader_term.lref>6297</broader_term.lref>
+      <priref>64</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300052564</source.number>
+        <source.url>http://vocab.getty.edu/aat/300052564</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="nl-NL">afvoerbuis</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+      <used_for>
+        <value invariant="false" lang="nl-NL">draineerbuis</value>
+      </used_for>
+      <used_for.lref>1095</used_for.lref>
+    </record>
+  </pocket>
+  <pocket id="65" >
+    <record selected="False" modification="2021-04-08T15:24:32" created="2012-06-22T09:07:27" priref="65">
+      <priref>65</priref>
+      <term>
+        <value invariant="false" lang="nl-NL">afwasrek</value>
+      </term>
+      <term.status>
+        <value lang="neutral">2</value>
+        <value lang="0">approved non preferred term</value>
+        <value lang="1">niet-voorkeursterm</value>
+        <value lang="2">référence</value>
+        <value lang="3">Verweisungsform</value>
+        <value lang="5">termine non preferenziale approvato</value>
+        <value lang="9">godkänd icke-föredragen term</value>
+        <value lang="10">מונח מאושר - לא מועדף</value>
+        <value lang="11">godkendt ikke foretrukket term</value>
+      </term.status>
+      <use>
+        <value invariant="false" lang="nl-NL">afdruiprek</value>
+      </use>
+      <use.lref>47</use.lref>
+    </record>
+  </pocket>
+  <pocket id="66" >
+    <record selected="False" modification="2021-03-02T17:11:15" created="2012-06-22T09:07:27" priref="66">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">chalcedoon</value>
+      </broader_term>
+      <broader_term.lref>6325</broader_term.lref>
+      <priref>66</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300011135</source.number>
+        <source.url>http://vocab.getty.edu/aat/300011135</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="nl-NL">agaat</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">MATER</value>
+        <value lang="0">material</value>
+        <value lang="1">materiaal</value>
+        <value lang="2">matériel</value>
+        <value lang="3">Material</value>
+        <value lang="4">المواد</value>
+        <value lang="5">materiale</value>
+        <value lang="6">υλικό</value>
+        <value lang="9">material</value>
+        <value lang="10">חומר</value>
+        <value lang="11">materiale</value>
+      </term.type>
+    </record>
+  </pocket>
+  <pocket id="68" >
+    <record selected="False" modification="2022-04-04T13:58:47" created="2012-06-22T09:07:27" priref="68">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">religieus beeldmateriaal</value>
+      </broader_term>
+      <broader_term.lref>6145</broader_term.lref>
+      <priref>68</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300298735</source.number>
+        <source.url>http://vocab.getty.edu/aat/300298735</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="nl-NL">Agnus Dei [medallion]</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+    </record>
+  </pocket>
+  <pocket id="71" >
+    <record selected="False" modification="2021-04-08T15:24:32" created="2012-06-22T09:07:27" priref="71">
+      <priref>71</priref>
+      <term>
+        <value invariant="false" lang="nl-NL">akkersleep</value>
+      </term>
+      <term.status>
+        <value lang="neutral">2</value>
+        <value lang="0">approved non preferred term</value>
+        <value lang="1">niet-voorkeursterm</value>
+        <value lang="2">référence</value>
+        <value lang="3">Verweisungsform</value>
+        <value lang="5">termine non preferenziale approvato</value>
+        <value lang="9">godkänd icke-föredragen term</value>
+        <value lang="10">מונח מאושר - לא מועדף</value>
+        <value lang="11">godkendt ikke foretrukket term</value>
+      </term.status>
+      <use>
+        <value invariant="false" lang="nl-NL">sleep [landbouwwerktuig]</value>
+      </use>
+      <use.lref>4060</use.lref>
+    </record>
+  </pocket>
+  <pocket id="72" >
+    <record selected="False" modification="2021-04-08T15:24:32" created="2012-06-22T09:07:27" priref="72">
+      <priref>72</priref>
+      <term>
+        <value invariant="false" lang="nl-NL">akkoordfluit</value>
+      </term>
+      <term.status>
+        <value lang="neutral">2</value>
+        <value lang="0">approved non preferred term</value>
+        <value lang="1">niet-voorkeursterm</value>
+        <value lang="2">référence</value>
+        <value lang="3">Verweisungsform</value>
+        <value lang="5">termine non preferenziale approvato</value>
+        <value lang="9">godkänd icke-föredragen term</value>
+        <value lang="10">מונח מאושר - לא מועדף</value>
+        <value lang="11">godkendt ikke foretrukket term</value>
+      </term.status>
+      <use>
+        <value invariant="false" lang="nl-NL">dvoynice</value>
+      </use>
+      <use.lref>36569</use.lref>
+    </record>
+  </pocket>
+  <pocket id="74" >
+    <record selected="False" modification="2021-04-08T15:24:32" created="2012-06-22T09:07:27" priref="74">
+      <priref>74</priref>
+      <term>
+        <value invariant="false" lang="nl-NL">aktentas</value>
+      </term>
+      <term.status>
+        <value lang="neutral">2</value>
+        <value lang="0">approved non preferred term</value>
+        <value lang="1">niet-voorkeursterm</value>
+        <value lang="2">référence</value>
+        <value lang="3">Verweisungsform</value>
+        <value lang="5">termine non preferenziale approvato</value>
+        <value lang="9">godkänd icke-föredragen term</value>
+        <value lang="10">מונח מאושר - לא מועדף</value>
+        <value lang="11">godkendt ikke foretrukket term</value>
+      </term.status>
+      <use>
+        <value invariant="false" lang="nl-NL">aktetas</value>
+      </use>
+      <use.lref>75</use.lref>
+    </record>
+  </pocket>
+  <pocket id="75" >
+    <record selected="False" modification="2020-02-28T09:22:42" created="2012-06-22T09:07:27" priref="75">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">houders voor persoonlijke zaken</value>
+      </broader_term>
+      <broader_term.lref>6051</broader_term.lref>
+      <priref>75</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300198921</source.number>
+        <source.url>http://vocab.getty.edu/aat/300198921</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="nl-NL">aktetas</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+      <used_for>
+        <value invariant="false" lang="nl-NL">aktentas</value>
+      </used_for>
+      <used_for>
+        <value invariant="false" lang="nl-NL">attachékoffer</value>
+      </used_for>
+      <used_for>
+        <value invariant="false" lang="nl-NL">documententas</value>
+      </used_for>
+      <used_for.lref>74</used_for.lref>
+      <used_for.lref>191</used_for.lref>
+      <used_for.lref>1028</used_for.lref>
+    </record>
+  </pocket>
+  <pocket id="77" >
+    <record selected="False" modification="2020-02-14T14:36:37" created="2012-06-22T09:07:27" priref="77">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">houders voor apothekers</value>
+      </broader_term>
+      <broader_term.lref>6010</broader_term.lref>
+      <priref>77</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300198823</source.number>
+        <source.url>http://vocab.getty.edu/aat/300198823</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="nl-NL">albarello</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+    </record>
+  </pocket>
+  <pocket id="79" >
+    <record selected="False" modification="2020-02-14T14:36:37" created="2012-06-22T09:07:27" priref="79">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">boeken naar interne vorm</value>
+      </broader_term>
+      <broader_term.lref>6282</broader_term.lref>
+      <narrower_term>
+        <value invariant="false" lang="nl-NL">album amicorum</value>
+      </narrower_term>
+      <narrower_term>
+        <value invariant="false" lang="nl-NL">fotoalbum</value>
+      </narrower_term>
+      <narrower_term>
+        <value invariant="false" lang="nl-NL">handtekeningenalbum</value>
+      </narrower_term>
+      <narrower_term>
+        <value invariant="false" lang="nl-NL">plaatjesalbum</value>
+      </narrower_term>
+      <narrower_term>
+        <value invariant="false" lang="nl-NL">plakboek</value>
+      </narrower_term>
+      <narrower_term>
+        <value invariant="false" lang="nl-NL">poëziealbum</value>
+      </narrower_term>
+      <narrower_term.lref>8828</narrower_term.lref>
+      <narrower_term.lref>1321</narrower_term.lref>
+      <narrower_term.lref>1681</narrower_term.lref>
+      <narrower_term.lref>3355</narrower_term.lref>
+      <narrower_term.lref>3358</narrower_term.lref>
+      <narrower_term.lref>39062</narrower_term.lref>
+      <priref>79</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300026690</source.number>
+        <source.url>http://vocab.getty.edu/aat/300026690</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="nl-NL">album</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+    </record>
+  </pocket>
+  <pocket id="81" >
+    <record selected="False" modification="2020-02-14T14:36:37" created="2012-06-22T09:07:27" priref="81">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">lampen naar verlichtingsmethoden</value>
+      </broader_term>
+      <broader_term.lref>6269</broader_term.lref>
+      <priref>81</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300182913</source.number>
+        <source.url>http://vocab.getty.edu/aat/300182913</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="nl-NL">alcohollamp</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+      <used_for>
+        <value invariant="false" lang="nl-NL">spirituslamp</value>
+      </used_for>
+      <used_for>
+        <value invariant="false" lang="nl-NL">spiritusstel</value>
+      </used_for>
+      <used_for.lref>4194</used_for.lref>
+      <used_for.lref>4195</used_for.lref>
+    </record>
+  </pocket>
+  <pocket id="82" >
+    <record selected="False" modification="2020-02-14T14:36:37" created="2012-06-22T09:07:27" priref="82">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">meetinstrumenten voor het meten van hoeveelheid: stoffen</value>
+      </broader_term>
+      <broader_term.lref>5227</broader_term.lref>
+      <narrower_term>
+        <value invariant="false" lang="nl-NL">alcoholmeter van Gay Lussac</value>
+      </narrower_term>
+      <narrower_term.lref>107317</narrower_term.lref>
+      <priref>82</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300196266</source.number>
+        <source.url>http://vocab.getty.edu/aat/300196266</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="nl-NL">alcoholmeter</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+    </record>
+  </pocket>
+  <pocket id="83" >
+    <record selected="False" modification="2020-02-14T14:36:37" created="2012-06-22T09:07:27" priref="83">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">vaatwerk</value>
+      </broader_term>
+      <broader_term.lref>6067</broader_term.lref>
+      <priref>83</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300197358</source.number>
+        <source.url>http://vocab.getty.edu/aat/300197358</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="nl-NL">alembiek</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+      <used_for>
+        <value invariant="false" lang="nl-NL">destilleerkolf</value>
+      </used_for>
+      <used_for>
+        <value invariant="false" lang="nl-NL">distilleerkolf</value>
+      </used_for>
+      <used_for.lref>955</used_for.lref>
+      <used_for.lref>1022</used_for.lref>
+    </record>
+  </pocket>
+  <pocket id="84" >
+    <record selected="False" modification="2020-02-28T09:22:42" created="2012-06-22T09:07:27" priref="84">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">kamers en ruimten naar vorm</value>
+      </broader_term>
+      <broader_term.lref>6720</broader_term.lref>
+      <priref>84</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300004054</source.number>
+        <source.url>http://vocab.getty.edu/aat/300004054</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="nl-NL">alkoof</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+    </record>
+  </pocket>
+  <pocket id="85" >
+    <record selected="False" modification="2022-04-05T13:21:03" created="2012-06-22T09:07:27" priref="85">
+      <priref>85</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300038700</source.number>
+        <source.url>http://vocab.getty.edu/aat/300038700</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="nl-NL">alkoofbed</value>
+      </term>
+      <term.status>
+        <value lang="neutral">2</value>
+        <value lang="0">approved non preferred term</value>
+        <value lang="1">niet-voorkeursterm</value>
+        <value lang="2">référence</value>
+        <value lang="3">Verweisungsform</value>
+        <value lang="5">termine non preferenziale approvato</value>
+        <value lang="9">godkänd icke-föredragen term</value>
+        <value lang="10">מונח מאושר - לא מועדף</value>
+        <value lang="11">godkendt ikke foretrukket term</value>
+      </term.status>
+      <use>
+        <value invariant="false" lang="nl-NL">bedstede</value>
+      </use>
+      <use.lref>314</use.lref>
+    </record>
+  </pocket>
+  <pocket id="87" >
+    <record selected="False" modification="2021-03-26T15:39:50" created="2012-06-22T09:07:27" priref="87">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">altaren en altaaronderdelen</value>
+      </broader_term>
+      <broader_term.lref>6721</broader_term.lref>
+      <narrower_term>
+        <value invariant="false" lang="nl-NL">altaartafel</value>
+      </narrower_term>
+      <narrower_term>
+        <value invariant="false" lang="nl-NL">draagaltaar</value>
+      </narrower_term>
+      <narrower_term>
+        <value invariant="false" lang="nl-NL">hoofdaltaar</value>
+      </narrower_term>
+      <narrower_term>
+        <value invariant="false" lang="nl-NL">huisaltaar</value>
+      </narrower_term>
+      <narrower_term>
+        <value invariant="false" lang="nl-NL">Maria-altaar</value>
+      </narrower_term>
+      <narrower_term>
+        <value invariant="false" lang="nl-NL">portiekaltaar</value>
+      </narrower_term>
+      <narrower_term>
+        <value invariant="false" lang="nl-NL">sacramentsaltaar</value>
+      </narrower_term>
+      <narrower_term>
+        <value invariant="false" lang="nl-NL">sarcofaagaltaar</value>
+      </narrower_term>
+      <narrower_term.lref>7763</narrower_term.lref>
+      <narrower_term.lref>7700</narrower_term.lref>
+      <narrower_term.lref>7133</narrower_term.lref>
+      <narrower_term.lref>1880</narrower_term.lref>
+      <narrower_term.lref>2744</narrower_term.lref>
+      <narrower_term.lref>7609</narrower_term.lref>
+      <narrower_term.lref>7624</narrower_term.lref>
+      <narrower_term.lref>7813</narrower_term.lref>
+      <priref>87</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300003725</source.number>
+        <source.url>http://vocab.getty.edu/aat/300003725</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="nl-NL">altaar</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">KEYWORD</value>
+        <value lang="0">keyword</value>
+        <value lang="1">trefwoord</value>
+        <value lang="2">mot-clé</value>
+        <value lang="3">Schlagwort</value>
+        <value lang="4">كلمة.مفتاحية</value>
+        <value lang="5">parola chiave</value>
+        <value lang="6">λέξη-κλειδί</value>
+        <value lang="9">sökord</value>
+        <value lang="10">מילת_מפתח</value>
+        <value lang="11">søgeord</value>
+      </term.type>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+    </record>
+  </pocket>
+  <pocket id="88" >
+    <record selected="False" modification="2020-02-17T13:33:36" created="2012-06-22T09:07:27" priref="88">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">klok [idiofoon]</value>
+      </broader_term>
+      <broader_term.lref>6293</broader_term.lref>
+      <priref>88</priref>
+      <related_term.lref>95</related_term.lref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300391092</source.number>
+        <source.url>http://vocab.getty.edu/aat/300391092</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="nl-NL">altaarbel</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+      <used_for>
+        <value invariant="false" lang="nl-NL">consecratiebel</value>
+      </used_for>
+      <used_for>
+        <value invariant="false" lang="nl-NL">elevatiebel</value>
+      </used_for>
+      <used_for>
+        <value invariant="false" lang="nl-NL">handbel [liturgisch]</value>
+      </used_for>
+      <used_for>
+        <value invariant="false" lang="nl-NL">misbel</value>
+      </used_for>
+      <used_for>
+        <value invariant="false" lang="nl-NL">sanctusklok</value>
+      </used_for>
+      <used_for.lref>7689</used_for.lref>
+      <used_for.lref>7705</used_for.lref>
+      <used_for.lref>7717</used_for.lref>
+      <used_for.lref>7764</used_for.lref>
+      <used_for.lref>7811</used_for.lref>
+    </record>
+  </pocket>
+  <pocket id="89" >
+    <record selected="False" modification="2021-04-08T15:24:32" created="2012-06-22T09:07:27" priref="89">
+      <priref>89</priref>
+      <term>
+        <value invariant="false" lang="nl-NL">altaardoek</value>
+      </term>
+      <term.status>
+        <value lang="neutral">2</value>
+        <value lang="0">approved non preferred term</value>
+        <value lang="1">niet-voorkeursterm</value>
+        <value lang="2">référence</value>
+        <value lang="3">Verweisungsform</value>
+        <value lang="5">termine non preferenziale approvato</value>
+        <value lang="9">godkänd icke-föredragen term</value>
+        <value lang="10">מונח מאושר - לא מועדף</value>
+        <value lang="11">godkendt ikke foretrukket term</value>
+      </term.status>
+      <use>
+        <value invariant="false" lang="nl-NL">altaarkleed</value>
+      </use>
+      <use.lref>92</use.lref>
+    </record>
+  </pocket>
+  <pocket id="92" >
+    <record selected="False" modification="2021-03-22T16:55:13" created="2012-06-22T09:07:27" priref="92">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">altaar en altaaronderdeel bedekkingen en hangsels</value>
+      </broader_term>
+      <broader_term.lref>5229</broader_term.lref>
+      <priref>92</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300204864</source.number>
+        <source.url>http://vocab.getty.edu/aat/300204864</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="nl-NL">altaarkleed</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+      <used_for>
+        <value invariant="false" lang="nl-NL">altaardoek</value>
+      </used_for>
+      <used_for.lref>89</used_for.lref>
+    </record>
+  </pocket>
+  <pocket id="93" >
+    <record selected="False" modification="2022-04-04T12:05:12" created="2012-06-22T09:07:27" priref="93">
+      <broader_term>
+        <value invariant="false" lang="en-US">sculpture</value>
+        <value invariant="false" lang="nl-NL">beeldhouwwerk</value>
+      </broader_term>
+      <broader_term.lref>6085</broader_term.lref>
+      <priref>93</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300262580</source.number>
+        <source.url>http://vocab.getty.edu/aat/300262580</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="nl-NL">altaarkruis</value>
+      </term>
+      <term.status>
+        <value lang="neutral">3</value>
+        <value lang="0">candidate</value>
+        <value lang="1">kandidaat</value>
+        <value lang="2">candidat</value>
+        <value lang="3">Kandidat</value>
+        <value lang="5">candidato</value>
+        <value lang="9">kandidat</value>
+        <value lang="10">מועמד</value>
+        <value lang="11">kandidat</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+    </record>
+  </pocket>
+  <pocket id="95" >
+    <record selected="False" modification="2020-02-17T12:06:31" created="2012-06-22T09:07:27" priref="95">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">klok [idiofoon]</value>
+      </broader_term>
+      <broader_term.lref>6293</broader_term.lref>
+      <priref>95</priref>
+      <related_term.lref>88</related_term.lref>
+      <related_term.lref>7381</related_term.lref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300391097</source.number>
+        <source.url>http://vocab.getty.edu/aat/300391097</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="nl-NL">altaarschel</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+      <used_for>
+        <value invariant="false" lang="nl-NL">altaarcarillon</value>
+      </used_for>
+      <used_for>
+        <value invariant="false" lang="nl-NL">misschel</value>
+      </used_for>
+      <used_for.lref>7636</used_for.lref>
+      <used_for.lref>7766</used_for.lref>
+    </record>
+  </pocket>
+  <pocket id="96" >
+    <record selected="False" modification="2022-04-04T13:50:32" created="2012-06-22T09:07:27" priref="96">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">altaaronderdeel</value>
+      </broader_term>
+      <broader_term.lref>6946</broader_term.lref>
+      <priref>96</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300404187</source.number>
+        <source.url>http://vocab.getty.edu/aat/300404187</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="nl-NL">altaarvaas</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+    </record>
+  </pocket>
+  <pocket id="98" >
+    <record selected="False" modification="2022-04-04T12:04:44" created="2012-06-22T09:07:27" priref="98">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">blokfluit</value>
+      </broader_term>
+      <broader_term.lref>515</broader_term.lref>
+      <priref>98</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300404378</source.number>
+        <source.url>http://vocab.getty.edu/aat/300404378</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="nl-NL">altblokfluit</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+    </record>
+  </pocket>
+  <pocket id="99" >
+    <record selected="False" modification="2020-04-28T13:24:32" created="2012-06-22T09:07:27" priref="99">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">klarinet</value>
+      </broader_term>
+      <broader_term.lref>2198</broader_term.lref>
+      <priref>99</priref>
+      <term>
+        <value invariant="false" lang="nl-NL">altklarinet</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+    </record>
+  </pocket>
+  <pocket id="100" >
+    <record selected="False" modification="2022-04-04T13:49:01" created="2012-06-22T09:07:27" priref="100">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">ophicleïde</value>
+      </broader_term>
+      <broader_term.lref>3121</broader_term.lref>
+      <priref>100</priref>
+      <term>
+        <value invariant="false" lang="nl-NL">altophicleïde</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+    </record>
+  </pocket>
+  <pocket id="101" >
+    <record selected="False" modification="2020-02-14T13:17:02" created="2012-06-22T09:07:27" priref="101">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">pommer</value>
+      </broader_term>
+      <broader_term.lref>3406</broader_term.lref>
+      <priref>101</priref>
+      <term>
+        <value invariant="false" lang="nl-NL">altpommer</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+    </record>
+  </pocket>
+  <pocket id="102" >
+    <record selected="False" modification="2022-04-04T11:52:08" created="2012-06-22T09:07:27" priref="102">
+      <broader_term>
+        <value invariant="false" lang="nl-NL">instrumenten verwant aan de viool</value>
+      </broader_term>
+      <broader_term.lref>39576</broader_term.lref>
+      <priref>102</priref>
+      <source>
+        <source>Art &amp; Architecture Thesaurus</source>
+        <source.number>300042225</source.number>
+        <source.url>http://vocab.getty.edu/aat/300042225</source.url>
+      </source>
+      <term>
+        <value invariant="false" lang="nl-NL">altviool</value>
+      </term>
+      <term.status>
+        <value lang="neutral">1</value>
+        <value lang="0">approved preferred term</value>
+        <value lang="1">voorkeursterm</value>
+        <value lang="2">descripteur</value>
+        <value lang="3">Deskriptor</value>
+        <value lang="5">termine preferenziale approvato</value>
+        <value lang="9">godkända föredragen term</value>
+        <value lang="10">מונח מאושר מועדף</value>
+        <value lang="11">godkendt foretrukket term</value>
+      </term.status>
+      <term.type>
+        <value lang="neutral">OBJECT</value>
+        <value lang="0">object name</value>
+        <value lang="1">objectnaam</value>
+        <value lang="2">nom d'objet</value>
+        <value lang="3">Objektbezeichnung</value>
+        <value lang="4">إسم_قطعة.فنية</value>
+        <value lang="5">nome dell'oggetto</value>
+        <value lang="6">ονομασία αντικειμ.</value>
+        <value lang="9">föremål namn</value>
+        <value lang="10">שם האובייקט</value>
+        <value lang="11">genstand navn</value>
+      </term.type>
+    </record>
+  </pocket>
+  </pockets>
