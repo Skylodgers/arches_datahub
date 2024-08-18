@@ -1,0 +1,90 @@
+{
+    "graph": [
+        {
+            "author": " ",
+            "cards": [],
+            "cards_x_nodes_x_widgets": [],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "en": ""
+            },
+            "edges": [],
+            "functions_x_graphs": [],
+            "graphid": "b2cb7071-5c0a-4843-b60e-9846fcb298e1",
+            "iconclass": "",
+            "is_editable": true,
+            "isresource": true,
+            "jsonldcontext": null,
+            "name": {
+                "en": "DCAT Relationship"
+            },
+            "nodegroups": [],
+            "nodes": [
+                {
+                    "alias": null,
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b2cb7071-5c0a-4843-b60e-9846fcb298e1",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "DCAT Relationship",
+                    "nodegroup_id": null,
+                    "nodeid": "db0e68ea-5cd9-11ef-90cc-96a6d245525a",
+                    "ontologyclass": "http://www.w3.org/ns/dcat#Relationship",
+                    "parentproperty": "",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                }
+            ],
+            "ontology_id": "83a164f7-2ec1-48db-bdd8-b73779c339c9",
+            "publication": null,
+            "relatable_resource_model_ids": [],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": null,
+                "config": {
+                    "en": ""
+                },
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "b2cb7071-5c0a-4843-b60e-9846fcb298e1",
+                "hascustomalias": false,
+                "is_collector": false,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "DCAT Relationship",
+                "nodegroup_id": null,
+                "nodeid": "db0e68ea-5cd9-11ef-90cc-96a6d245525a",
+                "ontologyclass": "http://www.w3.org/ns/dcat#Relationship",
+                "sortorder": 0,
+                "sourcebranchpublication_id": null
+            },
+            "slug": null,
+            "subtitle": {
+                "en": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ],
+    "metadata": {
+        "db": "PostgreSQL 15.7 (Postgres.app) on aarch64-apple-darwin21.6.0, compiled by Apple clang version 14.0.0 (clang-1400.0.29.102), 64-bit",
+        "git hash": "c245e517 2024-08-17 21:23:23 +0200",
+        "os": "Darwin",
+        "os version": "23.6.0"
+    }
+}

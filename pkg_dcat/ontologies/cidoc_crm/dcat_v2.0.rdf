@@ -13,13 +13,11 @@
     xmlns:foaf="http://xmlns.com/foaf/0.1/"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
 
-<!-- Clases -->
+<!-- DCAT Clases -->
   
   <rdfs:Class rdf:about="http://www.w3.org/ns/dcat#CatalogRecord">
-    <rdfs:subClassOf rdf:nodeID="Nc6bd1a49f3594974bc080bc99934a8ba"/>
     <rdfs:label xml:lang="en">Catalog Record</rdfs:label>
     <rdfs:comment xml:lang="en">A record in a data catalog, describing the registration of a single dataset or data service.</rdfs:comment>
-    <rdfs:subClassOf rdf:nodeID="N3e8b6c5b2548431aa025766ffd9d682b"/>
   </rdfs:Class>
   <rdfs:Class rdf:about="http://www.w3.org/ns/dcat#DataService">
     <rdfs:comment xml:lang="en">A site or end-point providing operations related to the discovery of, access to, or processing functions on, data or related resources.</rdfs:comment>
@@ -33,7 +31,7 @@
   </rdfs:Class>
   <rdfs:Class rdf:about="http://www.w3.org/ns/dcat#Catalog">
     <rdfs:label xml:lang="en">Catalog</rdfs:label>
-    <rdfs:subClassOf rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <!-- <rdfs:subClassOf rdf:resource="http://www.w3.org/ns/dcat#Dataset"/> -->
     <rdfs:comment xml:lang="en">A curated collection of metadata about resources (e.g., datasets and data services in the context of a data catalog).</rdfs:comment>
   </rdfs:Class>
   <rdfs:Class rdf:about="http://www.w3.org/ns/dcat#Resource">
@@ -42,7 +40,6 @@
   </rdfs:Class>
   <rdfs:Class rdf:about="http://www.w3.org/ns/dcat#Role">
     <rdfs:comment xml:lang="en">A role is the function of a resource or agent with respect to another resource, in the context of resource attribution or resource relationships.</rdfs:comment>
-    <rdfs:subClassOf rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <rdfs:label xml:lang="en">Role</rdfs:label>
   </rdfs:Class>
   <rdfs:Class rdf:about="http://www.w3.org/ns/dcat#Relationship">
@@ -56,7 +53,7 @@
   </rdfs:Class>
 
 
-<!-- Object Properties -->
+<!-- DCAT Object Properties -->
 
   <rdf:Property rdf:about="http://www.w3.org/ns/dcat#packageFormat">
     <rdfs:comment xml:lang="en">The package format of the distribution in which one or more data files are grouped together, e.g. to enable a set of related files to be downloaded together.</rdfs:comment>
@@ -99,7 +96,11 @@
     <rdfs:range rdf:resource="http://purl.org/dc/terms/MediaType"/>
     <rdfs:comment xml:lang="en">The media type of the distribution as defined by IANA</rdfs:comment>
   </rdf:Property>
-  <rdf:Property rdf:about="http://xmlns.com/foaf/0.1/homepage"/>
+  <rdf:Property rdf:about="http://xmlns.com/foaf/0.1/homepage">
+    <rdfs:label xml:lang="en">homepage</rdfs:label>
+    <rdfs:domain rdf:resource="http://www.w3.org/ns/dcat#Catalog"/>
+    <rdfs:range rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Property>
   <rdf:Property rdf:about="http://www.w3.org/ns/dcat#endpointURL">
     <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
     <rdfs:domain rdf:resource="http://www.w3.org/ns/dcat#DataService"/>
@@ -119,15 +120,14 @@
     <rdfs:range rdf:resource="http://www.w3.org/ns/dcat#CatalogRecord"/>
   </rdf:Property>
   <rdf:Property rdf:about="http://www.w3.org/ns/dcat#landingPage">
+    <rdfs:domain rdf:resource="http://www.w3.org/ns/dcat#Resource"/>
     <rdfs:range rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
     <rdfs:comment xml:lang="en">A Web page that can be navigated to in a Web browser to gain access to the catalog, a dataset, its distributions and/or additional information.</rdfs:comment>
     <rdfs:label xml:lang="en">landing page</rdfs:label>
   </rdf:Property>
   <rdf:Property rdf:about="http://www.w3.org/ns/dcat#hadRole">
     <rdfs:range rdf:resource="http://www.w3.org/ns/dcat#Role"/>
-    <rdfs:domain>
-      <rdfs:Class rdf:nodeID="Nf8db377bd9fb4e198b00cd81307e1168"/>
-    </rdfs:domain>
+    <rdfs:domain rdf:resource="http://www.w3.org/ns/dcat#Relationship"/>
     <rdfs:comment xml:lang="en">The function of an entity or agent with respect to another entity or resource.</rdfs:comment>
     <rdfs:label xml:lang="en">hadRole</rdfs:label>
   </rdf:Property>
@@ -145,7 +145,7 @@
   </rdf:Property>
 
 
-<!-- Properties -->
+<!-- DCAT Properties -->
 
   <rdf:Property rdf:about="http://www.w3.org/ns/dcat#compressFormat">
     <rdfs:range rdf:resource="http://purl.org/dc/terms/MediaType"/>
@@ -154,9 +154,10 @@
     <rdfs:label xml:lang="en">compression format</rdfs:label>
   </rdf:Property>
   <rdf:Property rdf:about="http://www.w3.org/ns/dcat#keyword">
-    <rdfs:comment xml:lang="en">A keyword or tag describing a resource.</rdfs:comment>
-    <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
     <rdfs:label xml:lang="en">keyword</rdfs:label>
+    <rdfs:comment xml:lang="en">A keyword or tag describing a resource.</rdfs:comment>
+    <rdfs:domain rdf:resource="http://www.w3.org/ns/dcat#Resource"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
   </rdf:Property>
   <rdf:Property rdf:about="http://www.w3.org/ns/dcat#startDate">
     <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
@@ -172,9 +173,10 @@
   <rdf:Property rdf:about="http://www.w3.org/ns/dcat#contactPoint">
     <rdfs:comment xml:lang="en">Relevant contact information for the catalogued resource. Use of vCard is recommended.</rdfs:comment>
     <rdfs:label xml:lang="en">contact point</rdfs:label>
+    <rdfs:domain rdf:resource="http://www.w3.org/ns/dcat#Resource"/>
     <rdfs:range rdf:resource="http://www.w3.org/2006/vcard/ns#Kind"/>
-  </rdf:Property>
-  <rdf:Property rdf:about="http://www.w3.org/ns/dcat#accessURL">
+</rdf:Property>
+<rdf:Property rdf:about="http://www.w3.org/ns/dcat#accessURL">
     <rdfs:comment xml:lang="en">A URL of a resource that gives access to a distribution of the dataset. E.g. landing page, feed, SPARQL endpoint. Use for all cases except a simple download link, in which case downloadURL is preferred.</rdfs:comment>
     <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
     <rdfs:domain rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
@@ -185,11 +187,14 @@
     <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
     <rdfs:label xml:lang="en">end date</rdfs:label>
   </rdf:Property>
+
   <rdf:Property rdf:about="http://www.w3.org/ns/dcat#theme">
     <rdfs:label xml:lang="en">theme</rdfs:label>
+    <rdfs:domain rdf:resource="http://www.w3.org/ns/dcat#Resource"/>
     <rdfs:range rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <rdfs:comment xml:lang="en">A main category of the resource. A resource can have multiple themes.</rdfs:comment>
   </rdf:Property>
+  
   <rdf:Property rdf:about="http://www.w3.org/ns/dcat#distribution">
     <rdfs:comment xml:lang="en">An available distribution of the dataset.</rdfs:comment>
     <rdfs:domain rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
@@ -202,9 +207,10 @@
     <rdfs:domain rdf:resource="http://purl.org/dc/terms/Location"/>
   </rdf:Property>
 
-<!-- Properties -->
+<!-- DCAT DataProperties -->
 
   <rdf:Property rdf:about="http://www.w3.org/ns/dcat#spatialResolutionInMeters">
+    <rdfs:domain rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
     <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
   </rdf:Property>
   <rdf:Property rdf:about="http://www.w3.org/ns/dcat#byteSize">
@@ -224,3 +230,8 @@
     <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#duration"/>
   </rdf:Property>
 </rdf:RDF>
+
+<!-- EXT Properties -->
+
+
+
