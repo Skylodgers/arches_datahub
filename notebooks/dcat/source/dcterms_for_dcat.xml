@@ -1,0 +1,79 @@
+<rdf:RDF xmlns:dcam="http://purl.org/dc/dcam/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+ 
+<!-- Reosurce-->
+
+dcat:contactPoint
+dcat:keyword
+dcat:landingPage
+dcat:qualifiedRelation
+dcat:theme
+
+
+<rdf:Description rdf:about="http://purl.org/dc/terms/accessRights">
+    <rdfs:comment xml:lang="en">Information about who access the resource or an indication of its security status.</rdfs:comment>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/dc/terms/conformsTo">
+    <rdfs:label xml:lang="en">Conforms To</rdfs:label>
+  </rdf:Description>
+  
+
+  <rdf:Description rdf:about="http://purl.org/dc/terms/creator">
+    <rdfs:label xml:lang="en">Creator</rdfs:label>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="http://purl.org/dc/terms/description">
+    <rdfs:label xml:lang="en">Description</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://purl.org/dc/terms/identifier">
+    <rdfs:label xml:lang="en">Identifier</rdfs:label>
+  </rdf:Description>
+  
+  
+  <rdf:Description rdf:about="http://purl.org/dc/terms/isReferencedBy">
+    <rdfs:label xml:lang="en">Is Referenced By</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://purl.org/dc/terms/issued">
+    <rdfs:label xml:lang="en">Date Issued</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://purl.org/dc/terms/language">
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2008-01-14</dcterms:issued>
+  </rdf:Description>  
+  
+  <rdf:Description rdf:about="http://purl.org/dc/terms/license">
+    <rdfs:label xml:lang="en">License</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://purl.org/dc/terms/modified">
+    <rdfs:label xml:lang="en">Date Modified</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://purl.org/dc/terms/publisher">
+    <rdfs:label xml:lang="en">Publisher</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://purl.org/dc/terms/relation">
+    <rdfs:label xml:lang="en">Relation</rdfs:label>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="http://purl.org/dc/terms/rights">
+    <rdfs:label xml:lang="en">Rights</rdfs:label>
+  </rdf:Description>
+ 
+  <rdf:Description rdf:about="http://purl.org/dc/terms/title">
+    <rdfs:label xml:lang="en">Title</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://purl.org/dc/terms/type">
+    <rdfs:comment xml:lang="en">The nature or genre of the resource.</rdfs:comment>
+  </rdf:Description>
+ 
+  <rdf:Description rdf:about="http://www.w3.org/ns/prov#qualifiedAttribution">
+    <rdfs:label xml:lang="en">Attribution</rdfs:label>
+  </rdf:Description>
+ 
+
+</rdf:RDF>
