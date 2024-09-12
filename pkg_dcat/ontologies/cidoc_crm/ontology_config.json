@@ -1,9 +1,0 @@
-{
-  "base": "dcat_v2.0.rdf",
-  "base_name": "OSLO DCAT test",
-    "extensions": [
-    ],
-  "base_version": "2.0",
-  "base_id": "83a164f7-2ec1-48db-bdd8-b73779c339c9"
-}
-
