@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:Concept rdf:about="http://localhost:8000/a3c837da-23dc-444d-a319-4bd37fa34645">
+    <dcterms:identifier xml:lang="en">{"id": "19c11889-22cf-4712-8e5a-5ecd7475e14d", "value": "https://data.vlaanderen.be/id/concept/ontwikkelingstoestand/TEST"}</dcterms:identifier>
+    <skos:scopeNote xml:lang="nl">{"id": "0d6a3504-da1f-42c9-82f1-5d902907e113", "value": "Testomgeving met automatische integratietesten en manuele functionele testen."}</skos:scopeNote>
+    <skos:prefLabel xml:lang="nl">{"id": "2b148397-86c3-4c09-96de-8373e15d5e9e", "value": "test"}</skos:prefLabel>
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67">
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/94342442-3470-4fe0-ae47-9cb28b34692a"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/5772ddf9-bc59-3f71-8bf5-4f2d1d247566"/>
+        <dcterms:title xml:lang="en">{"id": "fc348e40-e479-4344-8a4c-abf37c65fa24", "value": "DCAT"}</dcterms:title>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/85c4f14f-8ae3-4266-ab25-cf97df015049"/>
+        <dcterms:title xml:lang="nl">{"id": "cb5b1dc9-f04c-41c6-853a-9f54d4052726", "value": "DCAT"}</dcterms:title>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/9613b3e6-dc5c-4ed9-b19a-62fd5bf9cf07"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/85c4f14f-8ae3-4266-ab25-cf97df015049">
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/3b1240dc-c73c-4660-89d4-c41071e7a73d">
+        <skos:inScheme rdf:resource="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67"/>
+        <skos:scopeNote xml:lang="en">{"id": "b61dc83b-4f92-4996-9d52-790e64f2ddf8", "value": "CULT"}</skos:scopeNote>
+        <skos:prefLabel xml:lang="nl">{"id": "d589aef2-8a87-4535-abc2-dc82408b20e6", "value": "Cultuur en sport"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "3dd48efb-9f8d-4933-843a-59925e915284", "value": " \tCulture and sport"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "11f9eb45-9e17-427a-8e8f-e690dbedee1b", "value": "http://vocab.belgif.be/auth/datatheme/CULT"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:inScheme rdf:resource="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/abd207e5-5dc4-4054-a31a-d9210a24b656">
+        <skos:scopeNote xml:lang="en">{"id": "2fff57a3-c7ee-4b15-b29b-968f03343260", "value": "HEAL"}</skos:scopeNote>
+        <skos:inScheme rdf:resource="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67"/>
+        <skos:prefLabel xml:lang="en">{"id": "6346b6e4-8d21-4bfe-a960-ecdb2c99ce00", "value": "Health"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "882a8616-af1a-441e-85ed-98f6db94ca34", "value": "Gezondheid"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "d9d1f656-6083-4e81-b7ad-fcef581ac042", "value": "http://vocab.belgif.be/auth/datatheme/HEAL"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/c50189e8-c61c-4b60-9f22-31d9a5ecff39">
+        <dcterms:identifier xml:lang="en">{"id": "9bea9e33-cbc0-4157-9100-d627dc28ba88", "value": "http://vocab.belgif.be/auth/datatheme/TECH"}</dcterms:identifier>
+        <skos:scopeNote xml:lang="en">{"id": "a16d16ba-ace3-43d2-83da-d95503fb30ae", "value": "TECH"}</skos:scopeNote>
+        <skos:inScheme rdf:resource="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67"/>
+        <skos:prefLabel xml:lang="nl">{"id": "0c879477-3022-47ff-8db4-288c3e50fb4e", "value": " \tWetenschap en technologie"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "d1130c46-9be2-45cf-86d9-74f7217a96b8", "value": "Science and technology"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/8ff4807b-4625-46bc-bed8-08d667d34fff">
+        <skos:inScheme rdf:resource="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67"/>
+        <dcterms:identifier xml:lang="en">{"id": "c1d2dde0-300c-45e9-835b-88f656df548f", "value": "http://vocab.belgif.be/auth/datatheme/ENER"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "e7de25d4-c6f5-4d9e-9c76-45cbfb43c422", "value": "Energie"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "e5a84f29-b4c8-4136-9f83-fb651032bf29", "value": "Energy"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">{"id": "c24bdebc-d94c-4066-b46a-d9a99934ffab", "value": "ENER"}</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/1e7ca581-edae-485b-9fed-1b524a4b3eec">
+        <skos:prefLabel xml:lang="nl">{"id": "0068638d-5661-4ed0-9d0d-90e83ffd46d3", "value": "Bevolking en samenleving"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">{"id": "a4fc1867-9cad-4e1a-8081-519004df539a", "value": "SOCI"}</skos:scopeNote>
+        <skos:inScheme rdf:resource="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67"/>
+        <skos:prefLabel xml:lang="en">{"id": "752f3636-d956-4a04-a146-10ff8d9b2dd6", "value": "Population and society"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "5eac71a5-c0c6-48cd-b04d-b5d10c80fbba", "value": "http://vocab.belgif.be/auth/datatheme/SOCI"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:scopeNote xml:lang="en">{"id": "8ac40875-dea5-4653-a4b8-6174dc91d284", "value": "Themes for open data catalogi in Belgium"}</skos:scopeNote>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/b44ad876-37e2-4c2e-959a-cbed30c15769">
+        <dcterms:identifier xml:lang="en">{"id": "30e6b40f-aa8d-4ae5-b1b3-b5016215855b", "value": "http://vocab.belgif.be/auth/datatheme/INTR"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67"/>
+        <skos:scopeNote xml:lang="en">{"id": "149d2e99-73d8-4d0e-bd46-495d6bbb68af", "value": "INTR"}</skos:scopeNote>
+        <skos:prefLabel xml:lang="nl">{"id": "2c686479-c715-42c5-924d-f0485240d22f", "value": "Internationale vraagstukken"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "d920dfd7-03c8-4295-9bc1-edb0520190db", "value": "International issues"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/d43ed13f-4dd8-48b4-a34a-772b2f24a9b1">
+        <skos:prefLabel xml:lang="en">{"id": "f8031182-2680-4959-88e6-cd4cb01b066c", "value": "Agriculture, fisheries, forestry and food"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "26234576-4303-44a0-bdde-d121eadc44af", "value": "http://vocab.belgif.be/auth/datatheme/AGRI"}</dcterms:identifier>
+        <skos:scopeNote xml:lang="en">{"id": "775c5709-2731-4cd2-9e50-8d036f21ba76", "value": "AGRI"}</skos:scopeNote>
+        <skos:inScheme rdf:resource="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67"/>
+        <skos:prefLabel xml:lang="nl">{"id": "5e5d8c05-8a0e-44c9-901b-4fc43102a308", "value": "Landbouw, visserij, bosbouw en voeding"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/6984aa77-d9e4-4291-a12d-b1dc2ee183d7">
+        <dcterms:identifier xml:lang="en">{"id": "f8ae9334-b579-488d-b4c5-ff76f7fda323", "value": "http://vocab.belgif.be/auth/datatheme/EDUC"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "d15b1c75-a600-4d15-8fad-15663cfed9c4", "value": "Education"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">{"id": "53521bf0-a81c-4984-8d6e-44114427f1a1", "value": "EDUC"}</skos:scopeNote>
+        <skos:prefLabel xml:lang="nl">{"id": "3f5bd036-79e2-4302-8eb3-96dc02b12669", "value": "Onderwijs"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/bb66c386-ab0d-430c-bf6c-76353a4b6025">
+        <skos:inScheme rdf:resource="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67"/>
+        <skos:prefLabel xml:lang="nl">{"id": "e5d42ca1-b826-4b06-a1d4-8a000702682d", "value": "Vervoer"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">{"id": "b24a2ab7-ba4a-48a2-b703-5d722686e682", "value": "TRAN"}</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">{"id": "351cb6ff-d212-426d-8d1e-23c722631171", "value": "Transport"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "64906e83-0580-49d2-a33d-51866242fda9", "value": " http://vocab.belgif.be/auth/datatheme/TRAN"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/ec02ee45-2888-4775-add7-32da2f6f076a">
+        <skos:prefLabel xml:lang="nl">{"id": "f2df50dd-7cad-449f-b9a0-ecbf38a53e7b", "value": "Milieu"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "b2163067-e94b-4f39-ad7a-c7505c04bc89", "value": "Environment"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">{"id": "eb919eb7-0808-4386-a61e-ffd98d230537", "value": "ENVI"}</skos:scopeNote>
+        <skos:inScheme rdf:resource="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67"/>
+        <dcterms:identifier xml:lang="en">{"id": "5249b34a-e11e-41b2-8640-ff9498fdbfb9", "value": "http://vocab.belgif.be/auth/datatheme/ENVI"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/68ca8bca-0c42-417e-bc2d-42ccb7f9bc72">
+        <skos:prefLabel xml:lang="en">{"id": "72e134b5-3da9-4d56-970d-69aa9345be1a", "value": "Regions and cities"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67"/>
+        <skos:prefLabel xml:lang="nl">{"id": "4a693170-57d7-45a8-9992-705af5cf50f6", "value": "Regio's en steden"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "69df6ae0-e55a-492a-9660-2e2225c4d987", "value": "http://vocab.belgif.be/auth/datatheme/REGI"}</dcterms:identifier>
+        <skos:scopeNote xml:lang="en">{"id": "f29b30a9-c311-49d7-9fcd-aa1d7b60bf92", "value": "REGI"}</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="en">{"id": "98ba2cca-c61a-4bd9-9865-9a350ea22107", "value": "Data Theme"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/cf383465-adbc-4332-b2a5-9496a58317e4">
+        <skos:inScheme rdf:resource="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67"/>
+        <skos:scopeNote xml:lang="en">{"id": "01a0766c-eeaf-41fe-9fda-489e822ff8bc", "value": "JUST"}</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">{"id": "462b9d52-d703-4de2-8925-9ab1ce0d1a33", "value": "Justice, legal system and public safety"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "c03fe302-b9a9-4f46-a3b3-d158f520d349", "value": "Justitie, rechtsstelsel en openbare veiligheid"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "778e690f-0ad4-4f55-9545-5d3e5cbbb4c5", "value": "http://vocab.belgif.be/auth/datatheme/JUST"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/63b60f48-4161-4d74-bd21-14ce8261f105">
+        <dcterms:identifier xml:lang="en">{"id": "477a6e7d-4da1-43dc-8e32-8c3842f7d72d", "value": "http://vocab.belgif.be/auth/datatheme/GOVE"}</dcterms:identifier>
+        <skos:scopeNote xml:lang="en">{"id": "5b251fda-91ea-49cc-bc6a-7d048af6cf48", "value": "GOVE"}</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">{"id": "60564dd7-fba7-4a37-8004-417891452e93", "value": "Government and public sector"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "181012d6-434b-4c15-8d4c-b9694ecbf297", "value": "Overheid en publieke sector"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/0ce64bd2-80ed-4faf-a986-8be95968cc09">
+        <skos:scopeNote xml:lang="en">{"id": "8a2e32ef-25e5-4350-a0d2-69893488a02b", "value": "ECON"}</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">{"id": "930c83f8-0121-478e-994b-9946290c64b9", "value": "Economy and finance"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "943ecaed-ee47-45cf-a74e-ff7109a8155c", "value": "Economie en financi\u00ebn"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "f1c50bd3-6bb5-4901-b59f-baaa96d7d9cb", "value": "http://vocab.belgif.be/auth/datatheme/ECON"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67"/>
+      </skos:Concept>
+    </skos:narrower>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/b15c4710-defb-3207-b26b-4c1f54b24e87">
+    <dcterms:identifier xml:lang="en">{"id": "9cff80ca-de1b-4a7e-8421-61dc25f76b21", "value": "http://publications.europa.eu/resource/authority/access-right/PUBLIC"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/27f07ffb-23ee-42a6-aada-6833a9531333">
+    <skos:inScheme rdf:resource="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67"/>
+    <dcterms:identifier xml:lang="en">{"id": "7c72021a-4a2c-4387-b344-7830f0c1b5b3", "value": "https://data.vlaanderen.be/id/concept/ontwikkelingstoestand/BETA"}</dcterms:identifier>
+    <skos:scopeNote xml:lang="nl">{"id": "09356295-d9c1-40f7-bcca-b6b7b08b22df", "value": "Testomgeving voor integratietesten met andere teams/partijen. Bijvoorbeeld: end-to-end testen van componenten die reeds in hun eigen testomgeving getest zijn met mock-data/interfaces."}</skos:scopeNote>
+    <skos:prefLabel xml:lang="nl">{"id": "d7da5b05-abc9-4300-a5d1-3c2149a0bd07", "value": "beta"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/9613b3e6-dc5c-4ed9-b19a-62fd5bf9cf07">
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/ec9026c5-12f7-40ee-8c1c-6a5b60c4998e">
+        <dcterms:identifier xml:lang="en">{"id": "1522ba30-56d1-431b-8a2e-94657a406fa7", "value": "https://data.vlaanderen.be/id/concept/ontwikkelingstoestand/DEV"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "8c83e566-d3c3-4375-8a6f-909437eaaf0b", "value": "development"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="nl">{"id": "735d10a7-b663-45fb-b396-1cc72f0aeacd", "value": "Persoonlijke ontwikkellingsomgeving"}</skos:scopeNote>
+        <skos:inScheme rdf:resource="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:inScheme rdf:resource="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/b12fdf41-0a42-4ea1-8376-77e0fbc2d2bc">
+        <skos:inScheme rdf:resource="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67"/>
+        <dcterms:identifier xml:lang="en">{"id": "60a6963b-077b-43f8-8991-05082b62e75d", "value": "https://data.vlaanderen.be/id/concept/ontwikkelingstoestand/TNI"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "169d0cb4-7262-4219-826b-0ce4d50d8ac7", "value": "tni"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="nl">{"id": "7f277fb6-01f2-47ba-a678-5bd75d5684f7", "value": "Stabiele omgeving, waar code gedeployed wordt NA succesvolle integratie testen op de beta-omgeving. Kan dienst doen als demo-omgeving, indien meerdere partijen met elkaar moeten integreren."}</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/4b64ac6f-a5f4-4dbf-8ee7-ff5687b15be8">
+        <dcterms:identifier xml:lang="en">{"id": "8240e302-0289-46bb-bb11-926bcc2155eb", "value": "https://data.vlaanderen.be/id/concept/ontwikkelingstoestand/STAGING"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "d51c6a69-33d6-4f2f-a385-39354fb7ec41", "value": "staging"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67"/>
+        <skos:scopeNote xml:lang="nl">{"id": "dfec38ac-9440-4c51-a4e9-b288255f9e37", "value": "Mirror van productie-omgeving, User Acceptance Test (UAT) voor hotfix."}</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/4fa91f7c-fd5b-428d-8698-f50f1b2e96e1">
+        <skos:scopeNote xml:lang="nl">{"id": "a02b0aea-a93d-42ea-b2bd-ca5235353663", "value": "Live-omgeving."}</skos:scopeNote>
+        <dcterms:identifier xml:lang="en">{"id": "fad53c63-a655-4bd6-abf6-664b1c8eeae4", "value": "https://data.vlaanderen.be/id/concept/ontwikkelingstoestand/PROD"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67"/>
+        <skos:prefLabel xml:lang="nl">{"id": "34ecf0aa-053f-466f-9dcf-b214b13b1c9d", "value": "productie"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/27f07ffb-23ee-42a6-aada-6833a9531333"/>
+    <skos:narrower rdf:resource="http://localhost:8000/a3c837da-23dc-444d-a319-4bd37fa34645"/>
+    <skos:prefLabel xml:lang="nl">{"id": "c173a254-0c3d-4ee1-a2d7-289c3861c59e", "value": "ontwikkelingstoestand"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/5772ddf9-bc59-3f71-8bf5-4f2d1d247566">
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/5510b602-1f5c-3000-8111-b6e2d9c9cb27">
+        <skos:inScheme rdf:resource="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67"/>
+        <dcterms:identifier xml:lang="en">{"id": "acc39e43-e479-461c-a672-0de5b51f7437", "value": "http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:inScheme rdf:resource="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67"/>
+    <skos:narrower rdf:resource="http://localhost:8000/b15c4710-defb-3207-b26b-4c1f54b24e87"/>
+    <skos:prefLabel xml:lang="en">{"id": "eb1ac06b-5a43-414b-9591-2afb085435bd", "value": "Access right"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/75037398-41ad-307f-aa40-4f09e154136f">
+        <dcterms:identifier xml:lang="en">{"id": "a1b372b2-4f11-43fc-a66e-d3199a62a09e", "value": "http://publications.europa.eu/resource/authority/access-right/OP_DATPRO"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/3726d377-0378-31dc-a967-c68df1caaa7e">
+        <skos:inScheme rdf:resource="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67"/>
+        <dcterms:identifier xml:lang="en">{"id": "1bfa6599-a2bb-4fa8-9360-6ed6134cbbd1", "value": "http://publications.europa.eu/resource/authority/access-right/RESTRICTED"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <dcterms:identifier xml:lang="en">{"id": "e52d777f-cf62-4cf6-b577-baf2b8951f95", "value": "http://publications.europa.eu/resource/authority/access-right"}</dcterms:identifier>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/14df8ba7-e1db-363c-b1b6-38cc00d1b09e">
+        <skos:inScheme rdf:resource="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67"/>
+        <dcterms:identifier xml:lang="en">{"id": "50925071-40f7-4434-bb40-3f0f2b0b9a17", "value": "http://publications.europa.eu/resource/authority/access-right/SENSITIVE"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/21ed317d-8fc8-3763-920b-7596e8d89128">
+        <dcterms:identifier xml:lang="en">{"id": "63646d46-ca0c-45c4-a11d-06965b8e8563", "value": "http://publications.europa.eu/resource/authority/access-right/NORMAL"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/59d7e0ee-0d7f-3789-ae93-8178dc84ba6d">
+        <skos:inScheme rdf:resource="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67"/>
+        <dcterms:identifier xml:lang="en">{"id": "38a889be-ee2a-4f95-9870-d1efef02f381", "value": "http://publications.europa.eu/resource/authority/access-right/CONFIDENTIAL"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/94342442-3470-4fe0-ae47-9cb28b34692a">
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/a9b26dcb-aa77-4517-ab82-a7c09e5fa744">
+        <skos:scopeNote xml:lang="nl">{"id": "7345d5f2-5047-4e23-8874-f8b386819939", "value": "De service is in ontwerp/in ontwikkeling. Veranderingen kunnen dus snel en onverwacht gebeuren. "}</skos:scopeNote>
+        <skos:prefLabel xml:lang="nl">{"id": "7e89b913-cbc0-41c8-9d0d-c9ccc45b2ba3", "value": "in ontwikkeling"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67"/>
+        <dcterms:identifier xml:lang="en">{"id": "62a5f619-8cf9-4dc6-a7a8-ebe373c74654", "value": "https://data.vlaanderen.be/id/concept/levensfase/design"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/70851f3b-7ba3-4e04-89b9-d2cb7143d2f1">
+        <dcterms:identifier xml:lang="en">{"id": "3f967ef0-d42b-49b7-b9c9-cd61f99bff81", "value": "https://data.vlaanderen.be/id/concept/levensfase/live"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "56327962-f26f-4f6b-83c5-32ae76890964", "value": "live"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67"/>
+        <skos:scopeNote xml:lang="en">{"id": "34cdb9a5-7154-47e7-94d1-4b79754fd872", "value": "De service is actief. Stabiliteit wordt nagestreefd. "}</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/6a176a57-bdce-4aa1-8803-a3bd8e19a150">
+        <skos:prefLabel xml:lang="nl">{"id": "e85a8074-078e-4554-9123-8878549e0b6f", "value": "in uitfasering"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67"/>
+        <skos:scopeNote xml:lang="nl">{"id": "7657f91e-1aed-42d7-a748-9c167c01da9b", "value": "De service is in zijn laatste levensfase. Geen veranderingen meer verwacht, uitgezonderd van belangrijke (security) patches. "}</skos:scopeNote>
+        <dcterms:identifier xml:lang="en">{"id": "fcfc606b-c794-4098-ac07-69cf96775a07", "value": "https://data.vlaanderen.be/id/concept/levensfase/sunset"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/74926c16-2979-4924-adc1-50cc53f001a8">
+        <skos:inScheme rdf:resource="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67"/>
+        <dcterms:identifier xml:lang="en">{"id": "acc5a29d-744f-4b82-87fb-18f38c334fc8", "value": "https://data.vlaanderen.be/id/concept/levensfase/deprecated"}</dcterms:identifier>
+        <skos:scopeNote xml:lang="nl">{"id": "d2df911d-0b06-4537-9a39-4184fa07f9e7", "value": "De service is nog beschikbaar maar is nog slechts beschikbaar om de overstap te vergemakkelijken naar een levensfase. Geen nieuwe aansluitingen zijn mogelijk. "}</skos:scopeNote>
+        <skos:prefLabel xml:lang="nl">{"id": "894f9fda-ea4d-4a3b-8d96-67c918c3d021", "value": "offline"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:inScheme rdf:resource="http://localhost:8000/8b6ea518-2dd1-4895-9aa8-8e1248b7bf67"/>
+    <skos:prefLabel xml:lang="nl">{"id": "58ba0f79-62d3-48ad-acea-d94a35c5b55a", "value": "levensfase"}</skos:prefLabel>
+  </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,17 @@
+	*.pyc
+*.log
+datahub/logs
+datahub/export_deliverables
+datahub/cantaloupe/*
+datahub/staticfiles
+datahub/media/packages
+datahub/media/build/*
+datahub/uploadedfiles/*
+datahub/settings_local.py
+datahub/webpack/webpack-stats.json
+datahub/webpack/webpack-user-config.js
+.vscode/
+CACHE
+.DS_Store
+.venv
+

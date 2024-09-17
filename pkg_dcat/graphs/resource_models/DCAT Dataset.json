@@ -1,0 +1,92 @@
+{
+    "graph": [
+        {
+            "author": " ",
+            "cards": [],
+            "cards_x_nodes_x_widgets": [],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "en": ""
+            },
+            "edges": [],
+            "functions_x_graphs": [],
+            "graphid": "8b423f8c-2d79-4eb4-93d6-afa5782e3ef8",
+            "iconclass": "",
+            "is_editable": true,
+            "isresource": true,
+            "jsonldcontext": null,
+            "name": {
+                "en": "DCAT Dataset"
+            },
+            "nodegroups": [],
+            "nodes": [
+                {
+                    "alias": null,
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "8b423f8c-2d79-4eb4-93d6-afa5782e3ef8",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "DCAT Dataset",
+                    "nodegroup_id": null,
+                    "nodeid": "19974426-5cd8-11ef-90cc-96a6d245525a",
+                    "ontologyclass": "http://www.w3.org/ns/dcat#Dataset",
+                    "parentproperty": "",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                }
+            ],
+            "ontology_id": "83a164f7-2ec1-48db-bdd8-b73779c339c9",
+            "publication": null,
+            "relatable_resource_model_ids": [
+                "fa2cd367-4f1c-4e14-84dc-6cb1e794f015"
+            ],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": null,
+                "config": {
+                    "en": ""
+                },
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "8b423f8c-2d79-4eb4-93d6-afa5782e3ef8",
+                "hascustomalias": false,
+                "is_collector": false,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "DCAT Dataset",
+                "nodegroup_id": null,
+                "nodeid": "19974426-5cd8-11ef-90cc-96a6d245525a",
+                "ontologyclass": "http://www.w3.org/ns/dcat#Dataset",
+                "sortorder": 0,
+                "sourcebranchpublication_id": null
+            },
+            "slug": null,
+            "subtitle": {
+                "en": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ],
+    "metadata": {
+        "db": "PostgreSQL 15.7 (Postgres.app) on aarch64-apple-darwin21.6.0, compiled by Apple clang version 14.0.0 (clang-1400.0.29.102), 64-bit",
+        "git hash": "c245e517 2024-08-17 21:23:23 +0200",
+        "os": "Darwin",
+        "os version": "23.6.0"
+    }
+}

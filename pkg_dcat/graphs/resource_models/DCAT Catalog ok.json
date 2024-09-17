@@ -1,0 +1,158 @@
+{
+    "graph": [
+        {
+            "author": " ",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "6ed24aec-68c2-48a7-a6e9-a9916a2d204d",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "fa2cd367-4f1c-4e14-84dc-6cb1e794f015",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": null
+                    },
+                    "helptitle": {
+                        "en": null
+                    },
+                    "instructions": {
+                        "en": null
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "New Node"
+                    },
+                    "nodegroup_id": "57ea3870-5ce0-11ef-90cc-96a6d245525a",
+                    "sortorder": null,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "en": ""
+            },
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "63a09b7c-5cd7-11ef-90cc-96a6d245525a",
+                    "edgeid": "bc4523cb-392a-49aa-af74-7792eb44422c",
+                    "graph_id": "fa2cd367-4f1c-4e14-84dc-6cb1e794f015",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/ns/dcat#themeTaxonomy",
+                    "rangenode_id": "57ea3870-5ce0-11ef-90cc-96a6d245525a"
+                }
+            ],
+            "functions_x_graphs": [],
+            "graphid": "fa2cd367-4f1c-4e14-84dc-6cb1e794f015",
+            "iconclass": "",
+            "is_editable": true,
+            "isresource": true,
+            "jsonldcontext": null,
+            "name": {
+                "en": "DCAT Catalog ok"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "57ea3870-5ce0-11ef-90cc-96a6d245525a",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": null,
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "fa2cd367-4f1c-4e14-84dc-6cb1e794f015",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "New Node",
+                    "nodegroup_id": "57ea3870-5ce0-11ef-90cc-96a6d245525a",
+                    "nodeid": "57ea3870-5ce0-11ef-90cc-96a6d245525a",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Resource",
+                    "parentproperty": "http://www.w3.org/ns/dcat#themeTaxonomy",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": null,
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "fa2cd367-4f1c-4e14-84dc-6cb1e794f015",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "DCAT Catalog ok",
+                    "nodegroup_id": null,
+                    "nodeid": "63a09b7c-5cd7-11ef-90cc-96a6d245525a",
+                    "ontologyclass": "http://www.w3.org/ns/dcat#Catalog",
+                    "parentproperty": "",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                }
+            ],
+            "ontology_id": "83a164f7-2ec1-48db-bdd8-b73779c339c9",
+            "publication": null,
+            "relatable_resource_model_ids": [],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": null,
+                "config": {
+                    "en": ""
+                },
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "fa2cd367-4f1c-4e14-84dc-6cb1e794f015",
+                "hascustomalias": false,
+                "is_collector": false,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "DCAT Catalog ok",
+                "nodegroup_id": null,
+                "nodeid": "63a09b7c-5cd7-11ef-90cc-96a6d245525a",
+                "ontologyclass": "http://www.w3.org/ns/dcat#Catalog",
+                "sortorder": 0,
+                "sourcebranchpublication_id": null
+            },
+            "slug": null,
+            "subtitle": {
+                "en": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ],
+    "metadata": {
+        "db": "PostgreSQL 15.7 (Postgres.app) on aarch64-apple-darwin21.6.0, compiled by Apple clang version 14.0.0 (clang-1400.0.29.102), 64-bit",
+        "git hash": "c245e517 2024-08-17 21:23:23 +0200",
+        "os": "Darwin",
+        "os version": "23.6.0"
+    }
+}

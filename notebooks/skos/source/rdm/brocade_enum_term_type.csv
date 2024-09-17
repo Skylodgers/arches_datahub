@@ -1,0 +1,33 @@
+﻿concept,label,comment,identifier,inscheme,no_cloi,no_occ
+https://data.antwerp.be/id/term/brocade-authorities/att-ty,verwijzing type,,,https://data.antwerp.be/id/term/brocade-authorities,360404,362105
+https://data.antwerp.be/id/term/brocade-authorities/rel-ty,relatie type,,,https://data.antwerp.be/id/term/brocade-authorities,287848,1761288
+https://data.antwerp.be/id/term/brocade-authorities/scope-ty,scope type,,,https://data.antwerp.be/id/term/brocade-authorities,224208,252979
+https://data.antwerp.be/id/term/brocade-authorities/ta,taal,,,https://data.antwerp.be/id/term/brocade-authorities,1656744,1665298
+https://data.antwerp.be/id/term/brocade-authorities/ty,authority type,,,https://data.antwerp.be/id/term/brocade-authorities,459246,459246
+https://data.antwerp.be/id/term/brocade-catalog/co-ty,collatie type,,,https://data.antwerp.be/id/term/brocade-catalog,688405,691135
+https://data.antwerp.be/id/term/brocade-catalog/dr,medium,,,https://data.antwerp.be/id/term/brocade-catalog,1014034,1014034
+https://data.antwerp.be/id/term/brocade-catalog/co-fm,formaat,,,https://data.antwerp.be/id/term/brocade-catalog,56404,58152
+https://data.antwerp.be/id/term/brocade-catalog/fu,functie,,,https://data.antwerp.be/id/term/brocade-catalog,1936097,2198547
+https://data.antwerp.be/id/term/brocade-catalog/im-ty,impressum type,,,https://data.antwerp.be/id/term/brocade-catalog,949339,952767
+https://data.antwerp.be/id/term/brocade-catalog/in-ty,informatie type,,,https://data.antwerp.be/id/term/brocade-catalog,908630,932765
+https://data.antwerp.be/id/term/brocade-catalog/lg,taal,,,https://data.antwerp.be/id/term/brocade-catalog,1049803,2053837
+https://data.antwerp.be/id/term/brocade-catalog/lg-ty,taal type,,,https://data.antwerp.be/id/term/brocade-catalog,963345,1005484
+https://data.antwerp.be/id/term/brocade-catalog/library,bibliotheek,,,https://data.antwerp.be/id/term/brocade-catalog,1021288,1021288
+https://data.antwerp.be/id/term/brocade-catalog/nr-ty,nummer type,,,https://data.antwerp.be/id/term/brocade-catalog,2070138,2124392
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty,annotatie type,,,https://data.antwerp.be/id/term/brocade-catalog,137429,153213
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty,relatie type,,,https://data.antwerp.be/id/term/brocade-catalog,592900,750078
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg,sigillum,,,https://data.antwerp.be/id/term/brocade-catalog,381290,459524
+https://data.antwerp.be/id/term/brocade-catalog/ta,taal,,,https://data.antwerp.be/id/term/brocade-catalog,130062,153213
+https://data.antwerp.be/id/term/brocade-catalog/ti-ty,titel type,,,https://data.antwerp.be/id/term/brocade-catalog,1035895,1048353
+https://data.antwerp.be/id/term/brocade-catalog/co-pg,paginering,,http://vocab.getty.edu/aat/300435440,https://data.antwerp.be/id/term/brocade-catalog,,
+https://data.antwerp.be/id/term/brocade-catalog/holding-pkbz,bezitsinfomatie,,,https://data.antwerp.be/id/term/brocade-catalog,,
+https://data.antwerp.be/id/term/brocade-catalog/ed,editie,,http://vocab.getty.edu/aat/300435435,https://data.antwerp.be/id/term/brocade-catalog,,
+https://data.antwerp.be/id/term/brocade-catalog/nm-ex,naam toevoeging,,,https://data.antwerp.be/id/term/brocade-catalog,,
+https://data.antwerp.be/id/term/brocade-catalog/nm-fn,achternaam,,http://vocab.getty.edu/aat/300435247,https://data.antwerp.be/id/term/brocade-catalog,,
+https://data.antwerp.be/id/term/brocade-catalog/nm-vn,voornaam,,http://vocab.getty.edu/page/300404651,https://data.antwerp.be/id/term/brocade-catalog,,
+https://data.antwerp.be/id/term/brocade-catalog/publication-ty,publicatie type,,,https://data.antwerp.be/id/term/brocade-catalog,,
+https://data.antwerp.be/id/term/brocade-catalog/co-am,begeleidend materiaal,,,https://data.antwerp.be/id/term/brocade-catalog,,
+https://data.antwerp.be/id/term/brocade-catalog/co-il,illustratie,,,https://data.antwerp.be/id/term/brocade-catalog,,
+https://data.antwerp.be/id/term/brocade-catalog/co-ka,katernopbouw,,http://vocab.getty.edu/aat/300194226,https://data.antwerp.be/id/term/brocade-catalog,,
+https://data.antwerp.be/id/term/brocade-catalog/co-sz,omvang,,,https://data.antwerp.be/id/term/brocade-catalog,,
+https://data.antwerp.be/id/term/brocade-catalog/nm,naam,,http://vocab.getty.edu/aat/300404688,https://data.antwerp.be/id/term/brocade-catalog,,

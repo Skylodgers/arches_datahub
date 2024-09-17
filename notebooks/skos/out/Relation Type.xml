@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+>
+  <skos:ConceptScheme rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty">
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty:inclin">
+        <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty"/>
+        <skos:altLabel xml:lang="nl">Opgenomen in</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">inclin</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty:enp">
+        <skos:prefLabel xml:lang="nl">enp</skos:prefLabel>
+        <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty"/>
+        <skos:altLabel xml:lang="nl">Elektronische versie naar papier</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty:cuo">
+        <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty"/>
+        <skos:prefLabel xml:lang="nl">cuo</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Gecumuleerde edities van een periodiek</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty:cob">
+        <skos:prefLabel xml:lang="nl">cob</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Voortzetting van, voortgezet door</skos:altLabel>
+        <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty:na">
+        <skos:prefLabel xml:lang="nl">na</skos:prefLabel>
+        <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty"/>
+        <skos:altLabel xml:lang="nl">Artikels in tijdschriften</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty:incl">
+        <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty"/>
+        <skos:prefLabel xml:lang="nl">incl</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Bevat</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty:repof">
+        <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty"/>
+        <skos:prefLabel xml:lang="nl">repof</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Reproducties</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty:recof">
+        <skos:prefLabel xml:lang="nl">recof</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Recensies</skos:altLabel>
+        <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty:iswi">
+        <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty"/>
+        <skos:prefLabel xml:lang="nl">iswi</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Ook uitgegeven met</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty:colof">
+        <skos:prefLabel xml:lang="nl">colof</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Bundeling</skos:altLabel>
+        <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty:an">
+        <skos:prefLabel xml:lang="nl">an</skos:prefLabel>
+        <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty"/>
+        <skos:altLabel xml:lang="nl">Artikels in tijdschriften</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty:incorp">
+        <skos:altLabel xml:lang="nl">Bevat</skos:altLabel>
+        <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty"/>
+        <skos:prefLabel xml:lang="nl">incorp</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty:lbnc">
+        <skos:altLabel xml:lang="nl">Van regelwerk lvd naar regelwerk bnc</skos:altLabel>
+        <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty"/>
+        <skos:prefLabel xml:lang="nl">lbnc</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty:trec">
+        <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty"/>
+        <skos:prefLabel xml:lang="nl">trec</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Recensies</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty:ofcol">
+        <skos:altLabel xml:lang="nl">Bundeling</skos:altLabel>
+        <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty"/>
+        <skos:prefLabel xml:lang="nl">ofcol</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty:inp">
+        <skos:prefLabel xml:lang="nl">inp</skos:prefLabel>
+        <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty"/>
+        <skos:altLabel xml:lang="nl">Indexen van periodieken</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <dcterms:title xml:lang="nl">Relation Type</dcterms:title>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty:cbo">
+        <skos:prefLabel xml:lang="nl">cbo</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Voortzetting van, voortgezet door</skos:altLabel>
+        <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty:pne">
+        <skos:prefLabel xml:lang="nl">pne</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Elektronische versie naar papier</skos:altLabel>
+        <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty:ong">
+        <skos:prefLabel xml:lang="nl">ong</skos:prefLabel>
+        <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty"/>
+        <skos:altLabel xml:lang="nl">Tracks bij muziekopnamen/Onderdelen in manuscripten</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty:nt">
+        <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty"/>
+        <skos:altLabel xml:lang="nl">Artikels in tijdschriften</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">nt</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty:cui">
+        <skos:altLabel xml:lang="nl">Gecumuleerde edities van een periodiek</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">cui</skos:prefLabel>
+        <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty:rect">
+        <skos:altLabel xml:lang="nl">Recensies</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">rect</skos:prefLabel>
+        <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty:wiis">
+        <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty"/>
+        <skos:altLabel xml:lang="nl">Ook uitgegeven met</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">wiis</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty:iwe">
+        <skos:altLabel xml:lang="nl">Samen met</skos:altLabel>
+        <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty"/>
+        <skos:prefLabel xml:lang="nl">iwe</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty:pni">
+        <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty"/>
+        <skos:altLabel xml:lang="nl">Indexen van periodieken</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">pni</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty:partofi">
+        <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty"/>
+        <skos:prefLabel xml:lang="nl">partofi</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Onderdeel van</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty:ofrep">
+        <skos:altLabel xml:lang="nl">Reproducties</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">ofrep</skos:prefLabel>
+        <skos:inScheme rdf:resource="https://data.antwerp.be/id/concept/brocade-catalog/relation_ty"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+  </skos:ConceptScheme>
+</rdf:RDF>
