@@ -1,6 +1,6 @@
 {
-  "base": "dcat_v2.0_nl.rdf",
-  "base_name": "OSLO DCAT test",
+  "base": "dcat_v2.0_datahub.rdf",
+  "base_name": "OSLO DCAT",
     "extensions": [
     ],
   "base_version": "2.0",
