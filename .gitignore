@@ -14,3 +14,5 @@ datahub/webpack/webpack-user-config.js
 CACHE
 .DS_Store
 .venv
+data/archesdatahub.sql.zst
+data/archesdatahub.sql
