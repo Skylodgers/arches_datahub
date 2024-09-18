@@ -120,7 +120,8 @@
                     "nodeid": "eefe33c7-1777-11ef-9fb1-960002548b4f",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/PC130_shows_features_of",
                     "parentproperty": "",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "shows_features_of_n1",
@@ -144,7 +145,8 @@
                     "nodeid": "eefe35c2-1777-11ef-b596-960002548b4f",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P02_has_range",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "kind_of_similarity",
@@ -168,7 +170,8 @@
                     "nodeid": "eefe3670-1777-11ef-9fcc-960002548b4f",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P130.1_kind_of_similarity",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "kind_of_similarity_label",
@@ -190,7 +193,8 @@
                     "nodeid": "eefe36ef-1777-11ef-b6e8-960002548b4f",
                     "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
                     "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "shows_features_of_label",
@@ -212,7 +216,8 @@
                     "nodeid": "eefe3766-1777-11ef-ab03-960002548b4f",
                     "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
                     "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 }
             ],
             "ontology_id": "83a164f7-2ec1-48db-bdd8-b73779c339c9",
@@ -238,7 +243,8 @@
                 "nodegroup_id": "eefe33c7-1777-11ef-9fb1-960002548b4f",
                 "nodeid": "eefe33c7-1777-11ef-9fb1-960002548b4f",
                 "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/PC130_shows_features_of",
-                "sortorder": 0
+                "sortorder": 0,
+                "sourcebranchpublication_id": null
             },
             "slug": null,
             "subtitle": {
@@ -247,11 +253,5 @@
             "template_id": "50000000-0000-0000-0000-000000000001",
             "version": ""
         }
-    ],
-    "metadata": {
-        "db": "PostgreSQL 15.5 (Debian 15.5-0+deb12u1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit",
-        "git hash": "fatal: not a git repository (or any of the parent directories): .git",
-        "os": "Linux",
-        "os version": "6.1.0-13-amd64"
-    }
+    ]
 }

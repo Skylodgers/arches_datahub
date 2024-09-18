@@ -1,0 +1,2244 @@
+{
+    "graph": [
+        {
+            "author": "Micha\u00ebl ",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "059203df-18f1-11ef-b0d2-960002548b4f",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": {
+                        "groupedCardIds": [
+                            "f8e6d1ca-bd1a-11eb-962e-9cf387da2c40",
+                            "1ea3f01a-bd1a-11eb-962e-9cf387da2c40"
+                        ],
+                        "sortedWidgetIds": [
+                            "ddc9fd40-cac1-11eb-99fe-00163e71351b",
+                            "ddc9fbce-cac1-11eb-99fe-00163e71351b",
+                            "ddc9fa20-cac1-11eb-99fe-00163e71351b",
+                            "ddc9fc8c-cac1-11eb-99fe-00163e71351b",
+                            "ddc9fb10-cac1-11eb-99fe-00163e71351b",
+                            "06f8c0c6-ce8b-11eb-8a0a-00163e71351b",
+                            "6ef2cb1e-ce8a-11eb-8a0a-00163e71351b",
+                            "b6241952-ce8a-11eb-84a8-00163e71351b",
+                            "b62415d8-ce8a-11eb-84a8-00163e71351b",
+                            "b6241470-ce8a-11eb-84a8-00163e71351b",
+                            "b6241830-ce8a-11eb-84a8-00163e71351b",
+                            "b624170e-ce8a-11eb-84a8-00163e71351b",
+                            "678f6a3a-ce8f-11eb-84a8-00163e71351b",
+                            "678f67ec-ce8f-11eb-84a8-00163e71351b",
+                            "678f66fc-ce8f-11eb-84a8-00163e71351b"
+                        ]
+                    },
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "helpenabled": false,
+                    "helptext": {
+                        "nl": ""
+                    },
+                    "helptitle": {
+                        "nl": ""
+                    },
+                    "instructions": {
+                        "nl": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "nl": "Description"
+                    },
+                    "nodegroup_id": "0591fe96-18f1-11ef-a847-960002548b4f",
+                    "sortorder": 2,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "05920872-18f1-11ef-aa6d-960002548b4f",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": {
+                        "basemap": "streets",
+                        "centerX": 3,
+                        "centerY": 8.5,
+                        "groupedCardIds": [],
+                        "overlayConfigs": [],
+                        "selectSource": "",
+                        "selectSourceLayer": "",
+                        "selectText": "",
+                        "sortedWidgetIds": [
+                            "2c7a95b6-c8c3-11ed-b368-00163e71351b"
+                        ],
+                        "zoom": 0
+                    },
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "helpenabled": false,
+                    "helptext": {
+                        "nl": ""
+                    },
+                    "helptitle": {
+                        "nl": ""
+                    },
+                    "instructions": {
+                        "nl": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "nl": "!Description"
+                    },
+                    "nodegroup_id": "059205ed-18f1-11ef-8fa1-960002548b4f",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "12f00a26-18f1-11ef-ba73-960002548b4f",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "helpenabled": false,
+                    "helptext": {
+                        "nl": ""
+                    },
+                    "helptitle": {
+                        "nl": ""
+                    },
+                    "instructions": {
+                        "nl": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "nl": "la:equivalent"
+                    },
+                    "nodegroup_id": "12f006fd-18f1-11ef-9d4e-960002548b4f",
+                    "sortorder": 4,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "226f6135-18f1-11ef-bd32-960002548b4f",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "helpenabled": false,
+                    "helptext": {
+                        "nl": ""
+                    },
+                    "helptitle": {
+                        "nl": ""
+                    },
+                    "instructions": {
+                        "nl": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "nl": "Identifier"
+                    },
+                    "nodegroup_id": "226f5de9-18f1-11ef-8146-960002548b4f",
+                    "sortorder": 0,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "2eed886c-18f1-11ef-a444-960002548b4f",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "helpenabled": false,
+                    "helptext": {
+                        "nl": ""
+                    },
+                    "helptitle": {
+                        "nl": ""
+                    },
+                    "instructions": {
+                        "nl": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "nl": "Name"
+                    },
+                    "nodegroup_id": "2eed8532-18f1-11ef-b9b8-960002548b4f",
+                    "sortorder": 0,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "3a8efd76-18f1-11ef-8ba1-960002548b4f",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": {
+                        "basemap": "streets",
+                        "centerX": 3,
+                        "centerY": 8.5,
+                        "groupedCardIds": [],
+                        "overlayConfigs": [],
+                        "selectSource": "",
+                        "selectSourceLayer": "",
+                        "selectText": "",
+                        "sortedWidgetIds": [
+                            "2c7a95b6-c8c3-11ed-b368-00163e71351b"
+                        ],
+                        "zoom": 0
+                    },
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "helpenabled": false,
+                    "helptext": {
+                        "nl": ""
+                    },
+                    "helptitle": {
+                        "nl": ""
+                    },
+                    "instructions": {
+                        "nl": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "nl": "Note"
+                    },
+                    "nodegroup_id": "3a8efa85-18f1-11ef-9ab1-960002548b4f",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "4818a6a6-18f1-11ef-8e86-960002548b4f",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "helpenabled": false,
+                    "helptext": {
+                        "nl": ""
+                    },
+                    "helptitle": {
+                        "nl": ""
+                    },
+                    "instructions": {
+                        "nl": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "nl": "Type"
+                    },
+                    "nodegroup_id": "4818a37e-18f1-11ef-8129-960002548b4f",
+                    "sortorder": 3,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "57aa7370-18f1-11ef-ac7f-960002548b4f",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "helpenabled": false,
+                    "helptext": {
+                        "nl": ""
+                    },
+                    "helptitle": {
+                        "nl": ""
+                    },
+                    "instructions": {
+                        "nl": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "nl": "Type Assignment"
+                    },
+                    "nodegroup_id": "57aa7208-18f1-11ef-8332-960002548b4f",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "736ebff7-1dab-11ef-b6c8-960002548b4f",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "helpenabled": false,
+                    "helptext": {
+                        "nl": ""
+                    },
+                    "helptitle": {
+                        "nl": ""
+                    },
+                    "instructions": {
+                        "nl": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "nl": "skos:broader"
+                    },
+                    "nodegroup_id": "736ebc97-1dab-11ef-b95a-960002548b4f",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "943f3298-1dac-11ef-b1e5-960002548b4f",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "helpenabled": false,
+                    "helptext": {
+                        "nl": ""
+                    },
+                    "helptitle": {
+                        "nl": ""
+                    },
+                    "instructions": {
+                        "nl": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "nl": "skos:exactMatch"
+                    },
+                    "nodegroup_id": "943f314e-1dac-11ef-b1f3-960002548b4f",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "9d53ded4-1dac-11ef-af96-960002548b4f",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "helpenabled": false,
+                    "helptext": {
+                        "nl": ""
+                    },
+                    "helptitle": {
+                        "nl": ""
+                    },
+                    "instructions": {
+                        "nl": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "nl": "skos:narrower"
+                    },
+                    "nodegroup_id": "9d53dc5b-1dac-11ef-92b2-960002548b4f",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "aff60ffc-1dab-11ef-b299-960002548b4f",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "helpenabled": false,
+                    "helptext": {
+                        "nl": ""
+                    },
+                    "helptitle": {
+                        "nl": ""
+                    },
+                    "instructions": {
+                        "nl": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "nl": "skos:closeMatch"
+                    },
+                    "nodegroup_id": "aff60cda-1dab-11ef-b781-960002548b4f",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "eff487dc-18f0-11ef-902c-960002548b4f",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "helpenabled": false,
+                    "helptext": {
+                        "nl": ""
+                    },
+                    "helptitle": {
+                        "nl": ""
+                    },
+                    "instructions": {
+                        "nl": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "nl": "Attribute Assignment"
+                    },
+                    "nodegroup_id": "eff48443-18f0-11ef-bfcb-960002548b4f",
+                    "sortorder": null,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "05920872-18f1-11ef-aa6d-960002548b4f",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Expressie Toelichting",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "05920dc2-18f1-11ef-af58-960002548b4f",
+                    "label": {
+                        "en": "Expressie Toelichting"
+                    },
+                    "node_id": "059205ed-18f1-11ef-8fa1-960002548b4f",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "059203df-18f1-11ef-b0d2-960002548b4f",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Beschrijving inhoud",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "05920e81-18f1-11ef-bcca-960002548b4f",
+                    "label": {
+                        "en": "Beschrijving inhoud"
+                    },
+                    "node_id": "05920a47-18f1-11ef-9c36-960002548b4f",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "059203df-18f1-11ef-b0d2-960002548b4f",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Beschrijving type label",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "05920f17-18f1-11ef-ade4-960002548b4f",
+                    "label": {
+                        "en": "Beschrijving type label"
+                    },
+                    "node_id": "05920bcc-18f1-11ef-8cde-960002548b4f",
+                    "sortorder": 2,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "059203df-18f1-11ef-b0d2-960002548b4f",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Beschrijving type URI",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "05920f9d-18f1-11ef-bd2b-960002548b4f",
+                    "label": {
+                        "en": "Beschrijving type URI"
+                    },
+                    "node_id": "05920d08-18f1-11ef-a9d8-960002548b4f",
+                    "sortorder": 1,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "12f00a26-18f1-11ef-ba73-960002548b4f",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Equivalent URI",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "12f00e2a-18f1-11ef-9f14-960002548b4f",
+                    "label": {
+                        "en": "Equivalent URI"
+                    },
+                    "node_id": "12f006fd-18f1-11ef-9d4e-960002548b4f",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "226f6135-18f1-11ef-bd32-960002548b4f",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            },
+                            "nl": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Identificator",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text",
+                            "nl": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "226f66d7-18f1-11ef-bf2c-960002548b4f",
+                    "label": {
+                        "en": "Identificator inhoud",
+                        "nl": "Identificator"
+                    },
+                    "node_id": "226f64d8-18f1-11ef-bdc8-960002548b4f",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "226f6135-18f1-11ef-bd32-960002548b4f",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            },
+                            "nl": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Identificator type label",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text",
+                            "nl": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "226f678e-18f1-11ef-9488-960002548b4f",
+                    "label": {
+                        "en": "Identificator type label",
+                        "nl": "Identificator type label"
+                    },
+                    "node_id": "226f6335-18f1-11ef-a125-960002548b4f",
+                    "sortorder": 2,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "226f6135-18f1-11ef-bd32-960002548b4f",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Identificator type",
+                        "placeholder": {
+                            "en": "",
+                            "nl": ""
+                        }
+                    },
+                    "id": "226f681a-18f1-11ef-aa8a-960002548b4f",
+                    "label": {
+                        "en": "Identificator type URI",
+                        "nl": "Identificator type"
+                    },
+                    "node_id": "226f6621-18f1-11ef-9346-960002548b4f",
+                    "sortorder": 1,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "2eed886c-18f1-11ef-a444-960002548b4f",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Benaming type URI",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "2eed8df7-18f1-11ef-ac75-960002548b4f",
+                    "label": {
+                        "en": "Benaming type URI"
+                    },
+                    "node_id": "2eed8a49-18f1-11ef-9b8f-960002548b4f",
+                    "sortorder": 3,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "2eed886c-18f1-11ef-a444-960002548b4f",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Benaming type label",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "2eed8ead-18f1-11ef-9d81-960002548b4f",
+                    "label": {
+                        "en": "Benaming type label"
+                    },
+                    "node_id": "2eed8be3-18f1-11ef-91c7-960002548b4f",
+                    "sortorder": 4,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "2eed886c-18f1-11ef-a444-960002548b4f",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Benaming inhoud",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "2eed8f39-18f1-11ef-8e38-960002548b4f",
+                    "label": {
+                        "en": "Benaming inhoud"
+                    },
+                    "node_id": "2eed8d34-18f1-11ef-96af-960002548b4f",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "3a8efd76-18f1-11ef-8ba1-960002548b4f",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Expressie Toelichting",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "3a8efe97-18f1-11ef-bfb3-960002548b4f",
+                    "label": {
+                        "en": "Expressie Toelichting"
+                    },
+                    "node_id": "3a8efa85-18f1-11ef-9ab1-960002548b4f",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "4818a6a6-18f1-11ef-8e86-960002548b4f",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Type label",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "4818ac29-18f1-11ef-8746-960002548b4f",
+                    "label": {
+                        "en": "Type label"
+                    },
+                    "node_id": "4818ab6f-18f1-11ef-ac0b-960002548b4f",
+                    "sortorder": 1,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "4818a6a6-18f1-11ef-8e86-960002548b4f",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Type type URI",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "4818acdd-18f1-11ef-8a1d-960002548b4f",
+                    "label": {
+                        "en": "Type type URI"
+                    },
+                    "node_id": "4818a888-18f1-11ef-8db5-960002548b4f",
+                    "sortorder": 2,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "4818a6a6-18f1-11ef-8e86-960002548b4f",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Type type label",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "4818ad67-18f1-11ef-8ad6-960002548b4f",
+                    "label": {
+                        "en": "Type type label"
+                    },
+                    "node_id": "4818aa24-18f1-11ef-96ca-960002548b4f",
+                    "sortorder": 3,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "4818a6a6-18f1-11ef-8e86-960002548b4f",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Type URI",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "4818adea-18f1-11ef-a573-960002548b4f",
+                    "label": {
+                        "en": "Type URI"
+                    },
+                    "node_id": "4818a37e-18f1-11ef-8129-960002548b4f",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "943f3298-1dac-11ef-b1e5-960002548b4f",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "ExactMatch",
+                        "placeholder": {
+                            "nl": ""
+                        }
+                    },
+                    "id": "943f331a-1dac-11ef-8914-960002548b4f",
+                    "label": {
+                        "nl": "ExactMatch"
+                    },
+                    "node_id": "943f314e-1dac-11ef-b1f3-960002548b4f",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "9d53ded4-1dac-11ef-af96-960002548b4f",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Narrower",
+                        "placeholder": {
+                            "nl": ""
+                        }
+                    },
+                    "id": "9d53dfeb-1dac-11ef-b1af-960002548b4f",
+                    "label": {
+                        "nl": "Narrower"
+                    },
+                    "node_id": "9d53dc5b-1dac-11ef-92b2-960002548b4f",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                }
+            ],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "nl": ""
+            },
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "0591fe96-18f1-11ef-a847-960002548b4f",
+                    "edgeid": "05926963-18f1-11ef-a38d-960002548b4f",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
+                    "rangenode_id": "05920a47-18f1-11ef-9c36-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "05920d08-18f1-11ef-a9d8-960002548b4f",
+                    "edgeid": "05926ba6-18f1-11ef-ba1d-960002548b4f",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "rangenode_id": "05920bcc-18f1-11ef-8cde-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "0591fe96-18f1-11ef-a847-960002548b4f",
+                    "edgeid": "05926d19-18f1-11ef-84ca-960002548b4f",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "rangenode_id": "05920d08-18f1-11ef-a9d8-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "0591fe96-18f1-11ef-a847-960002548b4f",
+                    "edgeid": "05926e54-18f1-11ef-b2d5-960002548b4f",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P3_has_note",
+                    "rangenode_id": "059205ed-18f1-11ef-8fa1-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "daffea92-18f0-11ef-b007-960002548b4f",
+                    "edgeid": "0ab738c9-3052-4265-aa14-0cb7ebdac60e",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P41i_was_classified_by",
+                    "rangenode_id": "57aa7208-18f1-11ef-8332-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "12f006fd-18f1-11ef-9d4e-960002548b4f",
+                    "edgeid": "12f03a26-18f1-11ef-8bf5-960002548b4f",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "rangenode_id": "12f00d71-18f1-11ef-bf3c-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "12f006fd-18f1-11ef-9d4e-960002548b4f",
+                    "edgeid": "12f03c3e-18f1-11ef-b571-960002548b4f",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P3_has_note",
+                    "rangenode_id": "12f00bec-18f1-11ef-bcdc-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "daffea92-18f0-11ef-b007-960002548b4f",
+                    "edgeid": "1e70d716-80b7-4888-9c8f-fffb16ada5a2",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "rangenode_id": "4818a37e-18f1-11ef-8129-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "226f5de9-18f1-11ef-8146-960002548b4f",
+                    "edgeid": "226f964f-18f1-11ef-b37d-960002548b4f",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
+                    "rangenode_id": "226f64d8-18f1-11ef-bdc8-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "226f5de9-18f1-11ef-8146-960002548b4f",
+                    "edgeid": "226f9853-18f1-11ef-94a3-960002548b4f",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "rangenode_id": "226f6621-18f1-11ef-9346-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "226f6621-18f1-11ef-9346-960002548b4f",
+                    "edgeid": "226f99b2-18f1-11ef-bc5a-960002548b4f",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "rangenode_id": "226f6335-18f1-11ef-a125-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "2eed8532-18f1-11ef-b9b8-960002548b4f",
+                    "edgeid": "2eedbd1b-18f1-11ef-aead-960002548b4f",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
+                    "rangenode_id": "2eed8d34-18f1-11ef-96af-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "2eed8532-18f1-11ef-b9b8-960002548b4f",
+                    "edgeid": "2eedbf2e-18f1-11ef-9c24-960002548b4f",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "rangenode_id": "2eed8a49-18f1-11ef-9b8f-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "2eed8a49-18f1-11ef-9b8f-960002548b4f",
+                    "edgeid": "2eedc09b-18f1-11ef-9a21-960002548b4f",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "rangenode_id": "2eed8be3-18f1-11ef-91c7-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "daffea92-18f0-11ef-b007-960002548b4f",
+                    "edgeid": "3bbc0ff6-fef4-4bc9-9577-d0f50881cd97",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P140i_was_attributed_by",
+                    "rangenode_id": "eff48443-18f0-11ef-bfcb-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "daffea92-18f0-11ef-b007-960002548b4f",
+                    "edgeid": "415709a3-5866-4cad-9119-9101f607a272",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/2004/02/skos/core#narrower",
+                    "rangenode_id": "9d53dc5b-1dac-11ef-92b2-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "daffea92-18f0-11ef-b007-960002548b4f",
+                    "edgeid": "4521ebf1-e692-4302-8f61-bf5016bd2f4b",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/2004/02/skos/core#broader",
+                    "rangenode_id": "736ebc97-1dab-11ef-b95a-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "daffea92-18f0-11ef-b007-960002548b4f",
+                    "edgeid": "46a1aa65-4980-461a-8e6f-b88874f394c6",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/2004/02/skos/core#exactMatch",
+                    "rangenode_id": "943f314e-1dac-11ef-b1f3-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "4818a37e-18f1-11ef-8129-960002548b4f",
+                    "edgeid": "4818dd35-18f1-11ef-b77e-960002548b4f",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "rangenode_id": "4818a888-18f1-11ef-8db5-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "4818a888-18f1-11ef-8db5-960002548b4f",
+                    "edgeid": "4818df7a-18f1-11ef-b019-960002548b4f",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "rangenode_id": "4818aa24-18f1-11ef-96ca-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "4818a37e-18f1-11ef-8129-960002548b4f",
+                    "edgeid": "4818e102-18f1-11ef-82df-960002548b4f",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "rangenode_id": "4818ab6f-18f1-11ef-ac0b-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "daffea92-18f0-11ef-b007-960002548b4f",
+                    "edgeid": "53aa3069-c8a0-4f64-8a1f-cb286768b4a3",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "https://linked.art/ns/terms/equivalent",
+                    "rangenode_id": "12f006fd-18f1-11ef-9d4e-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "57aa7208-18f1-11ef-8332-960002548b4f",
+                    "edgeid": "57aa91b5-18f1-11ef-8e66-960002548b4f",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P42_assigned",
+                    "rangenode_id": "57aa74ea-18f1-11ef-a038-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "57aa7208-18f1-11ef-8332-960002548b4f",
+                    "edgeid": "57aa929d-18f1-11ef-b1d6-960002548b4f",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P177_assigned_property_of_type",
+                    "rangenode_id": "57aa7431-18f1-11ef-a813-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "57aa74ea-18f1-11ef-a038-960002548b4f",
+                    "edgeid": "57aa9334-18f1-11ef-816e-960002548b4f",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "rangenode_id": "57aa75dc-18f1-11ef-bb85-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "57aa7431-18f1-11ef-a813-960002548b4f",
+                    "edgeid": "57aa93b4-18f1-11ef-8c55-960002548b4f",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "rangenode_id": "57aa7568-18f1-11ef-b955-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "57aa7208-18f1-11ef-8332-960002548b4f",
+                    "edgeid": "57aa942b-18f1-11ef-9d94-960002548b4f",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P3_has_note",
+                    "rangenode_id": "57aa7653-18f1-11ef-805f-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "daffea92-18f0-11ef-b007-960002548b4f",
+                    "edgeid": "649ba497-cd6a-4887-84d8-3155cedd96e3",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
+                    "rangenode_id": "226f5de9-18f1-11ef-8146-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "daffea92-18f0-11ef-b007-960002548b4f",
+                    "edgeid": "7d158b07-6762-4909-a98e-8c1ae886f7e4",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/2004/02/skos/core#closeMatch",
+                    "rangenode_id": "aff60cda-1dab-11ef-b781-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "daffea92-18f0-11ef-b007-960002548b4f",
+                    "edgeid": "bb9c179c-a520-4c09-acca-37f29194718b",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P129i_is_subject_of",
+                    "rangenode_id": "0591fe96-18f1-11ef-a847-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "daffea92-18f0-11ef-b007-960002548b4f",
+                    "edgeid": "c52bc9b3-c898-45cc-89ab-e2f56e995356",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P3_has_note",
+                    "rangenode_id": "3a8efa85-18f1-11ef-9ab1-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "daffea92-18f0-11ef-b007-960002548b4f",
+                    "edgeid": "cb124293-8901-47f8-8dd6-7e918551eece",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
+                    "rangenode_id": "2eed8532-18f1-11ef-b9b8-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "eff48443-18f0-11ef-bfcb-960002548b4f",
+                    "edgeid": "eff4d10b-18f0-11ef-a03a-960002548b4f",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P141_assigned",
+                    "rangenode_id": "eff48c1e-18f0-11ef-9686-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "eff48443-18f0-11ef-bfcb-960002548b4f",
+                    "edgeid": "eff4d349-18f0-11ef-9afb-960002548b4f",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P177_assigned_property_of_type",
+                    "rangenode_id": "eff48a15-18f0-11ef-9a74-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "eff48443-18f0-11ef-bfcb-960002548b4f",
+                    "edgeid": "eff4d4d8-18f0-11ef-9136-960002548b4f",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P3_has_note",
+                    "rangenode_id": "eff48d80-18f0-11ef-a514-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "eff48c1e-18f0-11ef-9686-960002548b4f",
+                    "edgeid": "eff4d639-18f0-11ef-8619-960002548b4f",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "rangenode_id": "eff49005-18f0-11ef-a226-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "eff48a15-18f0-11ef-9a74-960002548b4f",
+                    "edgeid": "eff4d782-18f0-11ef-9b12-960002548b4f",
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "rangenode_id": "eff48ec9-18f0-11ef-bcc4-960002548b4f"
+                }
+            ],
+            "functions_x_graphs": [],
+            "graphid": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+            "iconclass": "",
+            "is_editable": true,
+            "isresource": true,
+            "jsonldcontext": null,
+            "name": {
+                "nl": "Term Activity"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "0591fe96-18f1-11ef-a847-960002548b4f",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "059205ed-18f1-11ef-8fa1-960002548b4f",
+                    "parentnodegroup_id": "0591fe96-18f1-11ef-a847-960002548b4f"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "12f006fd-18f1-11ef-9d4e-960002548b4f",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "226f5de9-18f1-11ef-8146-960002548b4f",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "2eed8532-18f1-11ef-b9b8-960002548b4f",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "3a8efa85-18f1-11ef-9ab1-960002548b4f",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "4818a37e-18f1-11ef-8129-960002548b4f",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "57aa7208-18f1-11ef-8332-960002548b4f",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "736ebc97-1dab-11ef-b95a-960002548b4f",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "943f314e-1dac-11ef-b1f3-960002548b4f",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "9d53dc5b-1dac-11ef-92b2-960002548b4f",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "aff60cda-1dab-11ef-b781-960002548b4f",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "eff48443-18f0-11ef-bfcb-960002548b4f",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "description",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Description",
+                    "nodegroup_id": "0591fe96-18f1-11ef-a847-960002548b4f",
+                    "nodeid": "0591fe96-18f1-11ef-a847-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P129i_is_subject_of",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "description_note",
+                    "config": {
+                        "fuzzy_day_padding": 1,
+                        "fuzzy_month_padding": 1,
+                        "fuzzy_season_padding": 12,
+                        "fuzzy_year_padding": 1,
+                        "multiplier_if_approximate": 1,
+                        "multiplier_if_both": 1,
+                        "multiplier_if_uncertain": 1
+                    },
+                    "datatype": "string",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Description Note",
+                    "nodegroup_id": "059205ed-18f1-11ef-8fa1-960002548b4f",
+                    "nodeid": "059205ed-18f1-11ef-8fa1-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P3_has_note",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "description_content",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": "notes/lhdetail",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Description Content",
+                    "nodegroup_id": "0591fe96-18f1-11ef-a847-960002548b4f",
+                    "nodeid": "05920a47-18f1-11ef-9c36-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "description_type_label",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Description Type Label",
+                    "nodegroup_id": "0591fe96-18f1-11ef-a847-960002548b4f",
+                    "nodeid": "05920bcc-18f1-11ef-8cde-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "description_type",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "74c87bc1-8a29-437a-88cc-3f49837dfc4e",
+                                "name": "Concept"
+                            }
+                        ],
+                        "rdmCollection": null,
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Description Type",
+                    "nodegroup_id": "0591fe96-18f1-11ef-a847-960002548b4f",
+                    "nodeid": "05920d08-18f1-11ef-a9d8-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "la_equivalent",
+                    "config": {
+                        "graphs": [],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "url",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "la:equivalent",
+                    "nodegroup_id": "12f006fd-18f1-11ef-9d4e-960002548b4f",
+                    "nodeid": "12f006fd-18f1-11ef-9d4e-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity",
+                    "parentproperty": "https://linked.art/ns/terms/equivalent",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "equivalent_note",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Equivalent Note",
+                    "nodegroup_id": "12f006fd-18f1-11ef-9d4e-960002548b4f",
+                    "nodeid": "12f00bec-18f1-11ef-bcdc-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E62_String",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P3_has_note",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "equivalent_label",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Equivalent Label",
+                    "nodegroup_id": "12f006fd-18f1-11ef-9d4e-960002548b4f",
+                    "nodeid": "12f00d71-18f1-11ef-bf3c-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "identifier",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Identifier",
+                    "nodegroup_id": "226f5de9-18f1-11ef-8146-960002548b4f",
+                    "nodeid": "226f5de9-18f1-11ef-8146-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E42_Identifier",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "identifier_type_label",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Identifier Type Label",
+                    "nodegroup_id": "226f5de9-18f1-11ef-8146-960002548b4f",
+                    "nodeid": "226f6335-18f1-11ef-a125-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "identifier_content",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Identifier Content",
+                    "nodegroup_id": "226f5de9-18f1-11ef-8146-960002548b4f",
+                    "nodeid": "226f64d8-18f1-11ef-bdc8-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "identifier_type",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "74c87bc1-8a29-437a-88cc-3f49837dfc4e",
+                                "name": "Concept"
+                            }
+                        ],
+                        "rdmCollection": null,
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Identifier Type",
+                    "nodegroup_id": "226f5de9-18f1-11ef-8146-960002548b4f",
+                    "nodeid": "226f6621-18f1-11ef-9346-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "name",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Name",
+                    "nodegroup_id": "2eed8532-18f1-11ef-b9b8-960002548b4f",
+                    "nodeid": "2eed8532-18f1-11ef-b9b8-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E41_Appellation",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "name_type",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "74c87bc1-8a29-437a-88cc-3f49837dfc4e",
+                                "name": "!! Referenced model does not exist -- Delete and select a new model !!"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Name Type",
+                    "nodegroup_id": "2eed8532-18f1-11ef-b9b8-960002548b4f",
+                    "nodeid": "2eed8a49-18f1-11ef-9b8f-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "name_type_label",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Name Type Label",
+                    "nodegroup_id": "2eed8532-18f1-11ef-b9b8-960002548b4f",
+                    "nodeid": "2eed8be3-18f1-11ef-91c7-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "name_content",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Name Content",
+                    "nodegroup_id": "2eed8532-18f1-11ef-b9b8-960002548b4f",
+                    "nodeid": "2eed8d34-18f1-11ef-96af-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "note",
+                    "config": {
+                        "fuzzy_day_padding": 1,
+                        "fuzzy_month_padding": 1,
+                        "fuzzy_season_padding": 12,
+                        "fuzzy_year_padding": 1,
+                        "multiplier_if_approximate": 1,
+                        "multiplier_if_both": 1,
+                        "multiplier_if_uncertain": 1
+                    },
+                    "datatype": "string",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Note",
+                    "nodegroup_id": "3a8efa85-18f1-11ef-9ab1-960002548b4f",
+                    "nodeid": "3a8efa85-18f1-11ef-9ab1-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P3_has_note",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "type",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "74c87bc1-8a29-437a-88cc-3f49837dfc4e",
+                                "name": "!! Referenced model does not exist -- Delete and select a new model !!"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Type",
+                    "nodegroup_id": "4818a37e-18f1-11ef-8129-960002548b4f",
+                    "nodeid": "4818a37e-18f1-11ef-8129-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "type_type",
+                    "config": {
+                        "graphs": [],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Type Type",
+                    "nodegroup_id": "4818a37e-18f1-11ef-8129-960002548b4f",
+                    "nodeid": "4818a888-18f1-11ef-8db5-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "type_type_label",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Type Type Label",
+                    "nodegroup_id": "4818a37e-18f1-11ef-8129-960002548b4f",
+                    "nodeid": "4818aa24-18f1-11ef-96ca-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "type_label",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Type Label",
+                    "nodegroup_id": "4818a37e-18f1-11ef-8129-960002548b4f",
+                    "nodeid": "4818ab6f-18f1-11ef-ac0b-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "type_assignment",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Type Assignment",
+                    "nodegroup_id": "57aa7208-18f1-11ef-8332-960002548b4f",
+                    "nodeid": "57aa7208-18f1-11ef-8332-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E17_Type_Assignment",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P41i_was_classified_by",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "type_assignment_type",
+                    "config": {
+                        "graphs": [],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Type Assignment Type",
+                    "nodegroup_id": "57aa7208-18f1-11ef-8332-960002548b4f",
+                    "nodeid": "57aa7431-18f1-11ef-a813-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P177_assigned_property_of_type",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "assigned_type",
+                    "config": {
+                        "graphs": [],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Assigned Type",
+                    "nodegroup_id": "57aa7208-18f1-11ef-8332-960002548b4f",
+                    "nodeid": "57aa74ea-18f1-11ef-a038-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P42_assigned",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "type_assignment_type_label",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Type Assignment Type Label",
+                    "nodegroup_id": "57aa7208-18f1-11ef-8332-960002548b4f",
+                    "nodeid": "57aa7568-18f1-11ef-b955-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "assigned_type_label",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Assigned Type Label",
+                    "nodegroup_id": "57aa7208-18f1-11ef-8332-960002548b4f",
+                    "nodeid": "57aa75dc-18f1-11ef-bb85-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "type_assignment_note",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Type Assignment Note",
+                    "nodegroup_id": "57aa7208-18f1-11ef-8332-960002548b4f",
+                    "nodeid": "57aa7653-18f1-11ef-805f-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P3_has_note",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "skos_broader",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "skos:broader",
+                    "nodegroup_id": "736ebc97-1dab-11ef-b95a-960002548b4f",
+                    "nodeid": "736ebc97-1dab-11ef-b95a-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity",
+                    "parentproperty": "http://www.w3.org/2004/02/skos/core#broader",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "skos_exactmatch",
+                    "config": {
+                        "graphs": [],
+                        "rdmCollection": null,
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "skos:exactMatch",
+                    "nodegroup_id": "943f314e-1dac-11ef-b1f3-960002548b4f",
+                    "nodeid": "943f314e-1dac-11ef-b1f3-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity",
+                    "parentproperty": "http://www.w3.org/2004/02/skos/core#exactMatch",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "skos_narrower",
+                    "config": {
+                        "graphs": [],
+                        "rdmCollection": null,
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "skos:narrower",
+                    "nodegroup_id": "9d53dc5b-1dac-11ef-92b2-960002548b4f",
+                    "nodeid": "9d53dc5b-1dac-11ef-92b2-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity",
+                    "parentproperty": "http://www.w3.org/2004/02/skos/core#narrower",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "skos_closematch",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "skos:closeMatch",
+                    "nodegroup_id": "aff60cda-1dab-11ef-b781-960002548b4f",
+                    "nodeid": "aff60cda-1dab-11ef-b781-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity",
+                    "parentproperty": "http://www.w3.org/2004/02/skos/core#closeMatch",
+                    "sortorder": 0
+                },
+                {
+                    "alias": null,
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "Term Activity",
+                    "nodegroup_id": null,
+                    "nodeid": "daffea92-18f0-11ef-b007-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E7_Activity",
+                    "parentproperty": "",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "attribute_assignment",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Attribute Assignment",
+                    "nodegroup_id": "eff48443-18f0-11ef-bfcb-960002548b4f",
+                    "nodeid": "eff48443-18f0-11ef-bfcb-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E13_Attribute_Assignment",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P140i_was_attributed_by",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "attribute_assignment_type",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "semantic",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Attribute Assignment Type",
+                    "nodegroup_id": "eff48443-18f0-11ef-bfcb-960002548b4f",
+                    "nodeid": "eff48a15-18f0-11ef-9a74-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P177_assigned_property_of_type",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "assigned_entity",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "semantic",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Assigned Entity",
+                    "nodegroup_id": "eff48443-18f0-11ef-bfcb-960002548b4f",
+                    "nodeid": "eff48c1e-18f0-11ef-9686-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P141_assigned",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "attribute_assignment_note",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Attribute Assignment Note",
+                    "nodegroup_id": "eff48443-18f0-11ef-bfcb-960002548b4f",
+                    "nodeid": "eff48d80-18f0-11ef-a514-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P3_has_note",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "attribute_assignment_type_label",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Attribute Assignment Type Label",
+                    "nodegroup_id": "eff48443-18f0-11ef-bfcb-960002548b4f",
+                    "nodeid": "eff48ec9-18f0-11ef-bcc4-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "assigned_entity_label",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Assigned Entity Label",
+                    "nodegroup_id": "eff48443-18f0-11ef-bfcb-960002548b4f",
+                    "nodeid": "eff49005-18f0-11ef-a226-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "sortorder": 0
+                }
+            ],
+            "ontology_id": "83a164f7-2ec1-48db-bdd8-b73779c339c9",
+            "publication": null,
+            "relatable_resource_model_ids": [],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": null,
+                "config": {
+                    "nl": ""
+                },
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "4bb1267b-04bf-45ea-8f0c-c3e30f10bfe0",
+                "hascustomalias": false,
+                "is_collector": false,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "Term Activity",
+                "nodegroup_id": null,
+                "nodeid": "daffea92-18f0-11ef-b007-960002548b4f",
+                "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E7_Activity",
+                "sortorder": 0
+            },
+            "slug": null,
+            "subtitle": {
+                "nl": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ],
+    "metadata": {
+        "db": "PostgreSQL 15.5 (Debian 15.5-0+deb12u1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit",
+        "git hash": "fatal: not a git repository (or any of the parent directories): .git",
+        "os": "Linux",
+        "os version": "6.1.0-13-amd64"
+    }
+}

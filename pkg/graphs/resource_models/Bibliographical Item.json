@@ -1043,7 +1043,8 @@
                     "nodeid": "099f196c-df80-11ed-9232-00163e71351b",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object",
                     "parentproperty": "",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "object_identifier",
@@ -1065,7 +1066,8 @@
                     "nodeid": "31fafa48-df80-11ed-9064-00163e71351b",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E42_Identifier",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "object_identifier_content",
@@ -1087,7 +1089,8 @@
                     "nodeid": "31faff2a-df80-11ed-9064-00163e71351b",
                     "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "object_identifier_type",
@@ -1117,7 +1120,8 @@
                     "nodeid": "31fb00ec-df80-11ed-9064-00163e71351b",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "object_identifier_type_label",
@@ -1139,7 +1143,8 @@
                     "nodeid": "31fb051a-df80-11ed-9064-00163e71351b",
                     "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
                     "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "object_description",
@@ -1161,7 +1166,8 @@
                     "nodeid": "35eb661e-ee5e-11ed-a1e6-00163e71351b",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P129i_is_subject_of",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "object_description_type",
@@ -1190,7 +1196,8 @@
                     "nodeid": "35eb6d76-ee5e-11ed-a1e6-00163e71351b",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "object_description_content",
@@ -1212,7 +1219,8 @@
                     "nodeid": "35eb71cc-ee5e-11ed-a1e6-00163e71351b",
                     "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "object_description_type_label",
@@ -1234,7 +1242,8 @@
                     "nodeid": "35eb7578-ee5e-11ed-a1e6-00163e71351b",
                     "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
                     "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "object_note",
@@ -1262,7 +1271,8 @@
                     "nodeid": "4a65efec-cb0c-11ee-accf-960002548b4f",
                     "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P3_has_note",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "object_type",
@@ -1291,7 +1301,8 @@
                     "nodeid": "5f7d3f52-62b7-11ee-bc5c-00163e71351b",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "object_type_type",
@@ -1315,7 +1326,8 @@
                     "nodeid": "5f7d44a2-62b7-11ee-bc5c-00163e71351b",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "object_type_label",
@@ -1337,7 +1349,8 @@
                     "nodeid": "5f7d466e-62b7-11ee-bc5c-00163e71351b",
                     "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
                     "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "object_type_type_label",
@@ -1359,7 +1372,8 @@
                     "nodeid": "5f7d47e0-62b7-11ee-bc5c-00163e71351b",
                     "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
                     "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "visual_item",
@@ -1381,7 +1395,8 @@
                     "nodeid": "643c66b8-df80-11ed-9655-00163e71351b",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P138i_has_representation",
-                    "sortorder": 4
+                    "sortorder": 4,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "digital_object",
@@ -1410,7 +1425,8 @@
                     "nodeid": "643c6a00-df80-11ed-9655-00163e71351b",
                     "ontologyclass": "http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object",
                     "parentproperty": "https://linked.art/ns/terms/digitally_carried_by",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "object_description_note",
@@ -1432,7 +1448,8 @@
                     "nodeid": "9a15d478-233f-11ef-aa25-960002548b4f",
                     "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P3_has_note",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "acquisition",
@@ -1461,7 +1478,8 @@
                     "nodeid": "afd18e06-62c4-11ee-a9ac-00163e71351b",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P24i_changed_ownership_through",
-                    "sortorder": 7
+                    "sortorder": 7,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "condition_assessment",
@@ -1490,7 +1508,8 @@
                     "nodeid": "d0818f0c-62c4-11ee-b0c4-00163e71351b",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E14_Condition_Assessment",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P34i_was_assessed_by",
-                    "sortorder": 8
+                    "sortorder": 8,
+                    "sourcebranchpublication_id": null
                 }
             ],
             "ontology_id": "83a164f7-2ec1-48db-bdd8-b73779c339c9",
@@ -1516,7 +1535,8 @@
                 "nodegroup_id": null,
                 "nodeid": "099f196c-df80-11ed-9232-00163e71351b",
                 "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object",
-                "sortorder": 0
+                "sortorder": 0,
+                "sourcebranchpublication_id": null
             },
             "slug": null,
             "subtitle": {
@@ -1526,11 +1546,5 @@
             "template_id": "50000000-0000-0000-0000-000000000001",
             "version": ""
         }
-    ],
-    "metadata": {
-        "db": "PostgreSQL 15.5 (Debian 15.5-0+deb12u1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit",
-        "git hash": "fatal: not a git repository (or any of the parent directories): .git",
-        "os": "Linux",
-        "os version": "6.1.0-13-amd64"
-    }
+    ]
 }

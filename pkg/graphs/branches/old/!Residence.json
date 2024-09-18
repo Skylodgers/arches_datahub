@@ -1,0 +1,491 @@
+{
+    "graph": [
+        {
+            "author": "",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "f548c93a-14f4-11ef-80a4-960002548b4f",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": {
+                        "nl": ""
+                    },
+                    "graph_id": "f548c61f-14f4-11ef-93cd-960002548b4f",
+                    "helpenabled": false,
+                    "helptext": {
+                        "nl": ""
+                    },
+                    "helptitle": {
+                        "nl": ""
+                    },
+                    "instructions": {
+                        "nl": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "nl": "!Residence"
+                    },
+                    "nodegroup_id": "f548c7f9-14f4-11ef-a06e-960002548b4f",
+                    "sortorder": 3,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "f548c93a-14f4-11ef-80a4-960002548b4f",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Woonplaats benaming type label",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "f548ce79-14f4-11ef-8cdf-960002548b4f",
+                    "label": {
+                        "en": "Woonplaats benaming type label"
+                    },
+                    "node_id": "f548cd51-14f4-11ef-89b8-960002548b4f",
+                    "sortorder": 2,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "f548c93a-14f4-11ef-80a4-960002548b4f",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Woonplaats benaming inhoud",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "f548ceca-14f4-11ef-b9c5-960002548b4f",
+                    "label": {
+                        "en": "Woonplaats benaming inhoud"
+                    },
+                    "node_id": "f548cdc9-14f4-11ef-87fb-960002548b4f",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "f548c93a-14f4-11ef-80a4-960002548b4f",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Woonplaats benaming type URI",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "f548cf03-14f4-11ef-bc38-960002548b4f",
+                    "label": {
+                        "en": "Woonplaats benaming type URI"
+                    },
+                    "node_id": "f548ccd4-14f4-11ef-89b5-960002548b4f",
+                    "sortorder": 1,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                }
+            ],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "nl": ""
+            },
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "f548c7f9-14f4-11ef-a06e-960002548b4f",
+                    "edgeid": "f548d594-14f4-11ef-bd3c-960002548b4f",
+                    "graph_id": "f548c61f-14f4-11ef-93cd-960002548b4f",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P89_falls_within",
+                    "rangenode_id": "f548c9fc-14f4-11ef-837f-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f548ccd4-14f4-11ef-89b5-960002548b4f",
+                    "edgeid": "f548d6e0-14f4-11ef-abe7-960002548b4f",
+                    "graph_id": "f548c61f-14f4-11ef-93cd-960002548b4f",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "rangenode_id": "f548cd51-14f4-11ef-89b8-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f548c7f9-14f4-11ef-a06e-960002548b4f",
+                    "edgeid": "f548d761-14f4-11ef-82cb-960002548b4f",
+                    "graph_id": "f548c61f-14f4-11ef-93cd-960002548b4f",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "rangenode_id": "f548cab5-14f4-11ef-8b51-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f548cab5-14f4-11ef-8b51-960002548b4f",
+                    "edgeid": "f548d7db-14f4-11ef-adb8-960002548b4f",
+                    "graph_id": "f548c61f-14f4-11ef-93cd-960002548b4f",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "rangenode_id": "f548cb43-14f4-11ef-8d25-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f548ce3a-14f4-11ef-96f6-960002548b4f",
+                    "edgeid": "f548d855-14f4-11ef-abae-960002548b4f",
+                    "graph_id": "f548c61f-14f4-11ef-93cd-960002548b4f",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "rangenode_id": "f548ccd4-14f4-11ef-89b5-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f548c9fc-14f4-11ef-837f-960002548b4f",
+                    "edgeid": "f548d8cf-14f4-11ef-9015-960002548b4f",
+                    "graph_id": "f548c61f-14f4-11ef-93cd-960002548b4f",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "rangenode_id": "f548cbca-14f4-11ef-83c0-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f548c7f9-14f4-11ef-a06e-960002548b4f",
+                    "edgeid": "f548d94a-14f4-11ef-8cc5-960002548b4f",
+                    "graph_id": "f548c61f-14f4-11ef-93cd-960002548b4f",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P3_has_note",
+                    "rangenode_id": "f548cc46-14f4-11ef-ae01-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f548c7f9-14f4-11ef-a06e-960002548b4f",
+                    "edgeid": "f548d9c5-14f4-11ef-91c5-960002548b4f",
+                    "graph_id": "f548c61f-14f4-11ef-93cd-960002548b4f",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
+                    "rangenode_id": "f548ce3a-14f4-11ef-96f6-960002548b4f"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f548ce3a-14f4-11ef-96f6-960002548b4f",
+                    "edgeid": "f548da3f-14f4-11ef-8ba9-960002548b4f",
+                    "graph_id": "f548c61f-14f4-11ef-93cd-960002548b4f",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
+                    "rangenode_id": "f548cdc9-14f4-11ef-87fb-960002548b4f"
+                }
+            ],
+            "functions_x_graphs": [],
+            "graphid": "f548c61f-14f4-11ef-93cd-960002548b4f",
+            "iconclass": "",
+            "is_editable": true,
+            "isresource": false,
+            "jsonldcontext": null,
+            "name": {
+                "nl": "!Residence"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "f548c7f9-14f4-11ef-a06e-960002548b4f",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "residence",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f548c61f-14f4-11ef-93cd-960002548b4f",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "!Residence",
+                    "nodegroup_id": "f548c7f9-14f4-11ef-a06e-960002548b4f",
+                    "nodeid": "f548c7f9-14f4-11ef-a06e-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E53_Place",
+                    "parentproperty": "",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "residence_place",
+                    "config": {
+                        "graphs": [],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f548c61f-14f4-11ef-93cd-960002548b4f",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Residence Place",
+                    "nodegroup_id": "f548c7f9-14f4-11ef-a06e-960002548b4f",
+                    "nodeid": "f548c9fc-14f4-11ef-837f-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E53_Place",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P89_falls_within",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "residence_type",
+                    "config": {
+                        "graphs": [],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f548c61f-14f4-11ef-93cd-960002548b4f",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Residence Type",
+                    "nodegroup_id": "f548c7f9-14f4-11ef-a06e-960002548b4f",
+                    "nodeid": "f548cab5-14f4-11ef-8b51-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "residence_type_label",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f548c61f-14f4-11ef-93cd-960002548b4f",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Residence Type Label",
+                    "nodegroup_id": "f548c7f9-14f4-11ef-a06e-960002548b4f",
+                    "nodeid": "f548cb43-14f4-11ef-8d25-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "residence_place_label",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f548c61f-14f4-11ef-93cd-960002548b4f",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Residence Place Label",
+                    "nodegroup_id": "f548c7f9-14f4-11ef-a06e-960002548b4f",
+                    "nodeid": "f548cbca-14f4-11ef-83c0-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "residence_note",
+                    "config": {
+                        "nl": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f548c61f-14f4-11ef-93cd-960002548b4f",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Residence Note",
+                    "nodegroup_id": "f548c7f9-14f4-11ef-a06e-960002548b4f",
+                    "nodeid": "f548cc46-14f4-11ef-ae01-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P3_has_note",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "place_appellation_type",
+                    "config": {
+                        "graphs": [],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f548c61f-14f4-11ef-93cd-960002548b4f",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Place Appellation  Type",
+                    "nodegroup_id": "f548c7f9-14f4-11ef-a06e-960002548b4f",
+                    "nodeid": "f548ccd4-14f4-11ef-89b5-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "place_appellation_type_label",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f548c61f-14f4-11ef-93cd-960002548b4f",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Place Appellation Type Label",
+                    "nodegroup_id": "f548c7f9-14f4-11ef-a06e-960002548b4f",
+                    "nodeid": "f548cd51-14f4-11ef-89b8-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "place_appellation_content",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f548c61f-14f4-11ef-93cd-960002548b4f",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Place Appellation Content",
+                    "nodegroup_id": "f548c7f9-14f4-11ef-a06e-960002548b4f",
+                    "nodeid": "f548cdc9-14f4-11ef-87fb-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "residence_appellation",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f548c61f-14f4-11ef-93cd-960002548b4f",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Residence Appellation",
+                    "nodegroup_id": "f548c7f9-14f4-11ef-a06e-960002548b4f",
+                    "nodeid": "f548ce3a-14f4-11ef-96f6-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
+                    "sortorder": 0
+                }
+            ],
+            "ontology_id": "83a164f7-2ec1-48db-bdd8-b73779c339c9",
+            "publication": null,
+            "relatable_resource_model_ids": [],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": "residence",
+                "config": {
+                    "en": ""
+                },
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "f548c61f-14f4-11ef-93cd-960002548b4f",
+                "hascustomalias": false,
+                "is_collector": true,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "!Residence",
+                "nodegroup_id": "f548c7f9-14f4-11ef-a06e-960002548b4f",
+                "nodeid": "f548c7f9-14f4-11ef-a06e-960002548b4f",
+                "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E53_Place",
+                "sortorder": 0
+            },
+            "slug": null,
+            "subtitle": {
+                "nl": "P74_has_current_or_former_residence"
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ],
+    "metadata": {
+        "db": "PostgreSQL 15.5 (Debian 15.5-0+deb12u1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit",
+        "git hash": "fatal: not a git repository (or any of the parent directories): .git",
+        "os": "Linux",
+        "os version": "6.1.0-13-amd64"
+    }
+}

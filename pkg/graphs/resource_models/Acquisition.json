@@ -352,40 +352,6 @@
                 },
                 {
                     "active": true,
-                    "cardid": "920eb130-e990-11ed-9232-00163e71351b",
-                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
-                    "config": null,
-                    "constraints": [
-                        {
-                            "card_id": "920eb130-e990-11ed-9232-00163e71351b",
-                            "constraintid": "59518b1f-1967-417a-9396-8b2b50dd040d",
-                            "nodes": [],
-                            "uniquetoallinstances": false
-                        }
-                    ],
-                    "cssclass": null,
-                    "description": "",
-                    "graph_id": "35bd84a3-fc5c-4b9f-81ec-58a97eab9a97",
-                    "helpenabled": false,
-                    "helptext": {
-                        "en": ""
-                    },
-                    "helptitle": {
-                        "en": ""
-                    },
-                    "instructions": {
-                        "en": ""
-                    },
-                    "is_editable": true,
-                    "name": {
-                        "en": "Tijdspanne"
-                    },
-                    "nodegroup_id": "920ead2a-e990-11ed-9232-00163e71351b",
-                    "sortorder": 6,
-                    "visible": true
-                },
-                {
-                    "active": true,
                     "cardid": "999892f4-e990-11ed-9232-00163e71351b",
                     "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
                     "config": null,
@@ -521,6 +487,33 @@
                 },
                 {
                     "active": true,
+                    "cardid": "ce25941e-6e7f-11ef-8d51-960002548b4f",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "35bd84a3-fc5c-4b9f-81ec-58a97eab9a97",
+                    "helpenabled": false,
+                    "helptext": {
+                        "nl": ""
+                    },
+                    "helptitle": {
+                        "nl": ""
+                    },
+                    "instructions": {
+                        "nl": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "nl": "Acquisition Reason Type"
+                    },
+                    "nodegroup_id": "ce2590b1-6e7f-11ef-a8c0-960002548b4f",
+                    "sortorder": 3,
+                    "visible": true
+                },
+                {
+                    "active": true,
                     "cardid": "d4c8902c-341e-4f8f-977a-66eca4e4523c",
                     "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
                     "config": null,
@@ -636,7 +629,7 @@
                     },
                     "is_editable": true,
                     "name": {
-                        "nl": "Acquisition Title"
+                        "nl": "Acquisition Name"
                     },
                     "nodegroup_id": "24843382-e542-11ee-8f1b-960002548b4f",
                     "sortorder": null,
@@ -793,26 +786,6 @@
                     "sortorder": 0,
                     "visible": true,
                     "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
-                },
-                {
-                    "card_id": "920eb130-e990-11ed-9232-00163e71351b",
-                    "config": {
-                        "dateFormat": "YYYY-MM-DD",
-                        "defaultValue": "",
-                        "label": "Tijdspanne begin",
-                        "maxDate": false,
-                        "minDate": false,
-                        "placeholder": "Enter date",
-                        "viewMode": "days"
-                    },
-                    "id": "48ede4a3-c7e9-41cb-86ce-ef805d1cf7d7",
-                    "label": {
-                        "en": "Tijdspanne begin"
-                    },
-                    "node_id": "920eb66c-e990-11ed-9232-00163e71351b",
-                    "sortorder": 0,
-                    "visible": true,
-                    "widget_id": "10000000-0000-0000-0000-000000000004"
                 },
                 {
                     "card_id": "77493d55-3a23-4469-86a6-ca0390685107",
@@ -1108,6 +1081,56 @@
                     "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
                 },
                 {
+                    "card_id": "ce25941e-6e7f-11ef-8d51-960002548b4f",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Type label",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "ce259a10-6e7f-11ef-9578-960002548b4f",
+                    "label": {
+                        "en": "Type label"
+                    },
+                    "node_id": "ce25994e-6e7f-11ef-8aa5-960002548b4f",
+                    "sortorder": 1,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "ce25941e-6e7f-11ef-8d51-960002548b4f",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Type URI",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "ce259c03-6e7f-11ef-b26e-960002548b4f",
+                    "label": {
+                        "en": "Type URI"
+                    },
+                    "node_id": "ce2590b1-6e7f-11ef-a8c0-960002548b4f",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
                     "card_id": "d4c8902c-341e-4f8f-977a-66eca4e4523c",
                     "config": {
                         "defaultValue": {
@@ -1196,7 +1219,7 @@
                     "edgeid": "09f22866-1070-449b-9570-73ddf2572b7f",
                     "graph_id": "35bd84a3-fc5c-4b9f-81ec-58a97eab9a97",
                     "name": null,
-                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P67_refers_to",
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P129i_is_subject_of",
                     "rangenode_id": "fa4a2c3c-e53f-11ee-a766-960002548b4f"
                 },
                 {
@@ -1234,15 +1257,6 @@
                     "name": null,
                     "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P90_has_value",
                     "rangenode_id": "bfbfd116-ee5b-11ed-9232-00163e71351b"
-                },
-                {
-                    "description": null,
-                    "domainnode_id": "920ead2a-e990-11ed-9232-00163e71351b",
-                    "edgeid": "13cb7c47-a322-4227-ac21-6a318f88be7b",
-                    "graph_id": "35bd84a3-fc5c-4b9f-81ec-58a97eab9a97",
-                    "name": null,
-                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin",
-                    "rangenode_id": "f283a0d9-3d17-11ef-b2bb-960002548b4f"
                 },
                 {
                     "description": null,
@@ -1327,12 +1341,12 @@
                 },
                 {
                     "description": null,
-                    "domainnode_id": "920ead2a-e990-11ed-9232-00163e71351b",
-                    "edgeid": "45d2a336-1c02-44bf-bc90-df7d65dd21df",
+                    "domainnode_id": "dcc8aca4-f0c9-11ee-b461-960002548b4f",
+                    "edgeid": "4e1c2b1b-0b42-424b-874e-99634534d1e0",
                     "graph_id": "35bd84a3-fc5c-4b9f-81ec-58a97eab9a97",
                     "name": null,
-                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end",
-                    "rangenode_id": "0b96b8f2-3d18-11ef-8dbe-960002548b4f"
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P170i_time_is_defined_by",
+                    "rangenode_id": "d865b38b-645b-11ef-b970-960002548b4f"
                 },
                 {
                     "description": null,
@@ -1399,15 +1413,6 @@
                 },
                 {
                     "description": null,
-                    "domainnode_id": "7b658ca8-d44e-11ed-9064-00163e71351b",
-                    "edgeid": "840fd323-c814-4e9d-ac11-345cb2d3a24c",
-                    "graph_id": "35bd84a3-fc5c-4b9f-81ec-58a97eab9a97",
-                    "name": null,
-                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span",
-                    "rangenode_id": "920ead2a-e990-11ed-9232-00163e71351b"
-                },
-                {
-                    "description": null,
                     "domainnode_id": "8be2fd34-e990-11ed-9655-00163e71351b",
                     "edgeid": "8be32174-e990-11ed-9655-00163e71351b",
                     "graph_id": "35bd84a3-fc5c-4b9f-81ec-58a97eab9a97",
@@ -1417,12 +1422,12 @@
                 },
                 {
                     "description": null,
-                    "domainnode_id": "920ead2a-e990-11ed-9232-00163e71351b",
-                    "edgeid": "920ee5b0-e990-11ed-9232-00163e71351b",
+                    "domainnode_id": "4b81aff7-e541-11ee-921a-960002548b4f",
+                    "edgeid": "94d81379-8190-48ab-bee4-0a7469eb54f0",
                     "graph_id": "35bd84a3-fc5c-4b9f-81ec-58a97eab9a97",
                     "name": null,
-                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P170i_time_is_defined_by",
-                    "rangenode_id": "920eb66c-e990-11ed-9232-00163e71351b"
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "rangenode_id": "ce2590b1-6e7f-11ef-a8c0-960002548b4f"
                 },
                 {
                     "description": null,
@@ -1525,6 +1530,15 @@
                 },
                 {
                     "description": null,
+                    "domainnode_id": "ce2590b1-6e7f-11ef-a8c0-960002548b4f",
+                    "edgeid": "ce25d2f9-6e7f-11ef-b0f5-960002548b4f",
+                    "graph_id": "35bd84a3-fc5c-4b9f-81ec-58a97eab9a97",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "rangenode_id": "ce25994e-6e7f-11ef-8aa5-960002548b4f"
+                },
+                {
+                    "description": null,
                     "domainnode_id": "7b658ca8-d44e-11ed-9064-00163e71351b",
                     "edgeid": "d4f086fc-7335-4aec-8110-93582304186d",
                     "graph_id": "35bd84a3-fc5c-4b9f-81ec-58a97eab9a97",
@@ -1540,15 +1554,6 @@
                     "name": null,
                     "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P3_has_note",
                     "rangenode_id": "d638bcba-e541-11ee-bb9d-960002548b4f"
-                },
-                {
-                    "description": null,
-                    "domainnode_id": "dcc8aca4-f0c9-11ee-b461-960002548b4f",
-                    "edgeid": "e18da3bd-b011-4ffc-ab8a-ef1ecbe381f6",
-                    "graph_id": "35bd84a3-fc5c-4b9f-81ec-58a97eab9a97",
-                    "name": null,
-                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P170i_time_is_defined_by",
-                    "rangenode_id": "ec6fa6b1-f0c9-11ee-8c1b-960002548b4f"
                 },
                 {
                     "description": null,
@@ -1636,12 +1641,6 @@
                 {
                     "cardinality": "1",
                     "legacygroupid": null,
-                    "nodegroupid": "920ead2a-e990-11ed-9232-00163e71351b",
-                    "parentnodegroup_id": null
-                },
-                {
-                    "cardinality": "1",
-                    "legacygroupid": null,
                     "nodegroupid": "99988ee4-e990-11ed-9232-00163e71351b",
                     "parentnodegroup_id": null
                 },
@@ -1678,6 +1677,12 @@
                 {
                     "cardinality": "1",
                     "legacygroupid": null,
+                    "nodegroupid": "ce2590b1-6e7f-11ef-a8c0-960002548b4f",
+                    "parentnodegroup_id": "4b81aff7-e541-11ee-921a-960002548b4f"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
                     "nodegroupid": "dcc8aca4-f0c9-11ee-b461-960002548b4f",
                     "parentnodegroup_id": null
                 }
@@ -1703,7 +1708,8 @@
                     "nodeid": "0a2a3cd4-e991-11ed-9064-00163e71351b",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P129i_is_subject_of",
-                    "sortorder": 4
+                    "sortorder": 4,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "acquisition_description_content",
@@ -1725,7 +1731,8 @@
                     "nodeid": "0a2a41ac-e991-11ed-9064-00163e71351b",
                     "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "acquisition_description_type_label",
@@ -1747,7 +1754,8 @@
                     "nodeid": "0a2a4364-e991-11ed-9064-00163e71351b",
                     "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
                     "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "acquisition_description_type",
@@ -1772,7 +1780,8 @@
                     "nodeid": "0a2a44d6-e991-11ed-9064-00163e71351b",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "purchase_monetary_amount_currency",
@@ -1801,29 +1810,8 @@
                     "nodeid": "0b25d0f2-ee5b-11ed-9064-00163e71351b",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E98_Currency",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P180_has_currency",
-                    "sortorder": 1
-                },
-                {
-                    "alias": "acquisition_accession_date_end",
-                    "config": {
-                        "dateFormat": "YYYY-MM-DD"
-                    },
-                    "datatype": "date",
-                    "description": null,
-                    "exportable": false,
-                    "fieldname": null,
-                    "graph_id": "35bd84a3-fc5c-4b9f-81ec-58a97eab9a97",
-                    "hascustomalias": false,
-                    "is_collector": false,
-                    "isrequired": false,
-                    "issearchable": true,
-                    "istopnode": false,
-                    "name": "Acquisition Accession Date End",
-                    "nodegroup_id": "920ead2a-e990-11ed-9232-00163e71351b",
-                    "nodeid": "0b96b8f2-3d18-11ef-8dbe-960002548b4f",
-                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
-                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end",
-                    "sortorder": 0
+                    "sortorder": 1,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "acquisition_note",
@@ -1845,10 +1833,11 @@
                     "nodeid": "122e596a-e991-11ed-9232-00163e71351b",
                     "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P3_has_note",
-                    "sortorder": 13
+                    "sortorder": 13,
+                    "sourcebranchpublication_id": null
                 },
                 {
-                    "alias": "acquisition_title",
+                    "alias": "acquisition_name",
                     "config": {
                         "nl": ""
                     },
@@ -1862,12 +1851,13 @@
                     "isrequired": false,
                     "issearchable": true,
                     "istopnode": false,
-                    "name": "Acquisition Title",
+                    "name": "Acquisition Name",
                     "nodegroup_id": "24843382-e542-11ee-8f1b-960002548b4f",
                     "nodeid": "24843382-e542-11ee-8f1b-960002548b4f",
-                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E41_Appellation",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
-                    "sortorder": 1
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "purchase_monetary_amount_currency_label",
@@ -1889,7 +1879,8 @@
                     "nodeid": "2b87213e-ee5b-11ed-9232-00163e71351b",
                     "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
                     "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "acquisition_document_description_content",
@@ -1911,7 +1902,8 @@
                     "nodeid": "2c119771-e540-11ee-b73f-960002548b4f",
                     "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "acquisition_date_start",
@@ -1933,10 +1925,11 @@
                     "nodeid": "30ce6bc2-3d17-11ef-ac04-960002548b4f",
                     "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
-                    "alias": "acquisition_title_content",
+                    "alias": "acquisition_name_content",
                     "config": {
                         "nl": ""
                     },
@@ -1950,12 +1943,13 @@
                     "isrequired": false,
                     "issearchable": true,
                     "istopnode": false,
-                    "name": "Acquisition Title Content",
+                    "name": "Acquisition Name Content",
                     "nodegroup_id": "24843382-e542-11ee-8f1b-960002548b4f",
                     "nodeid": "35be857b-e542-11ee-98ef-960002548b4f",
                     "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "purchase",
@@ -1977,7 +1971,8 @@
                     "nodeid": "37872002-ea6d-11ed-a1e6-00163e71351b",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E96_Purchase",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P17i_motivated",
-                    "sortorder": 6
+                    "sortorder": 6,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "object",
@@ -2001,7 +1996,8 @@
                     "nodeid": "39e86e48-e994-11ed-9232-00163e71351b",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P24_transferred_title_of",
-                    "sortorder": 5
+                    "sortorder": 5,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "acquisition_document_description_type",
@@ -2030,7 +2026,8 @@
                     "nodeid": "3bcc24d5-e540-11ee-94ee-960002548b4f",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "acquisition_document_description_type_label",
@@ -2052,7 +2049,8 @@
                     "nodeid": "4b2563a7-e540-11ee-8dc3-960002548b4f",
                     "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
                     "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "acquisition_reason",
@@ -2074,7 +2072,8 @@
                     "nodeid": "4b81aff7-e541-11ee-921a-960002548b4f",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by",
-                    "sortorder": 3
+                    "sortorder": 3,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "acquisition_date_end",
@@ -2096,7 +2095,8 @@
                     "nodeid": "572bbd7d-3d17-11ef-93c1-960002548b4f",
                     "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end",
-                    "sortorder": 0
+                    "sortorder": 1,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "acquisition_date_note",
@@ -2118,7 +2118,8 @@
                     "nodeid": "695b5b55-f19f-11ee-a866-960002548b4f",
                     "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P3_has_note",
-                    "sortorder": 0
+                    "sortorder": 3,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "acquisition_reason_content",
@@ -2140,7 +2141,8 @@
                     "nodeid": "70b9ebb3-e541-11ee-8711-960002548b4f",
                     "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "acquisition",
@@ -2162,7 +2164,8 @@
                     "nodeid": "7b658ca8-d44e-11ed-9064-00163e71351b",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition",
                     "parentproperty": "",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "acquisition_place",
@@ -2191,7 +2194,8 @@
                     "nodeid": "7fd84e3a-e991-11ed-9655-00163e71351b",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E53_Place",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at",
-                    "sortorder": 12
+                    "sortorder": 12,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "transferred_from_actor",
@@ -2224,7 +2228,8 @@
                     "nodeid": "8be2fd34-e990-11ed-9655-00163e71351b",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E39_Actor",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P23_transferred_title_from",
-                    "sortorder": 7
+                    "sortorder": 7,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "transferred_from_actor_label",
@@ -2246,51 +2251,8 @@
                     "nodeid": "8be301f8-e990-11ed-9655-00163e71351b",
                     "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
                     "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
-                    "sortorder": 0
-                },
-                {
-                    "alias": "acquisition_accession_date",
-                    "config": {
-                        "en": ""
-                    },
-                    "datatype": "semantic",
-                    "description": "",
-                    "exportable": false,
-                    "fieldname": null,
-                    "graph_id": "35bd84a3-fc5c-4b9f-81ec-58a97eab9a97",
-                    "hascustomalias": false,
-                    "is_collector": true,
-                    "isrequired": false,
-                    "issearchable": true,
-                    "istopnode": false,
-                    "name": "Acquisition Accession Date",
-                    "nodegroup_id": "920ead2a-e990-11ed-9232-00163e71351b",
-                    "nodeid": "920ead2a-e990-11ed-9232-00163e71351b",
-                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span",
-                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span",
-                    "sortorder": 10
-                },
-                {
-                    "alias": "acquisition_accession_date_text",
-                    "config": {
-                        "dateFormat": "YYYY-MM-DD"
-                    },
-                    "datatype": "date",
-                    "description": null,
-                    "exportable": false,
-                    "fieldname": null,
-                    "graph_id": "35bd84a3-fc5c-4b9f-81ec-58a97eab9a97",
-                    "hascustomalias": false,
-                    "is_collector": false,
-                    "isrequired": false,
-                    "issearchable": true,
-                    "istopnode": false,
-                    "name": "Acquisition Accession Date Text",
-                    "nodegroup_id": "920ead2a-e990-11ed-9232-00163e71351b",
-                    "nodeid": "920eb66c-e990-11ed-9232-00163e71351b",
-                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
-                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P170i_time_is_defined_by",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "acquisition_place_label",
@@ -2312,7 +2274,8 @@
                     "nodeid": "944805ae-e991-11ed-9655-00163e71351b",
                     "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
                     "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "acquisition_type",
@@ -2341,7 +2304,8 @@
                     "nodeid": "99988ee4-e990-11ed-9232-00163e71351b",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
-                    "sortorder": 2
+                    "sortorder": 2,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "acquisition_type_label",
@@ -2363,7 +2327,8 @@
                     "nodeid": "999895b0-e990-11ed-9232-00163e71351b",
                     "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
                     "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "transferred_to_actor",
@@ -2387,7 +2352,8 @@
                     "nodeid": "b2f4b0e2-e991-11ed-9064-00163e71351b",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E39_Actor",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P22_transferred_title_to",
-                    "sortorder": 8
+                    "sortorder": 8,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "acquisition_number",
@@ -2409,7 +2375,8 @@
                     "nodeid": "b35a7c94-b086-11ee-b321-960002548b4f",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E42_Identifier",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "identifier_type_label",
@@ -2431,7 +2398,8 @@
                     "nodeid": "b35a8079-b086-11ee-a834-960002548b4f",
                     "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
                     "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "acquisition_number_content",
@@ -2453,7 +2421,8 @@
                     "nodeid": "b35a81b6-b086-11ee-a40a-960002548b4f",
                     "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "acquisition_number_type",
@@ -2483,7 +2452,8 @@
                     "nodeid": "b35a82e2-b086-11ee-913f-960002548b4f",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "acquisition_document",
@@ -2505,7 +2475,8 @@
                     "nodeid": "bd85e9d7-e53f-11ee-9402-960002548b4f",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E31_Document",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P70i_is_documented_in",
-                    "sortorder": 14
+                    "sortorder": 14,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "purchase_monetary_amount_value",
@@ -2527,7 +2498,8 @@
                     "nodeid": "bfbfd116-ee5b-11ed-9232-00163e71351b",
                     "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P90_has_value",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "transferred_to_actor_label",
@@ -2549,7 +2521,8 @@
                     "nodeid": "c905c4f2-e991-11ed-9232-00163e71351b",
                     "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
                     "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "purchase_monetary_amount",
@@ -2571,7 +2544,61 @@
                     "nodeid": "cc4f2144-ea6d-11ed-9232-00163e71351b",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E97_Monetary_Amount",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P179_had_sales_price",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "acquisition_reason_type",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "74c87bc1-8a29-437a-88cc-3f49837dfc4e",
+                                "name": "!! Referenced model does not exist -- Delete and select a new model !!"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "35bd84a3-fc5c-4b9f-81ec-58a97eab9a97",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Acquisition Reason Type",
+                    "nodegroup_id": "ce2590b1-6e7f-11ef-a8c0-960002548b4f",
+                    "nodeid": "ce2590b1-6e7f-11ef-a8c0-960002548b4f",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "acquisition_reason_type_label",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "35bd84a3-fc5c-4b9f-81ec-58a97eab9a97",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Acquisition Reason Type Label",
+                    "nodegroup_id": "ce2590b1-6e7f-11ef-a8c0-960002548b4f",
+                    "nodeid": "ce25994e-6e7f-11ef-8aa5-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "acquisition_document_url",
@@ -2593,7 +2620,8 @@
                     "nodeid": "d5400f4c-e53f-11ee-928f-960002548b4f",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E42_Identifier",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "purchase_monetary_amount_note",
@@ -2615,7 +2643,31 @@
                     "nodeid": "d638bcba-e541-11ee-bb9d-960002548b4f",
                     "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P3_has_note",
-                    "sortorder": 2
+                    "sortorder": 2,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "acquisition_date_is_defined_by",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "35bd84a3-fc5c-4b9f-81ec-58a97eab9a97",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Acquisition Date Is Defined By",
+                    "nodegroup_id": "dcc8aca4-f0c9-11ee-b461-960002548b4f",
+                    "nodeid": "d865b38b-645b-11ef-b970-960002548b4f",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P170i_time_is_defined_by",
+                    "sortorder": 2,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "acquisition_date",
@@ -2637,51 +2689,8 @@
                     "nodeid": "dcc8aca4-f0c9-11ee-b461-960002548b4f",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span",
-                    "sortorder": 0
-                },
-                {
-                    "alias": "acquisition_date_text",
-                    "config": {
-                        "dateFormat": "YYYY-MM-DD"
-                    },
-                    "datatype": "date",
-                    "description": null,
-                    "exportable": false,
-                    "fieldname": null,
-                    "graph_id": "35bd84a3-fc5c-4b9f-81ec-58a97eab9a97",
-                    "hascustomalias": false,
-                    "is_collector": false,
-                    "isrequired": false,
-                    "issearchable": true,
-                    "istopnode": false,
-                    "name": "Acquisition Date Text",
-                    "nodegroup_id": "dcc8aca4-f0c9-11ee-b461-960002548b4f",
-                    "nodeid": "ec6fa6b1-f0c9-11ee-8c1b-960002548b4f",
-                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
-                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P170i_time_is_defined_by",
-                    "sortorder": 0
-                },
-                {
-                    "alias": "acquisition_accession_date_begin",
-                    "config": {
-                        "dateFormat": "YYYY-MM-DD"
-                    },
-                    "datatype": "date",
-                    "description": null,
-                    "exportable": false,
-                    "fieldname": null,
-                    "graph_id": "35bd84a3-fc5c-4b9f-81ec-58a97eab9a97",
-                    "hascustomalias": false,
-                    "is_collector": false,
-                    "isrequired": false,
-                    "issearchable": true,
-                    "istopnode": false,
-                    "name": "Acquisition Accession Date Begin",
-                    "nodegroup_id": "920ead2a-e990-11ed-9232-00163e71351b",
-                    "nodeid": "f283a0d9-3d17-11ef-b2bb-960002548b4f",
-                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
-                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin",
-                    "sortorder": 0
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 },
                 {
                     "alias": "acquisition_document_description",
@@ -2702,8 +2711,9 @@
                     "nodegroup_id": "bd85e9d7-e53f-11ee-9402-960002548b4f",
                     "nodeid": "fa4a2c3c-e53f-11ee-a766-960002548b4f",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object",
-                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P67_refers_to",
-                    "sortorder": 0
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P129i_is_subject_of",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
                 }
             ],
             "ontology_id": "83a164f7-2ec1-48db-bdd8-b73779c339c9",
@@ -2729,7 +2739,8 @@
                 "nodegroup_id": null,
                 "nodeid": "7b658ca8-d44e-11ed-9064-00163e71351b",
                 "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition",
-                "sortorder": 0
+                "sortorder": 0,
+                "sourcebranchpublication_id": null
             },
             "slug": null,
             "subtitle": {
@@ -2738,11 +2749,5 @@
             "template_id": "50000000-0000-0000-0000-000000000001",
             "version": ""
         }
-    ],
-    "metadata": {
-        "db": "PostgreSQL 15.5 (Debian 15.5-0+deb12u1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit",
-        "git hash": "fatal: not a git repository (or any of the parent directories): .git",
-        "os": "Linux",
-        "os version": "6.1.0-13-amd64"
-    }
+    ]
 }

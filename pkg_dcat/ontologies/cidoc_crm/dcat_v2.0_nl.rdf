@@ -22,6 +22,7 @@
   <rdfs:Class rdf:about="http://www.w3.org/ns/dcat#CatalogRecord">
     <rdfs:label xml:lang="en">CatalogusRecord</rdfs:label>
     <rdfs:comment xml:lang="en">A record in a data catalog, describing the registration of a single dataset or data service.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/ns/dcat#Catalog"/>
   </rdfs:Class>
   
   <rdfs:Class rdf:about="http://www.w3.org/ns/dcat#DataService">
@@ -42,6 +43,7 @@
     <rdfs:label xml:lang="en">Catalogus</rdfs:label>
     <!-- <rdfs:subClassOf rdf:resource="http://www.w3.org/ns/dcat#Dataset"/> -->
     <rdfs:comment xml:lang="en">A curated collection of metadata about resources (e.g., datasets and data services in the context of a data catalog).</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/ns/dcat#Resource"/>
   </rdfs:Class>
   
   <rdfs:Class rdf:about="http://www.w3.org/ns/dcat#Role">
@@ -68,7 +70,13 @@
 
 <rdfs:Class rdf:about="http://xmlns.com/foaf/0.1/Agent">
   <rdfs:label xml:lang="en">Agent</rdfs:label>
-  <rdfs:subClassOf rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <rdfs:subClassOf rdf:resource="http://www.w3.org/ns/dcat#Resource"/>
+</rdfs:Class>
+
+<rdfs:Class rdf:about="http://www.w3.org/ns/dcat#record">
+  <rdfs:label xml:lang="en">record</rdfs:label>
+  <rdfs:comment xml:lang="en">A record describing the registration of a single dataset or data service that is part of the catalog.</rdfs:comment>
+  <rdfs:subClassOf rdf:resource="http://www.w3.org/ns/dcat#Catalog"/>
 </rdfs:Class>
 
 
@@ -76,14 +84,14 @@
 <!-- Properties DATASET-->
 
 <rdf:Property rdf:about="http://www.w3.org/ns/dcat#landingPage">
-    <rdfs:domain rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
-    <rdfs:range rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <rdfs:comment xml:lang="en">A Web page that can be navigated to in a Web browser to gain access to the catalog, a dataset, its distributions and/or additional information.</rdfs:comment>
-    <rdfs:label xml:lang="en">landing page</rdfs:label>
+  <rdfs:label xml:lang="en">landing page</rdfs:label>
+  <rdfs:comment xml:lang="en">A Web page that can be navigated to in a Web browser to gain access to the catalog, a dataset, its distributions and/or additional information.</rdfs:comment>
+  <rdfs:domain rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <rdfs:range rdf:resource="http://xmlns.com/foaf/0.1/Document"/>  
 </rdf:Property>
 <rdf:Property rdf:about="http://purl.org/dc/terms/description">
     <rdfs:label xml:lang="nl">beschrijving</rdfs:label>
-    <rdfs:domain rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <rdfs:domain rdf:resource="http://www.w3.org/ns/dcat#Resource"/>
     <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
 </rdf:Property>
 <rdf:Property rdf:about="http://data.vlaanderen.be/ns/metadata-dcat#statuut">
@@ -107,10 +115,9 @@
     <rdfs:domain rdf:resource="http://www.w3.org/ns/dcat#Resource"/>
     <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
 </rdf:Property>  
-
 <rdf:Property rdf:about="http://purl.org/dc/terms/publisher">
     <rdfs:label xml:lang="nl">uitgever</rdfs:label>
-    <rdfs:domain rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <rdfs:domain rdf:resource="http://www.w3.org/ns/dcat#Resource"/>
     <rdfs:range rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
 </rdf:Property>
 
@@ -122,7 +129,7 @@
 
 <rdf:Property rdf:about="http://thomas_homemade.com/contactInfo">
     <rdfs:label xml:lang="nl">naam</rdfs:label>
-    <rdfs:domain rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <rdfs:domain rdf:resource="http://www.w3.org/ns/dcat#Resource"/>
     <rdfs:range rdf:resource="http://www.w3.org/ns/dcat#contactPoint"/>
 </rdf:Property>
 
@@ -148,7 +155,7 @@
 
   <rdf:Property rdf:about="http://purl.org/dc/terms/license">
     <rdfs:label xml:lang="nl">licentie</rdfs:label>
-    <rdfs:domain rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+    <rdfs:domain rdf:resource="http://www.w3.org/ns/dcat#Resource"/>
     <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
 </rdf:Property>
 
@@ -160,6 +167,27 @@
   <rdfs:label xml:lang="nl">endpointURL</rdfs:label>
   <rdfs:domain rdf:resource="http://www.w3.org/ns/dcat#DataService"/>
   <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+</rdf:Property>
+
+<rdf:Property rdf:about="http://www.w3.org/ns/dcat#endpointDescription">
+  <rdfs:label xml:lang="en">endpointbeschrijving</rdfs:label>
+  <rdfs:domain rdf:resource="http://www.w3.org/ns/dcat#DataService"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+</rdf:Property>
+
+
+<!-- properties CATALOG -->
+
+<rdf:Property rdf:about="http://purl.org/dc/terms/issued">
+    <rdfs:label xml:lang="nl">aanmaakdatum</rdfs:label>
+    <rdfs:domain rdf:resource="http://www.w3.org/ns/dcat#Catalog"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+</rdf:Property>
+
+<rdf:Property rdf:about="http://purl.org/dc/terms/modified">
+    <rdfs:label xml:lang="nl">wijzigingsdatum</rdfs:label>
+    <rdfs:domain rdf:resource="http://www.w3.org/ns/dcat#Catalog"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
 </rdf:Property>
 
 
@@ -212,12 +240,6 @@
     <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
     <rdfs:label xml:lang="en">download URL</rdfs:label>
     <rdfs:domain rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
-  </rdf:Property>
-  <rdf:Property rdf:about="http://www.w3.org/ns/dcat#record">
-    <rdfs:comment xml:lang="en">A record describing the registration of a single dataset or data service that is part of the catalog.</rdfs:comment>
-    <rdfs:label xml:lang="en">record</rdfs:label>
-    <rdfs:domain rdf:resource="http://www.w3.org/ns/dcat#Catalog"/>
-    <rdfs:range rdf:resource="http://www.w3.org/ns/dcat#CatalogRecord"/>
   </rdf:Property>
   <rdf:Property rdf:about="http://www.w3.org/ns/dcat#hadRole">
     <rdfs:range rdf:resource="http://www.w3.org/ns/dcat#Role"/>
