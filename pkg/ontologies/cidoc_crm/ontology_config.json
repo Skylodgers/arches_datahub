@@ -13,7 +13,8 @@
         "LRMoo_1.0.rdf",
         "linkedart.xml",
         "linkedart_crm_enhancements.xml",
-        "oslo_enhancements.xml"
+        "oslo_enhancements.xml",
+        "dcat_datahub_v1.0.rdf"
     ],
   "base_version": "7.1.2",
   "base_id": "83a164f7-2ec1-48db-bdd8-b73779c339c9"

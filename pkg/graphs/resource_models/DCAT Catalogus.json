@@ -1,0 +1,902 @@
+{
+    "graph": [
+        {
+            "author": " ",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "3c87b257-e7de-4694-8584-b18f7b4df047",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": null
+                    },
+                    "helptitle": {
+                        "en": null
+                    },
+                    "instructions": {
+                        "en": null
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "record"
+                    },
+                    "nodegroup_id": "e1ec273e-76a0-11ef-86c9-96a6d2455259",
+                    "sortorder": 4,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "4b33249b-2844-4ed5-85b2-1c114b8ab1ab",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "titel"
+                    },
+                    "nodegroup_id": "cb990704-76a0-11ef-86c9-96a6d2455259",
+                    "sortorder": 1,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "56c837fa-f8d0-419b-bfcc-8a09945ca389",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": null
+                    },
+                    "helptitle": {
+                        "en": null
+                    },
+                    "instructions": {
+                        "en": null
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "contactinformatie"
+                    },
+                    "nodegroup_id": "88fddee8-76a4-11ef-a891-96a6d2455259",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "57e9d08f-33fc-424d-b6a9-1c25d81a7968",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "beschrijving"
+                    },
+                    "nodegroup_id": "99ffe016-769e-11ef-86c9-96a6d2455259",
+                    "sortorder": 2,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "a374aa96-1ddb-48ab-9e7f-9271a7c6ebe3",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "uitgever"
+                    },
+                    "nodegroup_id": "d4179694-76a4-11ef-a891-96a6d2455259",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "ac2f8bc1-d2db-4aaf-92b2-fa6f8be16168",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "identificator"
+                    },
+                    "nodegroup_id": "c98cfb50-769b-11ef-86c9-96a6d2455259",
+                    "sortorder": 0,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "b45f21ac-33b5-4f3f-bf3f-41d06f086e86",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": null
+                    },
+                    "helptitle": {
+                        "en": null
+                    },
+                    "instructions": {
+                        "en": null
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "heeft_DataService"
+                    },
+                    "nodegroup_id": "f987c796-769f-11ef-86c9-96a6d2455259",
+                    "sortorder": 7,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "e99b9fb7-719c-433e-8efc-dd761b80ecb2",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": null
+                    },
+                    "helptitle": {
+                        "en": null
+                    },
+                    "instructions": {
+                        "en": null
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "heeft_Dataset"
+                    },
+                    "nodegroup_id": "a3ea5228-769e-11ef-86c9-96a6d2455259",
+                    "sortorder": 6,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "57e9d08f-33fc-424d-b6a9-1c25d81a7968",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "en": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%%"
+                    },
+                    "id": "0fa61c4f-9104-4f29-bcd6-b265482c5b17",
+                    "label": {
+                        "en": ""
+                    },
+                    "node_id": "99ffe016-769e-11ef-86c9-96a6d2455259",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000005"
+                },
+                {
+                    "card_id": "b45f21ac-33b5-4f3f-bf3f-41d06f086e86",
+                    "config": {
+                        "en": ""
+                    },
+                    "id": "64b548db-824c-447d-b07b-de3f3738f864",
+                    "label": {
+                        "en": null
+                    },
+                    "node_id": "f987c796-769f-11ef-86c9-96a6d2455259",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "4b33249b-2844-4ed5-85b2-1c114b8ab1ab",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "titel",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "82baa7bc-5b6e-4b50-842e-41d081f6337f",
+                    "label": {
+                        "en": "titel"
+                    },
+                    "node_id": "cb990704-76a0-11ef-86c9-96a6d2455259",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "e99b9fb7-719c-433e-8efc-dd761b80ecb2",
+                    "config": {
+                        "en": ""
+                    },
+                    "id": "e32d2e18-68bb-446a-a269-5172a1578e87",
+                    "label": {
+                        "en": null
+                    },
+                    "node_id": "a3ea5228-769e-11ef-86c9-96a6d2455259",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "ac2f8bc1-d2db-4aaf-92b2-fa6f8be16168",
+                    "config": {
+                        "en": ""
+                    },
+                    "id": "ebd36e45-3cb9-4722-95d2-6d7b52466100",
+                    "label": {
+                        "en": null
+                    },
+                    "node_id": "c98cfb50-769b-11ef-86c9-96a6d2455259",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                }
+            ],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "en": ""
+            },
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "af5a067e-769b-11ef-86c9-96a6d2455259",
+                    "edgeid": "16937c4d-af0b-4edf-81b8-5b390b1c768c",
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/ns/dcat#record",
+                    "rangenode_id": "e1ec273e-76a0-11ef-86c9-96a6d2455259"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d4179694-76a4-11ef-a891-96a6d2455259",
+                    "edgeid": "28b384ae-b954-4bc6-bcaa-8a6132ac016e",
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "name": null,
+                    "ontologyproperty": "http://xmlns.com/foaf/0.1/name",
+                    "rangenode_id": "ee8f19d4-76a4-11ef-a891-96a6d2455259"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "e1ec273e-76a0-11ef-86c9-96a6d2455259",
+                    "edgeid": "3fe98de2-d92d-4067-a171-21db1b66dd1e",
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "name": null,
+                    "ontologyproperty": "http://purl.org/dc/terms/issued",
+                    "rangenode_id": "9e6cad84-76a1-11ef-86c9-96a6d2455259"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "af5a067e-769b-11ef-86c9-96a6d2455259",
+                    "edgeid": "57d091e4-9710-465d-83cc-d30fd0b6e2d8",
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "name": null,
+                    "ontologyproperty": "http://purl.org/dc/terms/description",
+                    "rangenode_id": "99ffe016-769e-11ef-86c9-96a6d2455259"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "af5a067e-769b-11ef-86c9-96a6d2455259",
+                    "edgeid": "5bd62725-becd-4a25-bddc-ba187cb061e8",
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "name": null,
+                    "ontologyproperty": "http://purl.org/dc/terms/title",
+                    "rangenode_id": "cb990704-76a0-11ef-86c9-96a6d2455259"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "af5a067e-769b-11ef-86c9-96a6d2455259",
+                    "edgeid": "5fdf758b-76d4-41be-837d-1c1a0eee7257",
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/ns/dcat#dataset",
+                    "rangenode_id": "a3ea5228-769e-11ef-86c9-96a6d2455259"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "af5a067e-769b-11ef-86c9-96a6d2455259",
+                    "edgeid": "72740cf9-bfa4-49a7-8323-0b1fae466d1d",
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/ns/dcat#service",
+                    "rangenode_id": "f987c796-769f-11ef-86c9-96a6d2455259"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "af5a067e-769b-11ef-86c9-96a6d2455259",
+                    "edgeid": "ad758dfb-5940-49e7-8e09-9677ea5d2d1e",
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/2006/vcard/ns#Kind",
+                    "rangenode_id": "88fddee8-76a4-11ef-a891-96a6d2455259"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "e1ec273e-76a0-11ef-86c9-96a6d2455259",
+                    "edgeid": "cae95eb0-2205-45f1-89fe-db32f03a0c9a",
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "name": null,
+                    "ontologyproperty": "http://purl.org/dc/terms/modified",
+                    "rangenode_id": "a9b97e88-76a1-11ef-86c9-96a6d2455259"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "88fddee8-76a4-11ef-a891-96a6d2455259",
+                    "edgeid": "d278be39-90a7-4ccd-bb46-b862045e9920",
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "name": null,
+                    "ontologyproperty": "http://xmlns.com/foaf/0.1/page",
+                    "rangenode_id": "954ac9fe-76a4-11ef-a891-96a6d2455259"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "88fddee8-76a4-11ef-a891-96a6d2455259",
+                    "edgeid": "def9316f-6461-4c81-8df9-cece69dd6ced",
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/2006/vcard/ns#hasEmail",
+                    "rangenode_id": "c2fec5d0-76a4-11ef-a891-96a6d2455259"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "af5a067e-769b-11ef-86c9-96a6d2455259",
+                    "edgeid": "e4551b5f-2550-4184-a06e-436300238362",
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "name": null,
+                    "ontologyproperty": "http://purl.org/dc/terms/identifier",
+                    "rangenode_id": "c98cfb50-769b-11ef-86c9-96a6d2455259"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "af5a067e-769b-11ef-86c9-96a6d2455259",
+                    "edgeid": "e904280d-bc34-4aa0-9d59-b2f77912ed46",
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "name": null,
+                    "ontologyproperty": "http://purl.org/dc/terms/publisher",
+                    "rangenode_id": "d4179694-76a4-11ef-a891-96a6d2455259"
+                }
+            ],
+            "functions_x_graphs": [],
+            "graphid": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+            "iconclass": "",
+            "is_editable": true,
+            "isresource": true,
+            "jsonldcontext": null,
+            "name": {
+                "en": "DCAT Catalogus"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "88fddee8-76a4-11ef-a891-96a6d2455259",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "99ffe016-769e-11ef-86c9-96a6d2455259",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "a3ea5228-769e-11ef-86c9-96a6d2455259",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "c98cfb50-769b-11ef-86c9-96a6d2455259",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "cb990704-76a0-11ef-86c9-96a6d2455259",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "d4179694-76a4-11ef-a891-96a6d2455259",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "e1ec273e-76a0-11ef-86c9-96a6d2455259",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "f987c796-769f-11ef-86c9-96a6d2455259",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "contactinformatie",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "contactinformatie",
+                    "nodegroup_id": "88fddee8-76a4-11ef-a891-96a6d2455259",
+                    "nodeid": "88fddee8-76a4-11ef-a891-96a6d2455259",
+                    "ontologyclass": "http://www.w3.org/ns/dcat#contactPoint",
+                    "parentproperty": "http://www.w3.org/2006/vcard/ns#Kind",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "contactpagina",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "contactpagina",
+                    "nodegroup_id": "88fddee8-76a4-11ef-a891-96a6d2455259",
+                    "nodeid": "954ac9fe-76a4-11ef-a891-96a6d2455259",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Resource",
+                    "parentproperty": "http://xmlns.com/foaf/0.1/page",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "beschrijving",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "beschrijving",
+                    "nodegroup_id": "99ffe016-769e-11ef-86c9-96a6d2455259",
+                    "nodeid": "99ffe016-769e-11ef-86c9-96a6d2455259",
+                    "ontologyclass": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString",
+                    "parentproperty": "http://purl.org/dc/terms/description",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "issued",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "issued",
+                    "nodegroup_id": "e1ec273e-76a0-11ef-86c9-96a6d2455259",
+                    "nodeid": "9e6cad84-76a1-11ef-86c9-96a6d2455259",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#dateTime",
+                    "parentproperty": "http://purl.org/dc/terms/issued",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "heeft_dataset",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "207063b6-ee16-4ea4-8c05-6eeda78e3680",
+                                "inverseRelationshipConcept": "ac41d9be-79db-4256-b368-2f4559cfbe55",
+                                "name": "DCAT Dataset",
+                                "relationshipCollection": "00000000-0000-0000-0000-000000000005",
+                                "relationshipConcept": "ac41d9be-79db-4256-b368-2f4559cfbe55",
+                                "useOntologyRelationship": false
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "heeft_Dataset",
+                    "nodegroup_id": "a3ea5228-769e-11ef-86c9-96a6d2455259",
+                    "nodeid": "a3ea5228-769e-11ef-86c9-96a6d2455259",
+                    "ontologyclass": "http://www.w3.org/ns/dcat#Dataset",
+                    "parentproperty": "http://www.w3.org/ns/dcat#dataset",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "modified",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "modified",
+                    "nodegroup_id": "e1ec273e-76a0-11ef-86c9-96a6d2455259",
+                    "nodeid": "a9b97e88-76a1-11ef-86c9-96a6d2455259",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#dateTime",
+                    "parentproperty": "http://purl.org/dc/terms/modified",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": null,
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "DCAT Catalogus",
+                    "nodegroup_id": null,
+                    "nodeid": "af5a067e-769b-11ef-86c9-96a6d2455259",
+                    "ontologyclass": "http://www.w3.org/ns/dcat#Catalog",
+                    "parentproperty": "",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "e_mail",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "e-mail",
+                    "nodegroup_id": "88fddee8-76a4-11ef-a891-96a6d2455259",
+                    "nodeid": "c2fec5d0-76a4-11ef-a891-96a6d2455259",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Resource",
+                    "parentproperty": "http://www.w3.org/2006/vcard/ns#hasEmail",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "identificator",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "identificator",
+                    "nodegroup_id": "c98cfb50-769b-11ef-86c9-96a6d2455259",
+                    "nodeid": "c98cfb50-769b-11ef-86c9-96a6d2455259",
+                    "ontologyclass": "http://www.w3.org/ns/adms#Identifier",
+                    "parentproperty": "http://purl.org/dc/terms/identifier",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "titel",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "titel",
+                    "nodegroup_id": "cb990704-76a0-11ef-86c9-96a6d2455259",
+                    "nodeid": "cb990704-76a0-11ef-86c9-96a6d2455259",
+                    "ontologyclass": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString",
+                    "parentproperty": "http://purl.org/dc/terms/title",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "uitgever",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "uitgever",
+                    "nodegroup_id": "d4179694-76a4-11ef-a891-96a6d2455259",
+                    "nodeid": "d4179694-76a4-11ef-a891-96a6d2455259",
+                    "ontologyclass": "http://xmlns.com/foaf/0.1/Agent",
+                    "parentproperty": "http://purl.org/dc/terms/publisher",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "record",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "record",
+                    "nodegroup_id": "e1ec273e-76a0-11ef-86c9-96a6d2455259",
+                    "nodeid": "e1ec273e-76a0-11ef-86c9-96a6d2455259",
+                    "ontologyclass": "http://www.w3.org/ns/dcat#CatalogRecord",
+                    "parentproperty": "http://www.w3.org/ns/dcat#record",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "naam",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "naam",
+                    "nodegroup_id": "d4179694-76a4-11ef-a891-96a6d2455259",
+                    "nodeid": "ee8f19d4-76a4-11ef-a891-96a6d2455259",
+                    "ontologyclass": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString",
+                    "parentproperty": "http://xmlns.com/foaf/0.1/name",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "heeft_dataservice",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "6ec62177-9e28-4943-8096-e9f475d7a8c2",
+                                "inverseRelationshipConcept": "ac41d9be-79db-4256-b368-2f4559cfbe55",
+                                "name": "DCAT DataService",
+                                "relationshipCollection": "00000000-0000-0000-0000-000000000005",
+                                "relationshipConcept": "ac41d9be-79db-4256-b368-2f4559cfbe55",
+                                "useOntologyRelationship": false
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "heeft_DataService",
+                    "nodegroup_id": "f987c796-769f-11ef-86c9-96a6d2455259",
+                    "nodeid": "f987c796-769f-11ef-86c9-96a6d2455259",
+                    "ontologyclass": "http://www.w3.org/ns/dcat#DataService",
+                    "parentproperty": "http://www.w3.org/ns/dcat#service",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                }
+            ],
+            "ontology_id": "83a164f7-2ec1-48db-bdd8-b73779c339c9",
+            "publication": {
+                "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                "notes": null,
+                "publicationid": "1a68f458-76a5-11ef-a891-96a6d2455259",
+                "published_time": "2024-09-19T11:34:55.654"
+            },
+            "relatable_resource_model_ids": [],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": null,
+                "config": {
+                    "en": ""
+                },
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "bd00dd03-b0d9-4496-b6c3-837d024d4e22",
+                "hascustomalias": false,
+                "is_collector": false,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "DCAT Catalogus",
+                "nodegroup_id": null,
+                "nodeid": "af5a067e-769b-11ef-86c9-96a6d2455259",
+                "ontologyclass": "http://www.w3.org/ns/dcat#Catalog",
+                "sortorder": 0,
+                "sourcebranchpublication_id": null
+            },
+            "slug": null,
+            "subtitle": {
+                "en": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ],
+    "metadata": {
+        "db": "PostgreSQL 15.8 (Postgres.app) on aarch64-apple-darwin21.6.0, compiled by Apple clang version 14.0.0 (clang-1400.0.29.102), 64-bit",
+        "git hash": "0ea2cebb 2024-09-18 09:52:10 +0200",
+        "os": "Darwin",
+        "os version": "23.6.0"
+    }
+}

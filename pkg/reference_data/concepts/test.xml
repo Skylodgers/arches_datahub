@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:ConceptScheme rdf:about="http://localhost:8000/b1ea785b-18ce-4612-a1ba-a74f276e04d3">
+    <dcterms:identifier xml:lang="en">{"id": "5aa6d5e7-1066-4b1b-9ec4-1be3ee7d3cc3", "value": "http://localhost:8000/b1ea785b-18ce-4612-a1ba-a74f276e04d3"}</dcterms:identifier>
+    <dcterms:title xml:lang="en">{"id": "e6f2d0d4-c4c9-4023-8226-4500137d63c9", "value": "test"}</dcterms:title>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/cac8f358-e4dc-4a58-b7c6-6b8ed23e5ae1">
+        <dcterms:identifier xml:lang="en">{"id": "71dfc7c1-0e7f-46e7-ab7c-e68857c8f95e", "value": "\"http://vocab.getty.edu/aat/300389525"}</dcterms:identifier>
+        <dcterms:identifier xml:lang="en">{"id": "fddc93d6-c90b-42c1-955b-560020c83db7", "value": "https://data.antwerp.be/id/term/brocade-catalog/lg/vie"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/b1ea785b-18ce-4612-a1ba-a74f276e04d3"/>
+        <skos:prefLabel xml:lang="en">{"id": "d4b099b4-7809-4357-854b-b2263b69f882", "value": "vietnamese"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+  </skos:ConceptScheme>
+</rdf:RDF>

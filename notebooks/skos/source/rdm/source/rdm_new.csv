@@ -1,0 +1,1066 @@
+﻿concept;parent;label;comment;aat_identifier
+https://data.antwerp.be/id/def/;https://data.antwerp.be/id/term/Datahub;Antwerp Definitions;;
+https://data.antwerp.be/id/def/achternaam;https://data.antwerp.be/id/def/;naam achternaam;;http://vocab.getty.edu/aat/300404652
+https://data.antwerp.be/id/def/alias;https://data.antwerp.be/id/def/;naam alias;;http://vocab.getty.edu/aat/300404664
+https://data.antwerp.be/id/def/archief;https://data.antwerp.be/id/def/;archief;;http://vocab.getty.edu/aat/300312242
+https://data.antwerp.be/id/def/beschrijving;https://data.antwerp.be/id/def/;beschrijving;;http://vocab.getty.edu/aat/300435416
+https://data.antwerp.be/id/def/bewaring;https://data.antwerp.be/id/def/;bewaring;;http://vocab.getty.edu/aat/300404519
+https://data.antwerp.be/id/def/bibliotheek;https://data.antwerp.be/id/def/;bibliotheek;;http://vocab.getty.edu/aat/300312241
+https://data.antwerp.be/id/def/biografie;https://data.antwerp.be/id/def/;biografie;;http://vocab.getty.edu/aat/300435422
+https://data.antwerp.be/id/def/citaat;https://data.antwerp.be/id/def/;citaat;;http://vocab.getty.edu/aat/300435423
+https://data.antwerp.be/id/def/collectioneur;https://data.antwerp.be/id/def/;collectioneur;;http://vocab.getty.edu/aat/300435149
+https://data.antwerp.be/id/def/convoluut;https://data.antwerp.be/id/def/;convoluut;;http://vocab.getty.edu/aat/300391488
+https://data.antwerp.be/id/def/department;https://data.antwerp.be/id/def/;department;;http://vocab.getty.edu/aat/300263534
+https://data.antwerp.be/id/def/museum;https://data.antwerp.be/id/def/;museum;;http://vocab.getty.edu/aat/300312281
+https://data.antwerp.be/id/def/niet-publiek;https://data.antwerp.be/id/def/;niet publiek;;http://vocab.getty.edu/aat/300444973
+https://data.antwerp.be/id/def/onderdeel;https://data.antwerp.be/id/def/;onderdeel;;http://vocab.getty.edu/aat/300241583
+https://data.antwerp.be/id/def/stijl;https://data.antwerp.be/id/def/;stijl/genre;;http://vocab.getty.edu/aat/300056462
+https://data.antwerp.be/id/def/voornaam;https://data.antwerp.be/id/def/;naam voornaam;;http://vocab.getty.edu/aat/300404651
+https://data.antwerp.be/id/term/adlib-collect;https://data.antwerp.be/id/term/Datahub;Adlib;;
+https://data.antwerp.be/id/term/adlib-collect/association-person-type;https://data.antwerp.be/id/term/adlib-collect;Agent Association type (adlib);;
+https://data.antwerp.be/id/term/adlib-collect/association-person-type/family;https://data.antwerp.be/id/term/adlib-collect/association-person-type;Familie;;http://vocab.getty.edu/aat/300055474
+https://data.antwerp.be/id/term/adlib-collect/association-person-type/inst;https://data.antwerp.be/id/term/adlib-collect/association-person-type;Instelling;;http://vocab.getty.edu/aat/300026004
+https://data.antwerp.be/id/term/adlib-collect/association-person-type/person;https://data.antwerp.be/id/term/adlib-collect/association-person-type;Persoon;;http://vocab.getty.edu/aat/300024979
+https://data.antwerp.be/id/term/adlib-collect/association-subject-type;https://data.antwerp.be/id/term/adlib-collect;Association Onderwerp type;;
+https://data.antwerp.be/id/term/adlib-collect/association-subject-type/activ;https://data.antwerp.be/id/term/adlib-collect/association-subject-type;Activiteit;;http://vocab.getty.edu/aat/300404112
+https://data.antwerp.be/id/term/adlib-collect/association-subject-type/animal;https://data.antwerp.be/id/term/adlib-collect/association-subject-type;Dier;;http://vocab.getty.edu/aat/300249525
+https://data.antwerp.be/id/term/adlib-collect/association-subject-type/concept;https://data.antwerp.be/id/term/adlib-collect/association-subject-type;Concept;;https://www.wikidata.org/wiki/Q151885
+https://data.antwerp.be/id/term/adlib-collect/association-subject-type/culture;https://data.antwerp.be/id/term/adlib-collect/association-subject-type;Cultuur;;http://vocab.getty.edu/aat/300055768
+https://data.antwerp.be/id/term/adlib-collect/association-subject-type/event;https://data.antwerp.be/id/term/adlib-collect/association-subject-type;Gebeurtenis;;http://vocab.getty.edu/aat/300069084
+https://data.antwerp.be/id/term/adlib-collect/association-subject-type/geokeyw;https://data.antwerp.be/id/term/adlib-collect/association-subject-type;Geografisch trefwoord;;http://vocab.getty.edu/aat/300248479
+https://data.antwerp.be/id/term/adlib-collect/association-subject-type/object;https://data.antwerp.be/id/term/adlib-collect/association-subject-type;Objectnaam;;http://vocab.getty.edu/aat/300311889
+https://data.antwerp.be/id/term/adlib-collect/association-subject-type/people;https://data.antwerp.be/id/term/adlib-collect/association-subject-type;Volk;;http://vocab.getty.edu/aat/300192630
+https://data.antwerp.be/id/term/adlib-collect/association-subject-type/plant;https://data.antwerp.be/id/term/adlib-collect/association-subject-type;Plant;;http://vocab.getty.edu/aat/300132360
+https://data.antwerp.be/id/term/adlib-collect/association-subject-type/subject;https://data.antwerp.be/id/term/adlib-collect/association-subject-type;Onderwerp;;http://vocab.getty.edu/aat/300404126
+https://data.antwerp.be/id/term/adlib-collect/collection;https://data.antwerp.be/id/term/adlib-collect;Collectie;;http://vocab.getty.edu/aat/300025976
+https://data.antwerp.be/id/term/adlib-collect/content-person-name-type;https://data.antwerp.be/id/term/adlib-collect/collection;Agent Collection type (adlib);;
+https://data.antwerp.be/id/term/adlib-collect/content-person-name-type/inst;https://data.antwerp.be/id/term/adlib-collect/content-person-name-type;Instelling;;http://vocab.getty.edu/aat/300026004
+https://data.antwerp.be/id/term/adlib-collect/content-person-name-type/person;https://data.antwerp.be/id/term/adlib-collect/content-person-name-type;Persoon;;http://vocab.getty.edu/aat/300024979
+https://data.antwerp.be/id/term/adlib-collect/content-subject-type;https://data.antwerp.be/id/term/adlib-collect;Content Onderwerp type;;
+https://data.antwerp.be/id/term/adlib-collect/content-subject-type/activ;https://data.antwerp.be/id/term/adlib-collect/content-subject-type;Activiteit;;http://vocab.getty.edu/aat/300404112
+https://data.antwerp.be/id/term/adlib-collect/content-subject-type/animal;https://data.antwerp.be/id/term/adlib-collect/content-subject-type;Dier;;http://vocab.getty.edu/aat/300249525
+https://data.antwerp.be/id/term/adlib-collect/content-subject-type/concept;https://data.antwerp.be/id/term/adlib-collect/content-subject-type;Concept;;https://www.wikidata.org/wiki/Q151885
+https://data.antwerp.be/id/term/adlib-collect/content-subject-type/event;https://data.antwerp.be/id/term/adlib-collect/content-subject-type;Gebeurtenis;;http://vocab.getty.edu/aat/300069084
+https://data.antwerp.be/id/term/adlib-collect/content-subject-type/geokeyw;https://data.antwerp.be/id/term/adlib-collect/content-subject-type;Geografisch trefwoord;;http://vocab.getty.edu/aat/300248479
+https://data.antwerp.be/id/term/adlib-collect/content-subject-type/object;https://data.antwerp.be/id/term/adlib-collect/content-subject-type;Objectnaam;;http://vocab.getty.edu/aat/300311889
+https://data.antwerp.be/id/term/adlib-collect/content-subject-type/people;https://data.antwerp.be/id/term/adlib-collect/content-subject-type;Volk;;http://vocab.getty.edu/aat/300192630
+https://data.antwerp.be/id/term/adlib-collect/content-subject-type/plant;https://data.antwerp.be/id/term/adlib-collect/content-subject-type;Plant;;http://vocab.getty.edu/aat/300132360
+https://data.antwerp.be/id/term/adlib-collect/content-subject-type/subject;https://data.antwerp.be/id/term/adlib-collect/content-subject-type;Onderwerp;;http://vocab.getty.edu/aat/300404126
+https://data.antwerp.be/id/term/adlib-collect/objectname;https://data.antwerp.be/id/term/adlib-collect;Object type;;http://vocab.getty.edu/aat/300435443
+https://data.antwerp.be/id/term/adlib-location;https://data.antwerp.be/id/term/adlib-collect;Locatie (adlib);;
+https://data.antwerp.be/id/term/adlib-location/location-type;https://data.antwerp.be/id/term/adlib-location;Locatie type;;
+https://data.antwerp.be/id/term/adlib-location/location-type/benb;https://data.antwerp.be/id/term/adlib-location/location-type;Behoud en beheer;;
+https://data.antwerp.be/id/term/adlib-location/location-type/collectiepaviljoen;https://data.antwerp.be/id/term/adlib-location/location-type;Collectiepaviljoen;;
+https://data.antwerp.be/id/term/adlib-location/location-type/depot;https://data.antwerp.be/id/term/adlib-location/location-type;Depot;;http://vocab.getty.edu/aat/300312279
+https://data.antwerp.be/id/term/adlib-location/location-type/ex-situ;https://data.antwerp.be/id/term/adlib-location/location-type;Ex situ;;
+https://data.antwerp.be/id/term/adlib-location/location-type/extern;https://data.antwerp.be/id/term/adlib-location/location-type;Extern;;
+https://data.antwerp.be/id/term/adlib-location/location-type/kunstpark;https://data.antwerp.be/id/term/adlib-location/location-type;Kunstpark;;
+https://data.antwerp.be/id/term/adlib-location/location-type/loanl;https://data.antwerp.be/id/term/adlib-location/location-type;Langdurige bruikleen;;
+https://data.antwerp.be/id/term/adlib-location/location-type/loant;https://data.antwerp.be/id/term/adlib-location/location-type;Tijdelijke bruikleen;;
+https://data.antwerp.be/id/term/adlib-location/location-type/onbek;https://data.antwerp.be/id/term/adlib-location/location-type;Onbekend;;
+https://data.antwerp.be/id/term/adlib-location/location-type/opstel;https://data.antwerp.be/id/term/adlib-location/location-type;Permanente opstelling;;http://vocab.getty.edu/aat/300311710
+https://data.antwerp.be/id/term/adlib-location/location-type/opstelt;https://data.antwerp.be/id/term/adlib-location/location-type;Tijdelijke opstelling;;
+https://data.antwerp.be/id/term/adlib-location/location-type/publnot;https://data.antwerp.be/id/term/adlib-location/location-type;Niet-publieke ruimte;;
+https://data.antwerp.be/id/term/adlib-location/location-type/transit;https://data.antwerp.be/id/term/adlib-location/location-type;Transit;;
+https://data.antwerp.be/id/term/adlib-location/package-location;https://data.antwerp.be/id/term/adlib-location;Verpakking of standplaats;;http://vocab.getty.edu/aat/300008347
+https://data.antwerp.be/id/term/adlib-location/package-location/location;https://data.antwerp.be/id/term/adlib-location/package-location;Lokatie;;http://vocab.getty.edu/aat/300248479
+https://data.antwerp.be/id/term/adlib-location/package-location/package;https://data.antwerp.be/id/term/adlib-location/package-location;Verpakking;;http://vocab.getty.edu/aat/300404445
+https://data.antwerp.be/id/term/adlib-people;https://data.antwerp.be/id/term/adlib-collect;Agent (adlib);;
+https://data.antwerp.be/id/term/adlib-people/gender;https://data.antwerp.be/id/term/adlib-people;Geslacht;;http://vocab.getty.edu/aat/300055147
+https://data.antwerp.be/id/term/adlib-people/gender/female;https://data.antwerp.be/id/term/adlib-people/gender;Vrouw;;http://vocab.getty.edu/aat/300189557
+https://data.antwerp.be/id/term/adlib-people/gender/male;https://data.antwerp.be/id/term/adlib-people/gender;Man;;http://vocab.getty.edu/aat/300189559
+https://data.antwerp.be/id/term/adlib-people/gender/unknown;https://data.antwerp.be/id/term/adlib-people/gender;Niet gekend;;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/adlib-people/name-status;https://data.antwerp.be/id/term/adlib-people;Naam status;;
+https://data.antwerp.be/id/term/adlib-people/name-status/0;https://data.antwerp.be/id/term/adlib-people/name-status;Niet gedefinieerd;;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/adlib-people/name-status/1;https://data.antwerp.be/id/term/adlib-people/name-status;Goedgekeurd;;http://vocab.getty.edu/aat/300379394
+https://data.antwerp.be/id/term/adlib-people/name-status/3;https://data.antwerp.be/id/term/adlib-people/name-status;Kandidaat;;
+https://data.antwerp.be/id/term/adlib-people/name-status/7;https://data.antwerp.be/id/term/adlib-people/name-status;Goedgekeurd, geen URI;;
+https://data.antwerp.be/id/term/adlib-people/name-status/8;https://data.antwerp.be/id/term/adlib-people/name-status;Niet-voorkeursterm;;http://vocab.getty.edu/aat/300264273
+https://data.antwerp.be/id/term/adlib-people/name-type;https://data.antwerp.be/id/term/adlib-people;Naam type;;
+https://data.antwerp.be/id/term/adlib-people/name-type/acquisitionsource;https://data.antwerp.be/id/term/adlib-people/name-type;Verwervingsbron;;
+https://data.antwerp.be/id/term/adlib-people/name-type/auctioneer;https://data.antwerp.be/id/term/adlib-people/name-type;Veilingmeester;;http://vocab.getty.edu/aat/300025208
+https://data.antwerp.be/id/term/adlib-people/name-type/author;https://data.antwerp.be/id/term/adlib-people/name-type;Auteur;;http://vocab.getty.edu/aat/300025492
+https://data.antwerp.be/id/term/adlib-people/name-type/collect;https://data.antwerp.be/id/term/adlib-people/name-type;Collectioneur;;http://vocab.getty.edu/aat/300025976
+https://data.antwerp.be/id/term/adlib-people/name-type/corporate;https://data.antwerp.be/id/term/adlib-people/name-type;Bedrijf;;http://vocab.getty.edu/aat/300445020
+https://data.antwerp.be/id/term/adlib-people/name-type/curator;https://data.antwerp.be/id/term/adlib-people/name-type;Curator;;http://vocab.getty.edu/aat/300025633
+https://data.antwerp.be/id/term/adlib-people/name-type/donor;https://data.antwerp.be/id/term/adlib-people/name-type;Donor;;http://vocab.getty.edu/aat/300025240
+https://data.antwerp.be/id/term/adlib-people/name-type/family;https://data.antwerp.be/id/term/adlib-people/name-type;Familie;;http://vocab.getty.edu/aat/300055474
+https://data.antwerp.be/id/term/adlib-people/name-type/illus;https://data.antwerp.be/id/term/adlib-people/name-type;Illustrator;;http://vocab.getty.edu/aat/300025123
+https://data.antwerp.be/id/term/adlib-people/name-type/inst;https://data.antwerp.be/id/term/adlib-people/name-type;Instelling;;http://vocab.getty.edu/aat/300026004
+https://data.antwerp.be/id/term/adlib-people/name-type/maker;https://data.antwerp.be/id/term/adlib-people/name-type;Vervaardiger;;http://vocab.getty.edu/aat/300251917
+https://data.antwerp.be/id/term/adlib-people/name-type/perskeyw;https://data.antwerp.be/id/term/adlib-people/name-type;Persoonlijk trefwoord;;http://vocab.getty.edu/aat/300263529
+https://data.antwerp.be/id/term/adlib-people/name-type/person;https://data.antwerp.be/id/term/adlib-people/name-type;Persoon;;http://vocab.getty.edu/aat/300024979
+https://data.antwerp.be/id/term/adlib-people/name-type/printer;https://data.antwerp.be/id/term/adlib-people/name-type;Drukker;;http://vocab.getty.edu/aat/300025732
+https://data.antwerp.be/id/term/adlib-people/name-type/prodcomp;https://data.antwerp.be/id/term/adlib-people/name-type;Fabrikant;;http://vocab.getty.edu/aat/300419391
+https://data.antwerp.be/id/term/adlib-people/name-type/publ;https://data.antwerp.be/id/term/adlib-people/name-type;Uitgever;;http://vocab.getty.edu/aat/300025574
+https://data.antwerp.be/id/term/adlib-people/name-type/shipper;https://data.antwerp.be/id/term/adlib-people/name-type;Transporteur;;http://vocab.getty.edu/aat/300025875
+https://data.antwerp.be/id/term/adlib-people/name-type/supplier;https://data.antwerp.be/id/term/adlib-people/name-type;Leverancier;;http://vocab.getty.edu/aat/300025252
+https://data.antwerp.be/id/term/adlib-people/name-type/valuer;https://data.antwerp.be/id/term/adlib-people/name-type;Taxateur;;http://vocab.getty.edu/aat/300025829
+https://data.antwerp.be/id/term/adlib-thesau;https://data.antwerp.be/id/term/adlib-collect;Term thesaurus (adlib);;
+https://data.antwerp.be/id/term/adlib-thesau/term-status;https://data.antwerp.be/id/term/adlib-thesau;Term status;;
+https://data.antwerp.be/id/term/adlib-thesau/term-status/0;https://data.antwerp.be/id/term/adlib-thesau/term-status;Niet gedefinieerd;;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/adlib-thesau/term-status/1;https://data.antwerp.be/id/term/adlib-thesau/term-status;Voorkeursterm;;http://vocab.getty.edu/aat/300404670
+https://data.antwerp.be/id/term/adlib-thesau/term-status/2;https://data.antwerp.be/id/term/adlib-thesau/term-status;Niet-voorkeursterm;;http://vocab.getty.edu/aat/300264273
+https://data.antwerp.be/id/term/adlib-thesau/term-status/3;https://data.antwerp.be/id/term/adlib-thesau/term-status;Kandidaat;;
+https://data.antwerp.be/id/term/adlib-thesau/term-status/5;https://data.antwerp.be/id/term/adlib-thesau/term-status;Verworpen;;
+https://data.antwerp.be/id/term/adlib-thesau/term-type;https://data.antwerp.be/id/term/adlib-thesau;Term type;;
+https://data.antwerp.be/id/term/adlib-thesau/term-type/acqmeth;https://data.antwerp.be/id/term/adlib-thesau/term-type;Verwervinsgmethode;;http://vocab.getty.edu/aat/300417634
+https://data.antwerp.be/id/term/adlib-thesau/term-type/activ;https://data.antwerp.be/id/term/adlib-thesau/term-type;Activiteit;;http://vocab.getty.edu/aat/300404112
+https://data.antwerp.be/id/term/adlib-thesau/term-type/animal;https://data.antwerp.be/id/term/adlib-thesau/term-type;Dier;;http://vocab.getty.edu/aat/300249525
+https://data.antwerp.be/id/term/adlib-thesau/term-type/aspect;https://data.antwerp.be/id/term/adlib-thesau/term-type;Aspect;;https://www.wikidata.org/wiki/Q21040055
+https://data.antwerp.be/id/term/adlib-thesau/term-type/assoc;https://data.antwerp.be/id/term/adlib-thesau/term-type;Associatie;;http://vocab.getty.edu/aat/300452097
+https://data.antwerp.be/id/term/adlib-thesau/term-type/coll;https://data.antwerp.be/id/term/adlib-thesau/term-type;Collectie;;http://vocab.getty.edu/aat/300025976
+https://data.antwerp.be/id/term/adlib-thesau/term-type/concept;https://data.antwerp.be/id/term/adlib-thesau/term-type;Concept;;https://www.wikidata.org/wiki/Q151885
+https://data.antwerp.be/id/term/adlib-thesau/term-type/cond;https://data.antwerp.be/id/term/adlib-thesau/term-type;Toestand;;http://vocab.getty.edu/aat/300389724
+https://data.antwerp.be/id/term/adlib-thesau/term-type/country;https://data.antwerp.be/id/term/adlib-thesau/term-type;Land;;http://vocab.getty.edu/aat/300387506
+https://data.antwerp.be/id/term/adlib-thesau/term-type/dim;https://data.antwerp.be/id/term/adlib-thesau/term-type;Afmeting;;http://vocab.getty.edu/aat/300266036
+https://data.antwerp.be/id/term/adlib-thesau/term-type/dispmeth;https://data.antwerp.be/id/term/adlib-thesau/term-type;Afstotingsmethode;;
+https://data.antwerp.be/id/term/adlib-thesau/term-type/doctype;https://data.antwerp.be/id/term/adlib-thesau/term-type;Type document;;
+https://data.antwerp.be/id/term/adlib-thesau/term-type/event;https://data.antwerp.be/id/term/adlib-thesau/term-type;Gebeurtenis;;http://vocab.getty.edu/aat/300069084
+https://data.antwerp.be/id/term/adlib-thesau/term-type/geokeyw;https://data.antwerp.be/id/term/adlib-thesau/term-type;Geografisch trefwoord;;http://vocab.getty.edu/aat/300248479
+https://data.antwerp.be/id/term/adlib-thesau/term-type/guide;https://data.antwerp.be/id/term/adlib-thesau/term-type;Gidsterm;;http://vocab.getty.edu/aat/300386700
+https://data.antwerp.be/id/term/adlib-thesau/term-type/insctype;https://data.antwerp.be/id/term/adlib-thesau/term-type;Soort opschrift;;
+https://data.antwerp.be/id/term/adlib-thesau/term-type/keyword;https://data.antwerp.be/id/term/adlib-thesau/term-type;Trefwoord;;http://vocab.getty.edu/aat/300311841
+https://data.antwerp.be/id/term/adlib-thesau/term-type/language;https://data.antwerp.be/id/term/adlib-thesau/term-type;Taal;;http://vocab.getty.edu/aat/300386046
+https://data.antwerp.be/id/term/adlib-thesau/term-type/loss;https://data.antwerp.be/id/term/adlib-thesau/term-type;Verlies/schade methode;;
+https://data.antwerp.be/id/term/adlib-thesau/term-type/mater;https://data.antwerp.be/id/term/adlib-thesau/term-type;Materiaal;;http://vocab.getty.edu/aat/300010358
+https://data.antwerp.be/id/term/adlib-thesau/term-type/motif;https://data.antwerp.be/id/term/adlib-thesau/term-type;Motief;;
+https://data.antwerp.be/id/term/adlib-thesau/term-type/movement;https://data.antwerp.be/id/term/adlib-thesau/term-type;Verplaatsing methode;;
+https://data.antwerp.be/id/term/adlib-thesau/term-type/namtype;https://data.antwerp.be/id/term/adlib-thesau/term-type;Type objectnaam;;
+https://data.antwerp.be/id/term/adlib-thesau/term-type/nationality;https://data.antwerp.be/id/term/adlib-thesau/term-type;Nationaliteit;;http://vocab.getty.edu/aat/300379842
+https://data.antwerp.be/id/term/adlib-thesau/term-type/objcat;https://data.antwerp.be/id/term/adlib-thesau/term-type;Objectcategorie;;
+https://data.antwerp.be/id/term/adlib-thesau/term-type/object;https://data.antwerp.be/id/term/adlib-thesau/term-type;Objectnaam;;http://vocab.getty.edu/aat/300311889
+https://data.antwerp.be/id/term/adlib-thesau/term-type/occupation;https://data.antwerp.be/id/term/adlib-thesau/term-type;Beroep;;http://vocab.getty.edu/aat/300393201
+https://data.antwerp.be/id/term/adlib-thesau/term-type/people;https://data.antwerp.be/id/term/adlib-thesau/term-type;Volk;;http://vocab.getty.edu/aat/300192630
+https://data.antwerp.be/id/term/adlib-thesau/term-type/period;https://data.antwerp.be/id/term/adlib-thesau/term-type;Periode;;http://vocab.getty.edu/aat/300081446
+https://data.antwerp.be/id/term/adlib-thesau/term-type/place;https://data.antwerp.be/id/term/adlib-thesau/term-type;Plaats;;http://vocab.getty.edu/aat/300248479
+https://data.antwerp.be/id/term/adlib-thesau/term-type/preservationform;https://data.antwerp.be/id/term/adlib-thesau/term-type;Bewaarvorm;;
+https://data.antwerp.be/id/term/adlib-thesau/term-type/propname;https://data.antwerp.be/id/term/adlib-thesau/term-type;Eigennaam;;
+https://data.antwerp.be/id/term/adlib-thesau/term-type/repro-type;https://data.antwerp.be/id/term/adlib-thesau/term-type;Soort reproductie;;
+https://data.antwerp.be/id/term/adlib-thesau/term-type/research;https://data.antwerp.be/id/term/adlib-thesau/term-type;Onderzoek/gebruik methode;;http://vocab.getty.edu/aat/300054687
+https://data.antwerp.be/id/term/adlib-thesau/term-type/research-result;https://data.antwerp.be/id/term/adlib-thesau/term-type;Onderzoek/gebruik resultaat;;
+https://data.antwerp.be/id/term/adlib-thesau/term-type/role;https://data.antwerp.be/id/term/adlib-thesau/term-type;Rol;;http://vocab.getty.edu/aat/300435108
+https://data.antwerp.be/id/term/adlib-thesau/term-type/school;https://data.antwerp.be/id/term/adlib-thesau/term-type;School/stijl;;http://vocab.getty.edu/aat/300404284
+https://data.antwerp.be/id/term/adlib-thesau/term-type/script;https://data.antwerp.be/id/term/adlib-thesau/term-type;Schrift;;
+https://data.antwerp.be/id/term/adlib-thesau/term-type/subject;https://data.antwerp.be/id/term/adlib-thesau/term-type;Onderwerp;;http://vocab.getty.edu/aat/300404126
+https://data.antwerp.be/id/term/adlib-thesau/term-type/techn;https://data.antwerp.be/id/term/adlib-thesau/term-type;Techniek;;http://vocab.getty.edu/aat/300138082
+https://data.antwerp.be/id/term/adlib-thesau/term-type/topterm;https://data.antwerp.be/id/term/adlib-thesau/term-type;Topterm;;
+https://data.antwerp.be/id/term/adlib-thesau/term-type/transport;https://data.antwerp.be/id/term/adlib-thesau/term-type;Transport;;http://vocab.getty.edu/aat/300055244
+https://data.antwerp.be/id/term/adlib-thesau/term-type/treat;https://data.antwerp.be/id/term/adlib-thesau/term-type;Behandeling;;
+https://data.antwerp.be/id/term/adlib-thesau/term-type/unit;https://data.antwerp.be/id/term/adlib-thesau/term-type;Eenheid;;https://www.wikidata.org/wiki/Q147574
+https://data.antwerp.be/id/term/aspace;https://data.antwerp.be/id/term/Datahub;Aspace;;
+https://data.antwerp.be/id/term/aspace-agents;https://data.antwerp.be/id/term/aspace;Agent (aspace);;
+https://data.antwerp.be/id/term/aspace-agents/agent-type;https://data.antwerp.be/id/term/aspace-agents;Agent type (aspace);;http://vocab.getty.edu/aat/300055863
+https://data.antwerp.be/id/term/aspace-agents/agent-type/agent-corporate-entity;https://data.antwerp.be/id/term/aspace-agents/agent-type;Corporatieve entiteit;;
+https://data.antwerp.be/id/term/aspace-agents/agent-type/agent-family;https://data.antwerp.be/id/term/aspace-agents/agent-type;Familie;;http://vocab.getty.edu/aat/300055474
+https://data.antwerp.be/id/term/aspace-agents/agent-type/agent-person;https://data.antwerp.be/id/term/aspace-agents/agent-type;Persoon;;http://vocab.getty.edu/aat/300024979
+https://data.antwerp.be/id/term/aspace-agents/identifier-type;https://data.antwerp.be/id/term/aspace-agents;Identificator type;;http://vocab.getty.edu/aat/300055863
+https://data.antwerp.be/id/term/aspace-agents/identifier-type/lh;https://data.antwerp.be/id/term/aspace-agents/identifier-type;Letterenhuis;;http://viaf.org/viaf/150846374
+https://data.antwerp.be/id/term/aspace-agents/identifier-type/mpm;https://data.antwerp.be/id/term/aspace-agents/identifier-type;Museum Plantin-Moretus;;
+https://data.antwerp.be/id/term/aspace-agents/identifier-type/rub;https://data.antwerp.be/id/term/aspace-agents/identifier-type;Rubenshuis;;
+https://data.antwerp.be/id/term/aspace-collect;https://data.antwerp.be/id/term/aspace;Object (aspace);;
+https://data.antwerp.be/id/term/aspace-collect/date-type;https://data.antwerp.be/id/term/aspace-collect;Datum type;;http://vocab.getty.edu/aat/300055863
+https://data.antwerp.be/id/term/aspace-collect/date-type/inclusive;https://data.antwerp.be/id/term/aspace-collect/date-type;Inclusief;;
+https://data.antwerp.be/id/term/aspace-collect/date-type/single;https://data.antwerp.be/id/term/aspace-collect/date-type;Enkel;;
+https://data.antwerp.be/id/term/aspace-collect/extent-type;https://data.antwerp.be/id/term/aspace-collect;Omvang type;;http://vocab.getty.edu/aat/300055863
+https://data.antwerp.be/id/term/aspace-collect/extent-type/archiefdozen;https://data.antwerp.be/id/term/aspace-collect/extent-type;Archiefdozen;;
+https://data.antwerp.be/id/term/aspace-collect/extent-type/banden;https://data.antwerp.be/id/term/aspace-collect/extent-type;Banden;;
+https://data.antwerp.be/id/term/aspace-collect/extent-type/gigabytes;https://data.antwerp.be/id/term/aspace-collect/extent-type;Gigabytes;;
+https://data.antwerp.be/id/term/aspace-collect/extent-type/megabytes;https://data.antwerp.be/id/term/aspace-collect/extent-type;Megabytes;;
+https://data.antwerp.be/id/term/aspace-collect/extent-type/meter;https://data.antwerp.be/id/term/aspace-collect/extent-type;Meter;;
+https://data.antwerp.be/id/term/aspace-collect/extent-type/niet-gespecifieerd;https://data.antwerp.be/id/term/aspace-collect/extent-type;Niet-gespecifieerd;;
+https://data.antwerp.be/id/term/aspace-collect/extent-type/omslagen;https://data.antwerp.be/id/term/aspace-collect/extent-type;Omslagen;;
+https://data.antwerp.be/id/term/aspace-collect/extent-type/pakken;https://data.antwerp.be/id/term/aspace-collect/extent-type;Pakken;;
+https://data.antwerp.be/id/term/aspace-collect/extent-type/stukken;https://data.antwerp.be/id/term/aspace-collect/extent-type;Stukken;;
+https://data.antwerp.be/id/term/aspace-collect/language;https://data.antwerp.be/id/term/aspace-collect;Taal;;http://vocab.getty.edu/aat/300386046
+https://data.antwerp.be/id/term/aspace-collect/language/afr;https://data.antwerp.be/id/term/aspace-collect/language;Afrikaans;;http://vocab.getty.edu/aat/300387782
+https://data.antwerp.be/id/term/aspace-collect/language/dut;https://data.antwerp.be/id/term/aspace-collect/language;Nederlands;;http://vocab.getty.edu/aat/300388256
+https://data.antwerp.be/id/term/aspace-collect/language/eng;https://data.antwerp.be/id/term/aspace-collect/language;Engels;;http://vocab.getty.edu/aat/300388277
+https://data.antwerp.be/id/term/aspace-collect/language/fre;https://data.antwerp.be/id/term/aspace-collect/language;Frans;;http://vocab.getty.edu/aat/300388306
+https://data.antwerp.be/id/term/aspace-collect/language/ger;https://data.antwerp.be/id/term/aspace-collect/language;Duits;;http://vocab.getty.edu/aat/300388344
+https://data.antwerp.be/id/term/aspace-collect/language/gle;https://data.antwerp.be/id/term/aspace-collect/language;Iers;;
+https://data.antwerp.be/id/term/aspace-collect/language/gre;https://data.antwerp.be/id/term/aspace-collect/language;Grieks;;
+https://data.antwerp.be/id/term/aspace-collect/language/hun;https://data.antwerp.be/id/term/aspace-collect/language;Hongaars;;
+https://data.antwerp.be/id/term/aspace-collect/language/ita;https://data.antwerp.be/id/term/aspace-collect/language;Italiaans;;
+https://data.antwerp.be/id/term/aspace-collect/language/jpn;https://data.antwerp.be/id/term/aspace-collect/language;Japans;;
+https://data.antwerp.be/id/term/aspace-collect/language/lat;https://data.antwerp.be/id/term/aspace-collect/language;Latijn;;
+https://data.antwerp.be/id/term/aspace-collect/language/mul;https://data.antwerp.be/id/term/aspace-collect/language;Meertalig;;
+https://data.antwerp.be/id/term/aspace-collect/language/nds;https://data.antwerp.be/id/term/aspace-collect/language;Niet gekend (nds);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/aspace-collect/language/pol;https://data.antwerp.be/id/term/aspace-collect/language;Pools;;
+https://data.antwerp.be/id/term/aspace-collect/language/por;https://data.antwerp.be/id/term/aspace-collect/language;Portugees;;
+https://data.antwerp.be/id/term/aspace-collect/language/rus;https://data.antwerp.be/id/term/aspace-collect/language;Russisch;;
+https://data.antwerp.be/id/term/aspace-collect/language/spa;https://data.antwerp.be/id/term/aspace-collect/language;Spaans;;
+https://data.antwerp.be/id/term/aspace-collect/language/swe;https://data.antwerp.be/id/term/aspace-collect/language;Zweeds;;
+https://data.antwerp.be/id/term/aspace-collect/level;https://data.antwerp.be/id/term/aspace-collect;Niveau;;
+https://data.antwerp.be/id/term/aspace-collect/level/collection;https://data.antwerp.be/id/term/aspace-collect/level;Collection;;
+https://data.antwerp.be/id/term/aspace-collect/level/file;https://data.antwerp.be/id/term/aspace-collect/level;File;;
+https://data.antwerp.be/id/term/aspace-collect/level/fonds;https://data.antwerp.be/id/term/aspace-collect/level;Fonds;;
+https://data.antwerp.be/id/term/aspace-collect/level/series;https://data.antwerp.be/id/term/aspace-collect/level;Series;;
+https://data.antwerp.be/id/term/aspace-collect/level/subfonds;https://data.antwerp.be/id/term/aspace-collect/level;Subfonds;;
+https://data.antwerp.be/id/term/aspace-collect/level/subseries;https://data.antwerp.be/id/term/aspace-collect/level;Subseries;;
+https://data.antwerp.be/id/term/aspace-collect/note-type;https://data.antwerp.be/id/term/aspace-collect;Annotatie type;;http://vocab.getty.edu/aat/300055863
+https://data.antwerp.be/id/term/aspace-collect/note-type/accessrestrict;https://data.antwerp.be/id/term/aspace-collect/note-type;Toegangsbeperkingen;;
+https://data.antwerp.be/id/term/aspace-collect/note-type/accruals;https://data.antwerp.be/id/term/aspace-collect/note-type;Toegangen;;
+https://data.antwerp.be/id/term/aspace-collect/note-type/acqinfo;https://data.antwerp.be/id/term/aspace-collect/note-type;Aankoopinformatie;;
+https://data.antwerp.be/id/term/aspace-collect/note-type/altformavail;https://data.antwerp.be/id/term/aspace-collect/note-type;Alternatieve vormen beschikbaar;;
+https://data.antwerp.be/id/term/aspace-collect/note-type/appraisal;https://data.antwerp.be/id/term/aspace-collect/note-type;Waardering;;
+https://data.antwerp.be/id/term/aspace-collect/note-type/arrangement;https://data.antwerp.be/id/term/aspace-collect/note-type;Schikking;;
+https://data.antwerp.be/id/term/aspace-collect/note-type/custodhist;https://data.antwerp.be/id/term/aspace-collect/note-type;Beheergeschiedenis;;
+https://data.antwerp.be/id/term/aspace-collect/note-type/odd;https://data.antwerp.be/id/term/aspace-collect/note-type;Varia;;
+https://data.antwerp.be/id/term/aspace-collect/note-type/originalsloc;https://data.antwerp.be/id/term/aspace-collect/note-type;Originele locatie;;
+https://data.antwerp.be/id/term/aspace-collect/note-type/otherfindaid;https://data.antwerp.be/id/term/aspace-collect/note-type;Andere hulpmiddelen;;
+https://data.antwerp.be/id/term/aspace-collect/note-type/physlo;https://data.antwerp.be/id/term/aspace-collect/note-type;Fysieke locatie;;
+https://data.antwerp.be/id/term/aspace-collect/note-type/phystech;https://data.antwerp.be/id/term/aspace-collect/note-type;Fysieke technische gegevens;;
+https://data.antwerp.be/id/term/aspace-collect/note-type/processinfo;https://data.antwerp.be/id/term/aspace-collect/note-type;Verwerkingsinformatie;;
+https://data.antwerp.be/id/term/aspace-collect/note-type/relatedmaterial;https://data.antwerp.be/id/term/aspace-collect/note-type;Gerelateerd materiaal;;
+https://data.antwerp.be/id/term/aspace-collect/note-type/scopecontent;https://data.antwerp.be/id/term/aspace-collect/note-type;Inhoudsomschrijving;;
+https://data.antwerp.be/id/term/aspace-collect/note-type/userestrict;https://data.antwerp.be/id/term/aspace-collect/note-type;Gebruiksbeperkingen;;
+https://data.antwerp.be/id/term/aspace-collect/restrictions-apply;https://data.antwerp.be/id/term/aspace-collect;Beperkingen van toepassing;;
+https://data.antwerp.be/id/term/aspace-collect/restrictions-apply/false;https://data.antwerp.be/id/term/aspace-collect/restrictions-apply;False;;
+https://data.antwerp.be/id/term/aspace-collect/role;https://data.antwerp.be/id/term/aspace-collect;Rol;;http://vocab.getty.edu/aat/300435108
+https://data.antwerp.be/id/term/aspace-collect/role/creator;https://data.antwerp.be/id/term/aspace-collect/role;Archiefvormer;;
+https://data.antwerp.be/id/term/aspace-collect/setspec;https://data.antwerp.be/id/term/aspace-collect;Object type;;http://vocab.getty.edu/aat/300055863
+https://data.antwerp.be/id/term/aspace-collect/setspec/archives;https://data.antwerp.be/id/term/aspace-collect/setspec;Archiefeenheid;;
+https://data.antwerp.be/id/term/aspace-thesau;https://data.antwerp.be/id/term/aspace;Term thesaurus (aspace);;
+https://data.antwerp.be/id/term/aspace-thesau/term-type;https://data.antwerp.be/id/term/aspace-thesau;Term type;;http://vocab.getty.edu/aat/300055863
+https://data.antwerp.be/id/term/aspace-thesau/term-type/function;https://data.antwerp.be/id/term/aspace-thesau/term-type;Functie;;
+https://data.antwerp.be/id/term/aspace-thesau/term-type/topical;https://data.antwerp.be/id/term/aspace-thesau/term-type;Topisch;;
+https://data.antwerp.be/id/term/aspace-thesau/term-type/topicalgeographic;https://data.antwerp.be/id/term/aspace-thesau/term-type;Geografisch;;
+https://data.antwerp.be/id/term/brocade;https://data.antwerp.be/id/term/Datahub;Brocade;;
+https://data.antwerp.be/id/term/brocade-authorities;https://data.antwerp.be/id/term/brocade;Term (brocade);;
+https://data.antwerp.be/id/term/brocade-authorities/att-ty;https://data.antwerp.be/id/term/brocade-authorities;Verwijzing type;;http://vocab.getty.edu/aat/300055863
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/aathierarchy;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Art & Architecture Thesaurus hiërarchie;;
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/aatrecordtype;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Art & Architecture Thesaurus record type;;http://vocab.getty.edu/aat/300055863
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/aatsubjectid;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Art & Architecture Thesaurus onderwerp nummer;;
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/abluc;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Niet gekend (abluc);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/abua;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Niet gekend (abua);https://repository.uantwerpen.be/acadbib/irua/;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/agrippa;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Niet gekend (agrippa);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/bbkl;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Niet gekend (bbkl);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/bpn;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Biografisch Portaal Nederland;http://www.biografischportaal.nl/en/persoon/;
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/cathen;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Niet gekend (cathen);https://www.newadvent.org/cathen/;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/cerl;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Consortium of European Research Libraries;https://data.cerl.org/thesaurus/;
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/cvgwork;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Niet gekend (cgvwork);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/dbnl;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Digitale Bibliotheek voor de Nederlandse Letteren;https://www.dbnl.org/auteurs/auteur.php?id=;
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/dbpedia;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Dbpedia;https://dbpedia.org/page/;
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/galileo;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Catholic Encyclopedia;http://galileo.rice.edu/Catalog/NewFiles/;
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/geotype;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Niet gekend (geotype);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/googlescholarid;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Google Scholar;https://scholar.google.be/citations?user=;
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/grovemusic;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Grove Music Online;https://doi.org/10.1093/gmo/9781561592630.article.;
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/kmskadata;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Niet gekend (kmskadata);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/kmskawork;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Niet gekend (kmskawork);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/lugtmarques;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Niet gekend (lugtmarques);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/midnumber;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Niet gekend (midnumber);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/odis;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Niet gekend (odis);https://www.odis.be;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/orcid;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Open Researcher and Contributor ID;https://orcid.org/;
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/resid;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Niet gekend (resid);http://www.researcherid.com/rid/;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/rkd;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Nederlands Instituut voor Kunstgeschiedenis;https://rkd.nl/explore/artists/;
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/rub;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Niet gekend (rub);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/rubens;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Niet gekend (rubens);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/rubnumber;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Niet gekend (rubnumber);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/scopusid;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Niet gekend (scopusid);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/stcn;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Niet gekend (stcn);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/ucttype;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Niet gekend (ucttype);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/udc;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Niet gekend (udc);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/url;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Uniform Resource Locator;;
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/vabb;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Vlaams Academisch Bibliografisch Bestand;;
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/viaf;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Virtual International Authority File;http://viaf.org/http://viaf.org/viaf/;
+https://data.antwerp.be/id/term/brocade-authorities/att-ty/vodscode;https://data.antwerp.be/id/term/brocade-authorities/att-ty;Niet gekend (vodscode);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-authorities/lg/e;https://data.antwerp.be/id/term/brocade-authorities/ta;Engels;;http://vocab.getty.edu/aat/300388277
+https://data.antwerp.be/id/term/brocade-authorities/lg/f;https://data.antwerp.be/id/term/brocade-authorities/ta;Frans;;http://vocab.getty.edu/aat/300388306
+https://data.antwerp.be/id/term/brocade-authorities/lg/n;https://data.antwerp.be/id/term/brocade-authorities/ta;Nederlands;;http://vocab.getty.edu/aat/300388256
+https://data.antwerp.be/id/term/brocade-authorities/lg/u;https://data.antwerp.be/id/term/brocade-authorities/ta;Niet gedefinieerd;;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-authorities/rel-ty;https://data.antwerp.be/id/term/brocade-authorities;Relatie type;;http://vocab.getty.edu/aat/300055863
+https://data.antwerp.be/id/term/brocade-authorities/rel-ty/b;https://data.antwerp.be/id/term/brocade-authorities/rel-ty;Bredere termen;;http://vocab.getty.edu/aat/300417474
+https://data.antwerp.be/id/term/brocade-authorities/rel-ty/n;https://data.antwerp.be/id/term/brocade-authorities/rel-ty;Nauwere termen;;http://vocab.getty.edu/aat/300417475
+https://data.antwerp.be/id/term/brocade-authorities/rel-ty/r;https://data.antwerp.be/id/term/brocade-authorities/rel-ty;Verwante termen;;http://vocab.getty.edu/aat/300417473
+https://data.antwerp.be/id/term/brocade-authorities/scope-ty;https://data.antwerp.be/id/term/brocade-authorities;Scope type;;http://vocab.getty.edu/aat/300055863
+https://data.antwerp.be/id/term/brocade-authorities/scope-ty/aat;https://data.antwerp.be/id/term/brocade-authorities/scope-ty;Art & Architecture Thesaurus;;
+https://data.antwerp.be/id/term/brocade-authorities/scope-ty/adres;https://data.antwerp.be/id/term/brocade-authorities/scope-ty;Adres;;http://vocab.getty.edu/aat/300386983
+https://data.antwerp.be/id/term/brocade-authorities/scope-ty/algemeen;https://data.antwerp.be/id/term/brocade-authorities/scope-ty;Algemeen;;
+https://data.antwerp.be/id/term/brocade-authorities/scope-ty/beroep;https://data.antwerp.be/id/term/brocade-authorities/scope-ty;Beroep;;http://vocab.getty.edu/aat/300393201
+https://data.antwerp.be/id/term/brocade-authorities/scope-ty/bezetting;https://data.antwerp.be/id/term/brocade-authorities/scope-ty;Bezetting;;
+https://data.antwerp.be/id/term/brocade-authorities/scope-ty/bio;https://data.antwerp.be/id/term/brocade-authorities/scope-ty;Biografie;;http://vocab.getty.edu/aat/300055908
+https://data.antwerp.be/id/term/brocade-authorities/scope-ty/kunst;https://data.antwerp.be/id/term/brocade-authorities/scope-ty;Kunstwerk;;http://vocab.getty.edu/aat/300417586
+https://data.antwerp.be/id/term/brocade-authorities/scope-ty/oai-dc;https://data.antwerp.be/id/term/brocade-authorities/scope-ty;OAI-DC;;
+https://data.antwerp.be/id/term/brocade-authorities/scope-ty/status;https://data.antwerp.be/id/term/brocade-authorities/scope-ty;Status;;
+https://data.antwerp.be/id/term/brocade-authorities/scope-ty/tento;https://data.antwerp.be/id/term/brocade-authorities/scope-ty;Tentoonstelling;;
+https://data.antwerp.be/id/term/brocade-authorities/scope-ty/uithangbord;https://data.antwerp.be/id/term/brocade-authorities/scope-ty;Uithangbord;;
+https://data.antwerp.be/id/term/brocade-authorities/scope-ty/veiling;https://data.antwerp.be/id/term/brocade-authorities/scope-ty;Veiling;;
+https://data.antwerp.be/id/term/brocade-authorities/scope-ty/vods;https://data.antwerp.be/id/term/brocade-authorities/scope-ty;VODS;;
+https://data.antwerp.be/id/term/brocade-authorities/ta;https://data.antwerp.be/id/term/brocade-authorities;Taal;;http://vocab.getty.edu/aat/300386046
+https://data.antwerp.be/id/term/brocade-authorities/ty;https://data.antwerp.be/id/term/brocade-authorities;Authority type;;http://vocab.getty.edu/aat/300055863
+https://data.antwerp.be/id/term/brocade-authorities/ty/aat;https://data.antwerp.be/id/term/brocade-authorities/ty;Art & Architecture Thesaurus;;
+https://data.antwerp.be/id/term/brocade-authorities/ty/art;https://data.antwerp.be/id/term/brocade-authorities/ty;Kunstwerk (KMSKA);;http://vocab.getty.edu/aat/300133025
+https://data.antwerp.be/id/term/brocade-authorities/ty/aw;https://data.antwerp.be/id/term/brocade-authorities/ty;Selectiecriteria aanwinstenl./stat./sdi...;;
+https://data.antwerp.be/id/term/brocade-authorities/ty/bez;https://data.antwerp.be/id/term/brocade-authorities/ty;Bezetting;;
+https://data.antwerp.be/id/term/brocade-authorities/ty/bnc;https://data.antwerp.be/id/term/brocade-authorities/ty;Type krant;;
+https://data.antwerp.be/id/term/brocade-authorities/ty/cat;https://data.antwerp.be/id/term/brocade-authorities/ty;Categorie (Eubelius);;
+https://data.antwerp.be/id/term/brocade-authorities/ty/dacol;https://data.antwerp.be/id/term/brocade-authorities/ty;Collectie-onderdelen - DocAtlas;;
+https://data.antwerp.be/id/term/brocade-authorities/ty/dapt;https://data.antwerp.be/id/term/brocade-authorities/ty;Publicatietypes - DocAtlas;;
+https://data.antwerp.be/id/term/brocade-authorities/ty/darub;https://data.antwerp.be/id/term/brocade-authorities/ty;Rubrieksindeling;;
+https://data.antwerp.be/id/term/brocade-authorities/ty/datw;https://data.antwerp.be/id/term/brocade-authorities/ty;Trefwoorden - DocAtlas;;
+https://data.antwerp.be/id/term/brocade-authorities/ty/dg;https://data.antwerp.be/id/term/brocade-authorities/ty;Doelgroepen docAtlas;;
+https://data.antwerp.be/id/term/brocade-authorities/ty/e;https://data.antwerp.be/id/term/brocade-authorities/ty;Manifestatie;;
+https://data.antwerp.be/id/term/brocade-authorities/ty/g;https://data.antwerp.be/id/term/brocade-authorities/ty;Geografische termen;;http://vocab.getty.edu/aat/300248479
+https://data.antwerp.be/id/term/brocade-authorities/ty/h;https://data.antwerp.be/id/term/brocade-authorities/ty;Historische perioden;;
+https://data.antwerp.be/id/term/brocade-authorities/ty/i;https://data.antwerp.be/id/term/brocade-authorities/ty;Instellingen/Organisaties;;
+https://data.antwerp.be/id/term/brocade-authorities/ty/irc;https://data.antwerp.be/id/term/brocade-authorities/ty;Collecties;;
+https://data.antwerp.be/id/term/brocade-authorities/ty/iu;https://data.antwerp.be/id/term/brocade-authorities/ty;Uitgevers (oude drukken);;
+https://data.antwerp.be/id/term/brocade-authorities/ty/mid;https://data.antwerp.be/id/term/brocade-authorities/ty;Kunstwerk (Middelheimmuseum);;
+https://data.antwerp.be/id/term/brocade-authorities/ty/p;https://data.antwerp.be/id/term/brocade-authorities/ty;Persoonsnaam;;
+https://data.antwerp.be/id/term/brocade-authorities/ty/pt;https://data.antwerp.be/id/term/brocade-authorities/ty;Publicatietype;;http://vocab.getty.edu/aat/300055863
+https://data.antwerp.be/id/term/brocade-authorities/ty/rub;https://data.antwerp.be/id/term/brocade-authorities/ty;Kunstwerk (Rubenianum);;
+https://data.antwerp.be/id/term/brocade-authorities/ty/sat;https://data.antwerp.be/id/term/brocade-authorities/ty;Trefwoorden Stadsarchief Turnhout;;
+https://data.antwerp.be/id/term/brocade-authorities/ty/sow;https://data.antwerp.be/id/term/brocade-authorities/ty;Onderwerpen;;
+https://data.antwerp.be/id/term/brocade-authorities/ty/spa;https://data.antwerp.be/id/term/brocade-authorities/ty;Paratekst;;
+https://data.antwerp.be/id/term/brocade-authorities/ty/spt;https://data.antwerp.be/id/term/brocade-authorities/ty;Publicatietype (STCV);;
+https://data.antwerp.be/id/term/brocade-authorities/ty/sty;https://data.antwerp.be/id/term/brocade-authorities/ty;Typografie;;
+https://data.antwerp.be/id/term/brocade-authorities/ty/t;https://data.antwerp.be/id/term/brocade-authorities/ty;Titels;;
+https://data.antwerp.be/id/term/brocade-authorities/ty/ts;https://data.antwerp.be/id/term/brocade-authorities/ty;Toonsoort;;
+https://data.antwerp.be/id/term/brocade-authorities/ty/tw;https://data.antwerp.be/id/term/brocade-authorities/ty;Trefwoorden;;
+https://data.antwerp.be/id/term/brocade-authorities/ty/u;https://data.antwerp.be/id/term/brocade-authorities/ty;Onderwerpen (UDC);;
+https://data.antwerp.be/id/term/brocade-authorities/ty/uct;https://data.antwerp.be/id/term/brocade-authorities/ty;UCT;;
+https://data.antwerp.be/id/term/brocade-authorities/ty/vlb;https://data.antwerp.be/id/term/brocade-authorities/ty;Genres Vlaamse Liederenbank;;
+https://data.antwerp.be/id/term/brocade-authorities/ty/vods;https://data.antwerp.be/id/term/brocade-authorities/ty;Vlaamse Onderzoeksdiscipline Standaard;https://www.ecoom.be/nodes/semantischecommunity/nl;
+https://data.antwerp.be/id/term/brocade-authorities/ty/vt;https://data.antwerp.be/id/term/brocade-authorities/ty;Vrouwenthesaurus;;
+https://data.antwerp.be/id/term/brocade-authorities/ty/z;https://data.antwerp.be/id/term/brocade-authorities/ty;ZIZO;;
+https://data.antwerp.be/id/term/brocade-catalog;https://data.antwerp.be/id/term/brocade;Catalografie (brocade);;
+https://data.antwerp.be/id/term/brocade-catalog/co-am;https://data.antwerp.be/id/term/brocade-catalog;Begeleidend materiaal;;
+https://data.antwerp.be/id/term/brocade-catalog/co-fm;https://data.antwerp.be/id/term/brocade-catalog;Formaat;;http://vocab.getty.edu/aat/300265437
+https://data.antwerp.be/id/term/brocade-catalog/co-fm/-;https://data.antwerp.be/id/term/brocade-catalog/co-fm;Niet gedefinieerd;;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-catalog/co-fm/duodecimo;https://data.antwerp.be/id/term/brocade-catalog/co-fm;Duodecimo;;
+https://data.antwerp.be/id/term/brocade-catalog/co-fm/folio;https://data.antwerp.be/id/term/brocade-catalog/co-fm;Folio;;
+https://data.antwerp.be/id/term/brocade-catalog/co-fm/kwarto;https://data.antwerp.be/id/term/brocade-catalog/co-fm;Kwarto;;
+https://data.antwerp.be/id/term/brocade-catalog/co-fm/octavo;https://data.antwerp.be/id/term/brocade-catalog/co-fm;Octavo;;http://vocab.getty.edu/aat/300265440
+https://data.antwerp.be/id/term/brocade-catalog/co-fm/octodecimo;https://data.antwerp.be/id/term/brocade-catalog/co-fm;Octodecimo;;http://vocab.getty.edu/aat/300265446
+https://data.antwerp.be/id/term/brocade-catalog/co-fm/plano;https://data.antwerp.be/id/term/brocade-catalog/co-fm;Plano;;
+https://data.antwerp.be/id/term/brocade-catalog/co-fm/quarto;https://data.antwerp.be/id/term/brocade-catalog/co-fm;Quarto;;
+https://data.antwerp.be/id/term/brocade-catalog/co-fm/sexagesimoquarto;https://data.antwerp.be/id/term/brocade-catalog/co-fm;Sexagesimoquarto;;
+https://data.antwerp.be/id/term/brocade-catalog/co-fm/sextodecimo;https://data.antwerp.be/id/term/brocade-catalog/co-fm;Sextodecimo;;
+https://data.antwerp.be/id/term/brocade-catalog/co-fm/tricesimosecundo;https://data.antwerp.be/id/term/brocade-catalog/co-fm;Tricesimosecundo;;
+https://data.antwerp.be/id/term/brocade-catalog/co-fm/vicesimoquarto;https://data.antwerp.be/id/term/brocade-catalog/co-fm;Vicesimoquarto;;
+https://data.antwerp.be/id/term/brocade-catalog/co-il;https://data.antwerp.be/id/term/brocade-catalog;Illustratie;;
+https://data.antwerp.be/id/term/brocade-catalog/co-ka;https://data.antwerp.be/id/term/brocade-catalog;Katernopbouw;;http://vocab.getty.edu/aat/300194226
+https://data.antwerp.be/id/term/brocade-catalog/co-pg;https://data.antwerp.be/id/term/brocade-catalog;Paginering;;http://vocab.getty.edu/aat/300435440
+https://data.antwerp.be/id/term/brocade-catalog/co-sz;https://data.antwerp.be/id/term/brocade-catalog;Omvang;;
+https://data.antwerp.be/id/term/brocade-catalog/co-ty;https://data.antwerp.be/id/term/brocade-catalog;Collatie type;;http://vocab.getty.edu/aat/300055863
+https://data.antwerp.be/id/term/brocade-catalog/co-ty/normal;https://data.antwerp.be/id/term/brocade-catalog/co-ty;Normaal;;
+https://data.antwerp.be/id/term/brocade-catalog/co-ty/oblong;https://data.antwerp.be/id/term/brocade-catalog/co-ty;Oblong;;
+https://data.antwerp.be/id/term/brocade-catalog/dr;https://data.antwerp.be/id/term/brocade-catalog;Medium;;http://vocab.getty.edu/aat/300311871
+https://data.antwerp.be/id/term/brocade-catalog/dr/bd;https://data.antwerp.be/id/term/brocade-catalog/dr;Blu-ray disc;;http://vocab.getty.edu/aat/300443549
+https://data.antwerp.be/id/term/brocade-catalog/dr/cas;https://data.antwerp.be/id/term/brocade-catalog/dr;Audiocassette;;http://vocab.getty.edu/aat/300028661
+https://data.antwerp.be/id/term/brocade-catalog/dr/cd;https://data.antwerp.be/id/term/brocade-catalog/dr;Compact disc;;http://vocab.getty.edu/aat/300028673
+https://data.antwerp.be/id/term/brocade-catalog/dr/cdrom;https://data.antwerp.be/id/term/brocade-catalog/dr;Cd-rom;;http://vocab.getty.edu/aat/300196583
+https://data.antwerp.be/id/term/brocade-catalog/dr/dia;https://data.antwerp.be/id/term/brocade-catalog/dr;Dia;;http://vocab.getty.edu/aat/300128371
+https://data.antwerp.be/id/term/brocade-catalog/dr/disk;https://data.antwerp.be/id/term/brocade-catalog/dr;Diskette, USB-stick;;http://vocab.getty.edu/aat/300404359
+https://data.antwerp.be/id/term/brocade-catalog/dr/dvd;https://data.antwerp.be/id/term/brocade-catalog/dr;Dvd;;http://vocab.getty.edu/aat/300264677
+https://data.antwerp.be/id/term/brocade-catalog/dr/dvd-audio;https://data.antwerp.be/id/term/brocade-catalog/dr;Dvd-audio;;http://vocab.getty.edu/aat/300264677
+https://data.antwerp.be/id/term/brocade-catalog/dr/dvd-rom;https://data.antwerp.be/id/term/brocade-catalog/dr;Dvd-rom;;http://vocab.getty.edu/aat/300435463
+https://data.antwerp.be/id/term/brocade-catalog/dr/dvd-video;https://data.antwerp.be/id/term/brocade-catalog/dr;Dvd-video;;http://vocab.getty.edu/aat/300264677
+https://data.antwerp.be/id/term/brocade-catalog/dr/gp;https://data.antwerp.be/id/term/brocade-catalog/dr;Grammofoonplaat;;http://vocab.getty.edu/aat/300028643
+https://data.antwerp.be/id/term/brocade-catalog/dr/mb;https://data.antwerp.be/id/term/brocade-catalog/dr;Magneetband;;http://vocab.getty.edu/aat/300028558
+https://data.antwerp.be/id/term/brocade-catalog/dr/micro;https://data.antwerp.be/id/term/brocade-catalog/dr;Microvorm;;http://vocab.getty.edu/aat/300028591
+https://data.antwerp.be/id/term/brocade-catalog/dr/mm;https://data.antwerp.be/id/term/brocade-catalog/dr;Multimedia;;http://vocab.getty.edu/aat/300047910
+https://data.antwerp.be/id/term/brocade-catalog/dr/paper;https://data.antwerp.be/id/term/brocade-catalog/dr;Papier;;http://vocab.getty.edu/aat/300014109
+https://data.antwerp.be/id/term/brocade-catalog/dr/perkament;https://data.antwerp.be/id/term/brocade-catalog/dr;Perkament;;http://vocab.getty.edu/aat/300011851
+https://data.antwerp.be/id/term/brocade-catalog/dr/realia;https://data.antwerp.be/id/term/brocade-catalog/dr;Realia;;http://vocab.getty.edu/aat/300265419
+https://data.antwerp.be/id/term/brocade-catalog/dr/url;https://data.antwerp.be/id/term/brocade-catalog/dr;Internet/Intranet;;http://vocab.getty.edu/aat/300265429
+https://data.antwerp.be/id/term/brocade-catalog/dr/video;https://data.antwerp.be/id/term/brocade-catalog/dr;Videocassette;;http://vocab.getty.edu/aat/300028692
+https://data.antwerp.be/id/term/brocade-catalog/ed;https://data.antwerp.be/id/term/brocade-catalog;Editie;;http://vocab.getty.edu/aat/300435435
+https://data.antwerp.be/id/term/brocade-catalog/fu;https://data.antwerp.be/id/term/brocade-catalog;Functie;;http://vocab.getty.edu/aat/300263494
+https://data.antwerp.be/id/term/brocade-catalog/fu/act;https://data.antwerp.be/id/term/brocade-catalog/fu;Acteur;;http://vocab.getty.edu/aat/300025658
+https://data.antwerp.be/id/term/brocade-catalog/fu/adp;https://data.antwerp.be/id/term/brocade-catalog/fu;Bewerker;;http://vocab.getty.edu/aat/300410355
+https://data.antwerp.be/id/term/brocade-catalog/fu/aft;https://data.antwerp.be/id/term/brocade-catalog/fu;Auteur van nawoord, colofon, enz.;;http://vocab.getty.edu/aat/300028710
+https://data.antwerp.be/id/term/brocade-catalog/fu/art;https://data.antwerp.be/id/term/brocade-catalog/fu;Kunstenaar;;
+https://data.antwerp.be/id/term/brocade-catalog/fu/auc;https://data.antwerp.be/id/term/brocade-catalog/fu;Veilingmeester;;http://vocab.getty.edu/aat/300025208
+https://data.antwerp.be/id/term/brocade-catalog/fu/aui;https://data.antwerp.be/id/term/brocade-catalog/fu;Auteur van inleiding, voorwoord, enz.;;http://vocab.getty.edu/aat/300055032
+https://data.antwerp.be/id/term/brocade-catalog/fu/aui-;https://data.antwerp.be/id/term/brocade-catalog/fu;Auteur van inleiding, voorwoord, enz.;;http://vocab.getty.edu/aat/300055032
+https://data.antwerp.be/id/term/brocade-catalog/fu/aut;https://data.antwerp.be/id/term/brocade-catalog/fu;Primaire auteur;;http://vocab.getty.edu/aat/300025492
+https://data.antwerp.be/id/term/brocade-catalog/fu/bkd;https://data.antwerp.be/id/term/brocade-catalog/fu;Boekontwerper;;
+https://data.antwerp.be/id/term/brocade-catalog/fu/bsl;https://data.antwerp.be/id/term/brocade-catalog/fu;Boekverkoper;;http://vocab.getty.edu/aat/300025244
+https://data.antwerp.be/id/term/brocade-catalog/fu/bslb;https://data.antwerp.be/id/term/brocade-catalog/fu;Te koop bij;;http://vocab.getty.edu/aat/300025244
+https://data.antwerp.be/id/term/brocade-catalog/fu/chr;https://data.antwerp.be/id/term/brocade-catalog/fu;Choreograaf;;http://vocab.getty.edu/aat/300025649
+https://data.antwerp.be/id/term/brocade-catalog/fu/clb;https://data.antwerp.be/id/term/brocade-catalog/fu;Medewerker;;
+https://data.antwerp.be/id/term/brocade-catalog/fu/cmp;https://data.antwerp.be/id/term/brocade-catalog/fu;Componist;;http://vocab.getty.edu/aat/300025671
+https://data.antwerp.be/id/term/brocade-catalog/fu/cnd;https://data.antwerp.be/id/term/brocade-catalog/fu;Dirigent;;http://vocab.getty.edu/aat/300025672
+https://data.antwerp.be/id/term/brocade-catalog/fu/com;https://data.antwerp.be/id/term/brocade-catalog/fu;Compilator;;http://vocab.getty.edu/aat/300404848
+https://data.antwerp.be/id/term/brocade-catalog/fu/ctb;https://data.antwerp.be/id/term/brocade-catalog/fu;Medewerker;;
+https://data.antwerp.be/id/term/brocade-catalog/fu/cur;https://data.antwerp.be/id/term/brocade-catalog/fu;Curator van een tentoonstelling;;http://vocab.getty.edu/aat/300417893
+https://data.antwerp.be/id/term/brocade-catalog/fu/drt;https://data.antwerp.be/id/term/brocade-catalog/fu;Regisseur;;
+https://data.antwerp.be/id/term/brocade-catalog/fu/dub;https://data.antwerp.be/id/term/brocade-catalog/fu;Twijfelachtige auteur;;
+https://data.antwerp.be/id/term/brocade-catalog/fu/edt;https://data.antwerp.be/id/term/brocade-catalog/fu;Editor;;http://vocab.getty.edu/aat/300025526
+https://data.antwerp.be/id/term/brocade-catalog/fu/egr;https://data.antwerp.be/id/term/brocade-catalog/fu;Graveur;;http://vocab.getty.edu/aat/300025165
+https://data.antwerp.be/id/term/brocade-catalog/fu/exp;https://data.antwerp.be/id/term/brocade-catalog/fu;Expert;;http://vocab.getty.edu/aat/300155533
+https://data.antwerp.be/id/term/brocade-catalog/fu/hnr;https://data.antwerp.be/id/term/brocade-catalog/fu;Gehuldigde;;
+https://data.antwerp.be/id/term/brocade-catalog/fu/ill;https://data.antwerp.be/id/term/brocade-catalog/fu;Illustrator;;http://vocab.getty.edu/aat/300025123
+https://data.antwerp.be/id/term/brocade-catalog/fu/ivr;https://data.antwerp.be/id/term/brocade-catalog/fu;Interviewer;;http://vocab.getty.edu/aat/300440748
+https://data.antwerp.be/id/term/brocade-catalog/fu/lbt;https://data.antwerp.be/id/term/brocade-catalog/fu;Librettist;;http://vocab.getty.edu/aat/300025674
+https://data.antwerp.be/id/term/brocade-catalog/fu/mus;https://data.antwerp.be/id/term/brocade-catalog/fu;Musicus;;http://vocab.getty.edu/aat/300025666
+https://data.antwerp.be/id/term/brocade-catalog/fu/nrt;https://data.antwerp.be/id/term/brocade-catalog/fu;Verteller;;
+https://data.antwerp.be/id/term/brocade-catalog/fu/oth;https://data.antwerp.be/id/term/brocade-catalog/fu;Andere;;
+https://data.antwerp.be/id/term/brocade-catalog/fu/pbl;https://data.antwerp.be/id/term/brocade-catalog/fu;Uitgever;;http://vocab.getty.edu/aat/300025574
+https://data.antwerp.be/id/term/brocade-catalog/fu/pht;https://data.antwerp.be/id/term/brocade-catalog/fu;Fotograaf;;http://vocab.getty.edu/aat/300025687
+https://data.antwerp.be/id/term/brocade-catalog/fu/pro;https://data.antwerp.be/id/term/brocade-catalog/fu;Producent;;
+https://data.antwerp.be/id/term/brocade-catalog/fu/prt;https://data.antwerp.be/id/term/brocade-catalog/fu;Boekdrukker;;http://vocab.getty.edu/aat/300025732
+https://data.antwerp.be/id/term/brocade-catalog/fu/prtb;https://data.antwerp.be/id/term/brocade-catalog/fu;Gedrukt bij;;http://vocab.getty.edu/aat/300025732
+https://data.antwerp.be/id/term/brocade-catalog/fu/prtf;https://data.antwerp.be/id/term/brocade-catalog/fu;Gedrukt voor;;
+https://data.antwerp.be/id/term/brocade-catalog/fu/sce;https://data.antwerp.be/id/term/brocade-catalog/fu;Scenarioschrijver;;http://vocab.getty.edu/aat/300025515
+https://data.antwerp.be/id/term/brocade-catalog/fu/scr;https://data.antwerp.be/id/term/brocade-catalog/fu;Scribent;;http://vocab.getty.edu/aat/300025580
+https://data.antwerp.be/id/term/brocade-catalog/fu/sng;https://data.antwerp.be/id/term/brocade-catalog/fu;Zanger;;http://vocab.getty.edu/aat/300025684
+https://data.antwerp.be/id/term/brocade-catalog/fu/ths;https://data.antwerp.be/id/term/brocade-catalog/fu;Promotor;;
+https://data.antwerp.be/id/term/brocade-catalog/fu/trl;https://data.antwerp.be/id/term/brocade-catalog/fu;Vertaler;;http://vocab.getty.edu/aat/300025601
+https://data.antwerp.be/id/term/brocade-catalog/fu/und;https://data.antwerp.be/id/term/brocade-catalog/fu;Niet gedefinieerd;;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-catalog/fu/zba;https://data.antwerp.be/id/term/brocade-catalog/fu;Bas;;
+https://data.antwerp.be/id/term/brocade-catalog/fu/zdf;https://data.antwerp.be/id/term/brocade-catalog/fu;Dwarsfluit;;
+https://data.antwerp.be/id/term/brocade-catalog/fu/zfl;https://data.antwerp.be/id/term/brocade-catalog/fu;Fluit;;
+https://data.antwerp.be/id/term/brocade-catalog/fu/zgi;https://data.antwerp.be/id/term/brocade-catalog/fu;Gitaar;;
+https://data.antwerp.be/id/term/brocade-catalog/fu/zhp;https://data.antwerp.be/id/term/brocade-catalog/fu;Harp;;
+https://data.antwerp.be/id/term/brocade-catalog/fu/zkl;https://data.antwerp.be/id/term/brocade-catalog/fu;Klarinet;;
+https://data.antwerp.be/id/term/brocade-catalog/fu/zkr;https://data.antwerp.be/id/term/brocade-catalog/fu;Koor;;
+https://data.antwerp.be/id/term/brocade-catalog/fu/zkv;https://data.antwerp.be/id/term/brocade-catalog/fu;Klavecimbel;;
+https://data.antwerp.be/id/term/brocade-catalog/fu/zor;https://data.antwerp.be/id/term/brocade-catalog/fu;Orgel;;
+https://data.antwerp.be/id/term/brocade-catalog/fu/zpe;https://data.antwerp.be/id/term/brocade-catalog/fu;Percussie;;
+https://data.antwerp.be/id/term/brocade-catalog/fu/zpi;https://data.antwerp.be/id/term/brocade-catalog/fu;Piano;;
+https://data.antwerp.be/id/term/brocade-catalog/fu/zrc;https://data.antwerp.be/id/term/brocade-catalog/fu;Recitant;;
+https://data.antwerp.be/id/term/brocade-catalog/fu/zso;https://data.antwerp.be/id/term/brocade-catalog/fu;Sopraan;;
+https://data.antwerp.be/id/term/brocade-catalog/fu/zte;https://data.antwerp.be/id/term/brocade-catalog/fu;Tenor;;
+https://data.antwerp.be/id/term/brocade-catalog/fu/zts;https://data.antwerp.be/id/term/brocade-catalog/fu;Tenor-sax;;
+https://data.antwerp.be/id/term/brocade-catalog/fu/zxx;https://data.antwerp.be/id/term/brocade-catalog/fu;"Niet gedefinieerd; conversies";;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-catalog/fu/zyy;https://data.antwerp.be/id/term/brocade-catalog/fu;Niet gedefinieerd;;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-catalog/holding-pkbz;https://data.antwerp.be/id/term/brocade-catalog;Bezitsinfomatie;;
+https://data.antwerp.be/id/term/brocade-catalog/im-ty;https://data.antwerp.be/id/term/brocade-catalog;Impressum type;;http://vocab.getty.edu/aat/300055863
+https://data.antwerp.be/id/term/brocade-catalog/im-ty/ki;https://data.antwerp.be/id/term/brocade-catalog/im-ty;Niet gekend (ki);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-catalog/im-ty/normal;https://data.antwerp.be/id/term/brocade-catalog/im-ty;Normaal;;
+https://data.antwerp.be/id/term/brocade-catalog/im-ty/vabb;https://data.antwerp.be/id/term/brocade-catalog/im-ty;Niet gekend (vabb);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-catalog/in-ty;https://data.antwerp.be/id/term/brocade-catalog;Informatie type;;http://vocab.getty.edu/aat/300055863
+https://data.antwerp.be/id/term/brocade-catalog/in-ty/abstract;https://data.antwerp.be/id/term/brocade-catalog/in-ty;Korte inhoud;;
+https://data.antwerp.be/id/term/brocade-catalog/in-ty/full;https://data.antwerp.be/id/term/brocade-catalog/in-ty;E-info;;
+https://data.antwerp.be/id/term/brocade-catalog/in-ty/ill;https://data.antwerp.be/id/term/brocade-catalog/in-ty;Illustratie;;
+https://data.antwerp.be/id/term/brocade-catalog/in-ty/inhoud;https://data.antwerp.be/id/term/brocade-catalog/in-ty;Inhoudstafel;;
+https://data.antwerp.be/id/term/brocade-catalog/in-ty/link;https://data.antwerp.be/id/term/brocade-catalog/in-ty;Link;;
+https://data.antwerp.be/id/term/brocade-catalog/lg;https://data.antwerp.be/id/term/brocade-catalog;Taal (lg);;http://vocab.getty.edu/aat/300386046
+https://data.antwerp.be/id/term/brocade-catalog/lg/ady;https://data.antwerp.be/id/term/brocade-catalog/lg;Adyghe;;http://vocab.getty.edu/aat/300387776
+https://data.antwerp.be/id/term/brocade-catalog/lg/afa;https://data.antwerp.be/id/term/brocade-catalog/lg;Afro-Asiatic languages;;http://vocab.getty.edu/aat/300387783
+https://data.antwerp.be/id/term/brocade-catalog/lg/afr;https://data.antwerp.be/id/term/brocade-catalog/lg;Afrikaans;;http://vocab.getty.edu/aat/300387782
+https://data.antwerp.be/id/term/brocade-catalog/lg/aka;https://data.antwerp.be/id/term/brocade-catalog/lg;Akan;;http://vocab.getty.edu/aat/300387794
+https://data.antwerp.be/id/term/brocade-catalog/lg/akk;https://data.antwerp.be/id/term/brocade-catalog/lg;Akkadian;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/alb;https://data.antwerp.be/id/term/brocade-catalog/lg;Albanian;;http://vocab.getty.edu/aat/300387803
+https://data.antwerp.be/id/term/brocade-catalog/lg/amh;https://data.antwerp.be/id/term/brocade-catalog/lg;Amharic;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/ang;https://data.antwerp.be/id/term/brocade-catalog/lg;English, Old (ca.450-1100);;
+https://data.antwerp.be/id/term/brocade-catalog/lg/ara;https://data.antwerp.be/id/term/brocade-catalog/lg;Arabic;;http://vocab.getty.edu/aat/300387843
+https://data.antwerp.be/id/term/brocade-catalog/lg/arc;https://data.antwerp.be/id/term/brocade-catalog/lg;"Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE)";;
+https://data.antwerp.be/id/term/brocade-catalog/lg/arm;https://data.antwerp.be/id/term/brocade-catalog/lg;Armenian;;http://vocab.getty.edu/aat/300387870
+https://data.antwerp.be/id/term/brocade-catalog/lg/art;https://data.antwerp.be/id/term/brocade-catalog/lg;Artificial languages;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/asm;https://data.antwerp.be/id/term/brocade-catalog/lg;Assamese;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/ave;https://data.antwerp.be/id/term/brocade-catalog/lg;Avestan;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/aze;https://data.antwerp.be/id/term/brocade-catalog/lg;Azerbaijani;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/ban;https://data.antwerp.be/id/term/brocade-catalog/lg;Balinese;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/baq;https://data.antwerp.be/id/term/brocade-catalog/lg;Basque;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/bat;https://data.antwerp.be/id/term/brocade-catalog/lg;Baltic languages;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/bem;https://data.antwerp.be/id/term/brocade-catalog/lg;Bemba;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/ben;https://data.antwerp.be/id/term/brocade-catalog/lg;Bengali;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/ber;https://data.antwerp.be/id/term/brocade-catalog/lg;Berber languages;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/bnt;https://data.antwerp.be/id/term/brocade-catalog/lg;Bantu languages;;http://vocab.getty.edu/aat/300387944
+https://data.antwerp.be/id/term/brocade-catalog/lg/bos;https://data.antwerp.be/id/term/brocade-catalog/lg;Bosnian;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/bre;https://data.antwerp.be/id/term/brocade-catalog/lg;Breton;;http://vocab.getty.edu/aat/300388025
+https://data.antwerp.be/id/term/brocade-catalog/lg/btk;https://data.antwerp.be/id/term/brocade-catalog/lg;Batak languages;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/bul;https://data.antwerp.be/id/term/brocade-catalog/lg;Bulgarian;;http://vocab.getty.edu/aat/300388034
+https://data.antwerp.be/id/term/brocade-catalog/lg/cat;https://data.antwerp.be/id/term/brocade-catalog/lg;"Catalan; Valencian";;http://vocab.getty.edu/aat/300388072
+https://data.antwerp.be/id/term/brocade-catalog/lg/cel;https://data.antwerp.be/id/term/brocade-catalog/lg;Celtic languages;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/chg;https://data.antwerp.be/id/term/brocade-catalog/lg;Chagatai;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/chi;https://data.antwerp.be/id/term/brocade-catalog/lg;Chinese;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/chr;https://data.antwerp.be/id/term/brocade-catalog/lg;Cherokee;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/chu;https://data.antwerp.be/id/term/brocade-catalog/lg;"Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic";;
+https://data.antwerp.be/id/term/brocade-catalog/lg/chv;https://data.antwerp.be/id/term/brocade-catalog/lg;Chuvash;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/cnr;https://data.antwerp.be/id/term/brocade-catalog/lg;Montenegrin;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/cop;https://data.antwerp.be/id/term/brocade-catalog/lg;Coptic;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/cos;https://data.antwerp.be/id/term/brocade-catalog/lg;Corsican;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/cpf;https://data.antwerp.be/id/term/brocade-catalog/lg;Creoles and pidgins, French-based;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/cze;https://data.antwerp.be/id/term/brocade-catalog/lg;Czech;;http://vocab.getty.edu/aat/300388191
+https://data.antwerp.be/id/term/brocade-catalog/lg/dan;https://data.antwerp.be/id/term/brocade-catalog/lg;Danish;;http://vocab.getty.edu/aat/300388204
+https://data.antwerp.be/id/term/brocade-catalog/lg/dra;https://data.antwerp.be/id/term/brocade-catalog/lg;Dravidian languages;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/dsb;https://data.antwerp.be/id/term/brocade-catalog/lg;Lower Sorbian;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/dum;https://data.antwerp.be/id/term/brocade-catalog/lg;Dutch, Middle (ca.1050-1350);;
+https://data.antwerp.be/id/term/brocade-catalog/lg/dut;https://data.antwerp.be/id/term/brocade-catalog/lg;"Dutch; Flemish";;http://vocab.getty.edu/aat/300388256
+https://data.antwerp.be/id/term/brocade-catalog/lg/dzo;https://data.antwerp.be/id/term/brocade-catalog/lg;Dzongkha;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/egy;https://data.antwerp.be/id/term/brocade-catalog/lg;Egyptian (Ancient);;
+https://data.antwerp.be/id/term/brocade-catalog/lg/eng;https://data.antwerp.be/id/term/brocade-catalog/lg;English;;http://vocab.getty.edu/aat/300388277
+https://data.antwerp.be/id/term/brocade-catalog/lg/enm;https://data.antwerp.be/id/term/brocade-catalog/lg;English, Middle (1100-1500);;
+https://data.antwerp.be/id/term/brocade-catalog/lg/epo;https://data.antwerp.be/id/term/brocade-catalog/lg;Esperanto;;http://vocab.getty.edu/aat/300388282
+https://data.antwerp.be/id/term/brocade-catalog/lg/est;https://data.antwerp.be/id/term/brocade-catalog/lg;Estonian;;http://vocab.getty.edu/aat/300388283
+https://data.antwerp.be/id/term/brocade-catalog/lg/fao;https://data.antwerp.be/id/term/brocade-catalog/lg;Faroese;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/fin;https://data.antwerp.be/id/term/brocade-catalog/lg;Finnish;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/fre;https://data.antwerp.be/id/term/brocade-catalog/lg;French;;http://vocab.getty.edu/aat/300388306
+https://data.antwerp.be/id/term/brocade-catalog/lg/frm;https://data.antwerp.be/id/term/brocade-catalog/lg;French, Middle (ca.1400-1600);;
+https://data.antwerp.be/id/term/brocade-catalog/lg/fro;https://data.antwerp.be/id/term/brocade-catalog/lg;French, Old (842-ca.1400);;
+https://data.antwerp.be/id/term/brocade-catalog/lg/fry;https://data.antwerp.be/id/term/brocade-catalog/lg;Western Frisian;;http://vocab.getty.edu/aat/300443644
+https://data.antwerp.be/id/term/brocade-catalog/lg/fur;https://data.antwerp.be/id/term/brocade-catalog/lg;Friulian;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/gem;https://data.antwerp.be/id/term/brocade-catalog/lg;Germanic languages;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/geo;https://data.antwerp.be/id/term/brocade-catalog/lg;Georgian;;http://vocab.getty.edu/aat/300388343
+https://data.antwerp.be/id/term/brocade-catalog/lg/ger;https://data.antwerp.be/id/term/brocade-catalog/lg;German;;http://vocab.getty.edu/aat/300388344
+https://data.antwerp.be/id/term/brocade-catalog/lg/gez;https://data.antwerp.be/id/term/brocade-catalog/lg;Geez;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/gla;https://data.antwerp.be/id/term/brocade-catalog/lg;"Gaelic; Scottish Gaelic";;
+https://data.antwerp.be/id/term/brocade-catalog/lg/gle;https://data.antwerp.be/id/term/brocade-catalog/lg;Irish;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/glg;https://data.antwerp.be/id/term/brocade-catalog/lg;Galician;;http://vocab.getty.edu/aat/300388327
+https://data.antwerp.be/id/term/brocade-catalog/lg/glv;https://data.antwerp.be/id/term/brocade-catalog/lg;Manx;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/gmh;https://data.antwerp.be/id/term/brocade-catalog/lg;German, Middle High (ca.1050-1500);;http://vocab.getty.edu/aat/300411852
+https://data.antwerp.be/id/term/brocade-catalog/lg/goh;https://data.antwerp.be/id/term/brocade-catalog/lg;German, Old High (ca.750-1050);;
+https://data.antwerp.be/id/term/brocade-catalog/lg/got;https://data.antwerp.be/id/term/brocade-catalog/lg;Gothic;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/grc;https://data.antwerp.be/id/term/brocade-catalog/lg;Greek, Ancient (to 1453);;http://vocab.getty.edu/aat/300387827
+https://data.antwerp.be/id/term/brocade-catalog/lg/gre;https://data.antwerp.be/id/term/brocade-catalog/lg;Greek, Modern (1453-);;http://vocab.getty.edu/aat/300388361
+https://data.antwerp.be/id/term/brocade-catalog/lg/grn;https://data.antwerp.be/id/term/brocade-catalog/lg;Guarani;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/guj;https://data.antwerp.be/id/term/brocade-catalog/lg;Gujarati;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/heb;https://data.antwerp.be/id/term/brocade-catalog/lg;Hebrew;;http://vocab.getty.edu/aat/300388401
+https://data.antwerp.be/id/term/brocade-catalog/lg/hin;https://data.antwerp.be/id/term/brocade-catalog/lg;Hindi;;http://vocab.getty.edu/aat/300388412
+https://data.antwerp.be/id/term/brocade-catalog/lg/hrv;https://data.antwerp.be/id/term/brocade-catalog/lg;Croatian;;http://vocab.getty.edu/aat/300388185
+https://data.antwerp.be/id/term/brocade-catalog/lg/hun;https://data.antwerp.be/id/term/brocade-catalog/lg;Hungarian;;http://vocab.getty.edu/aat/300388770
+https://data.antwerp.be/id/term/brocade-catalog/lg/ice;https://data.antwerp.be/id/term/brocade-catalog/lg;Icelandic;;http://vocab.getty.edu/aat/300388449
+https://data.antwerp.be/id/term/brocade-catalog/lg/ido;https://data.antwerp.be/id/term/brocade-catalog/lg;Ido;;http://vocab.getty.edu/aat/300443815
+https://data.antwerp.be/id/term/brocade-catalog/lg/iku;https://data.antwerp.be/id/term/brocade-catalog/lg;Inuktitut;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/ile;https://data.antwerp.be/id/term/brocade-catalog/lg;"Interlingue; Occidental";;
+https://data.antwerp.be/id/term/brocade-catalog/lg/ina;https://data.antwerp.be/id/term/brocade-catalog/lg;Interlingua (International Auxiliary Language Association);;
+https://data.antwerp.be/id/term/brocade-catalog/lg/inc;https://data.antwerp.be/id/term/brocade-catalog/lg;Indic languages;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/ind;https://data.antwerp.be/id/term/brocade-catalog/lg;Indonesian;;http://vocab.getty.edu/aat/300388460
+https://data.antwerp.be/id/term/brocade-catalog/lg/ine;https://data.antwerp.be/id/term/brocade-catalog/lg;Indo-European languages;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/ita;https://data.antwerp.be/id/term/brocade-catalog/lg;Italian;;http://vocab.getty.edu/aat/300388474
+https://data.antwerp.be/id/term/brocade-catalog/lg/jav;https://data.antwerp.be/id/term/brocade-catalog/lg;Javanese;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/jpn;https://data.antwerp.be/id/term/brocade-catalog/lg;Japanese;;http://vocab.getty.edu/aat/300388486
+https://data.antwerp.be/id/term/brocade-catalog/lg/kal;https://data.antwerp.be/id/term/brocade-catalog/lg;"Kalaallisut; Greenlandic";;
+https://data.antwerp.be/id/term/brocade-catalog/lg/kan;https://data.antwerp.be/id/term/brocade-catalog/lg;Kannada;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/kas;https://data.antwerp.be/id/term/brocade-catalog/lg;Kashmiri;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/kaw;https://data.antwerp.be/id/term/brocade-catalog/lg;Kawi;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/kaz;https://data.antwerp.be/id/term/brocade-catalog/lg;Kazakh;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/khm;https://data.antwerp.be/id/term/brocade-catalog/lg;Central Khmer;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/kin;https://data.antwerp.be/id/term/brocade-catalog/lg;Kinyarwanda;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/kon;https://data.antwerp.be/id/term/brocade-catalog/lg;Kongo;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/kor;https://data.antwerp.be/id/term/brocade-catalog/lg;Korean;;http://vocab.getty.edu/aat/300388633
+https://data.antwerp.be/id/term/brocade-catalog/lg/krl;https://data.antwerp.be/id/term/brocade-catalog/lg;Karelian;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/kua;https://data.antwerp.be/id/term/brocade-catalog/lg;"Kuanyama; Kwanyama";;
+https://data.antwerp.be/id/term/brocade-catalog/lg/kur;https://data.antwerp.be/id/term/brocade-catalog/lg;Kurdish;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/lad;https://data.antwerp.be/id/term/brocade-catalog/lg;Ladino;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/lah;https://data.antwerp.be/id/term/brocade-catalog/lg;Lahnda;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/lat;https://data.antwerp.be/id/term/brocade-catalog/lg;Latin;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/lav;https://data.antwerp.be/id/term/brocade-catalog/lg;Latvian;;http://vocab.getty.edu/aat/300388696
+https://data.antwerp.be/id/term/brocade-catalog/lg/lin;https://data.antwerp.be/id/term/brocade-catalog/lg;Lingala;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/lit;https://data.antwerp.be/id/term/brocade-catalog/lg;Lithuanian;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/lol;https://data.antwerp.be/id/term/brocade-catalog/lg;Mongo;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/ltz;https://data.antwerp.be/id/term/brocade-catalog/lg;"Luxembourgish; Letzeburgesch";;
+https://data.antwerp.be/id/term/brocade-catalog/lg/lua;https://data.antwerp.be/id/term/brocade-catalog/lg;Luba-Lulua;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/mac;https://data.antwerp.be/id/term/brocade-catalog/lg;Macedonian;;http://vocab.getty.edu/aat/300388760
+https://data.antwerp.be/id/term/brocade-catalog/lg/mad;https://data.antwerp.be/id/term/brocade-catalog/lg;Madurese;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/mak;https://data.antwerp.be/id/term/brocade-catalog/lg;Makasar;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/mal;https://data.antwerp.be/id/term/brocade-catalog/lg;Malayalam;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/mao;https://data.antwerp.be/id/term/brocade-catalog/lg;Maori;;http://vocab.getty.edu/aat/300388818
+https://data.antwerp.be/id/term/brocade-catalog/lg/map;https://data.antwerp.be/id/term/brocade-catalog/lg;Austronesian languages;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/mar;https://data.antwerp.be/id/term/brocade-catalog/lg;Marathi;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/may;https://data.antwerp.be/id/term/brocade-catalog/lg;Malay;;http://vocab.getty.edu/aat/300443976
+https://data.antwerp.be/id/term/brocade-catalog/lg/mga;https://data.antwerp.be/id/term/brocade-catalog/lg;Irish, Middle (900-1200);;
+https://data.antwerp.be/id/term/brocade-catalog/lg/mlg;https://data.antwerp.be/id/term/brocade-catalog/lg;Malagasy;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/mlt;https://data.antwerp.be/id/term/brocade-catalog/lg;Maltese;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/moh;https://data.antwerp.be/id/term/brocade-catalog/lg;Mohawk;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/mon;https://data.antwerp.be/id/term/brocade-catalog/lg;Mongolian;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/mul;https://data.antwerp.be/id/term/brocade-catalog/lg;Multiple languages;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/mwr;https://data.antwerp.be/id/term/brocade-catalog/lg;Marwari;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/nah;https://data.antwerp.be/id/term/brocade-catalog/lg;Nahuatl languages;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/nai;https://data.antwerp.be/id/term/brocade-catalog/lg;North American Indian languages;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/nds;https://data.antwerp.be/id/term/brocade-catalog/lg;"Low German; Low Saxon; German, Low; Saxon, Low";;http://vocab.getty.edu/aat/300388737
+https://data.antwerp.be/id/term/brocade-catalog/lg/nep;https://data.antwerp.be/id/term/brocade-catalog/lg;Nepali;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/nia;https://data.antwerp.be/id/term/brocade-catalog/lg;Nias;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/non;https://data.antwerp.be/id/term/brocade-catalog/lg;Norse, Old;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/nor;https://data.antwerp.be/id/term/brocade-catalog/lg;Norwegian;;http://vocab.getty.edu/aat/300443706
+https://data.antwerp.be/id/term/brocade-catalog/lg/nya;https://data.antwerp.be/id/term/brocade-catalog/lg;"Chichewa; Chewa; Nyanja";;
+https://data.antwerp.be/id/term/brocade-catalog/lg/oci;https://data.antwerp.be/id/term/brocade-catalog/lg;Occitan (post 1500);;
+https://data.antwerp.be/id/term/brocade-catalog/lg/orm;https://data.antwerp.be/id/term/brocade-catalog/lg;Oromo;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/paa;https://data.antwerp.be/id/term/brocade-catalog/lg;Papuan languages;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/pal;https://data.antwerp.be/id/term/brocade-catalog/lg;Pahlavi;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/pan;https://data.antwerp.be/id/term/brocade-catalog/lg;"Panjabi; Punjabi";;
+https://data.antwerp.be/id/term/brocade-catalog/lg/pap;https://data.antwerp.be/id/term/brocade-catalog/lg;Papiamento;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/per;https://data.antwerp.be/id/term/brocade-catalog/lg;Persian;;http://vocab.getty.edu/aat/300389087
+https://data.antwerp.be/id/term/brocade-catalog/lg/pli;https://data.antwerp.be/id/term/brocade-catalog/lg;Pali;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/pol;https://data.antwerp.be/id/term/brocade-catalog/lg;Polish;;http://vocab.getty.edu/aat/300389109
+https://data.antwerp.be/id/term/brocade-catalog/lg/por;https://data.antwerp.be/id/term/brocade-catalog/lg;Portuguese;;http://vocab.getty.edu/aat/300389115
+https://data.antwerp.be/id/term/brocade-catalog/lg/pro;https://data.antwerp.be/id/term/brocade-catalog/lg;"Provençal, Old (to 1500);Occitan, Old (to 1500)";;
+https://data.antwerp.be/id/term/brocade-catalog/lg/pus;https://data.antwerp.be/id/term/brocade-catalog/lg;"Pushto; Pashto";;
+https://data.antwerp.be/id/term/brocade-catalog/lg/raj;https://data.antwerp.be/id/term/brocade-catalog/lg;Rajasthani;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/rar;https://data.antwerp.be/id/term/brocade-catalog/lg;"Rarotongan; Cook Islands Maori";;
+https://data.antwerp.be/id/term/brocade-catalog/lg/roa;https://data.antwerp.be/id/term/brocade-catalog/lg;Romance languages;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/roh;https://data.antwerp.be/id/term/brocade-catalog/lg;Romansh;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/rom;https://data.antwerp.be/id/term/brocade-catalog/lg;Romany;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/rum;https://data.antwerp.be/id/term/brocade-catalog/lg;"Romanian; Moldavian; Moldovan";;http://vocab.getty.edu/aat/300389157
+https://data.antwerp.be/id/term/brocade-catalog/lg/run;https://data.antwerp.be/id/term/brocade-catalog/lg;Rundi;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/rus;https://data.antwerp.be/id/term/brocade-catalog/lg;Russian;;http://vocab.getty.edu/aat/300389168
+https://data.antwerp.be/id/term/brocade-catalog/lg/sai;https://data.antwerp.be/id/term/brocade-catalog/lg;South American Indian languages;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/sam;https://data.antwerp.be/id/term/brocade-catalog/lg;Samaritan Aramaic;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/san;https://data.antwerp.be/id/term/brocade-catalog/lg;Sanskrit;;http://vocab.getty.edu/aat/300389205
+https://data.antwerp.be/id/term/brocade-catalog/lg/sco;https://data.antwerp.be/id/term/brocade-catalog/lg;Scots;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/sem;https://data.antwerp.be/id/term/brocade-catalog/lg;Semitic languages;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/sgn;https://data.antwerp.be/id/term/brocade-catalog/lg;Sign Languages;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/sin;https://data.antwerp.be/id/term/brocade-catalog/lg;"Sinhala; Sinhalese";;
+https://data.antwerp.be/id/term/brocade-catalog/lg/sla;https://data.antwerp.be/id/term/brocade-catalog/lg;Slavic languages;;http://vocab.getty.edu/aat/300443579
+https://data.antwerp.be/id/term/brocade-catalog/lg/slo;https://data.antwerp.be/id/term/brocade-catalog/lg;Slovak;;http://vocab.getty.edu/aat/300389290
+https://data.antwerp.be/id/term/brocade-catalog/lg/slv;https://data.antwerp.be/id/term/brocade-catalog/lg;Slovenian;;http://vocab.getty.edu/aat/300389291
+https://data.antwerp.be/id/term/brocade-catalog/lg/smi;https://data.antwerp.be/id/term/brocade-catalog/lg;Sami languages;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/sot;https://data.antwerp.be/id/term/brocade-catalog/lg;Sotho, Southern;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/spa;https://data.antwerp.be/id/term/brocade-catalog/lg;"Spanish; Castilian";;
+https://data.antwerp.be/id/term/brocade-catalog/lg/srn;https://data.antwerp.be/id/term/brocade-catalog/lg;Sranan Tongo;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/srp;https://data.antwerp.be/id/term/brocade-catalog/lg;Serbian;;http://vocab.getty.edu/aat/300389247
+https://data.antwerp.be/id/term/brocade-catalog/lg/sun;https://data.antwerp.be/id/term/brocade-catalog/lg;Sundanese;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/sux;https://data.antwerp.be/id/term/brocade-catalog/lg;Sumerian;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/swa;https://data.antwerp.be/id/term/brocade-catalog/lg;Swahili;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/swe;https://data.antwerp.be/id/term/brocade-catalog/lg;Swedish;;http://vocab.getty.edu/aat/300389336
+https://data.antwerp.be/id/term/brocade-catalog/lg/syc;https://data.antwerp.be/id/term/brocade-catalog/lg;Classical Syriac;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/syr;https://data.antwerp.be/id/term/brocade-catalog/lg;Syriac;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/tah;https://data.antwerp.be/id/term/brocade-catalog/lg;Tahitian;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/tam;https://data.antwerp.be/id/term/brocade-catalog/lg;Tamil;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/tel;https://data.antwerp.be/id/term/brocade-catalog/lg;Telugu;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/tgl;https://data.antwerp.be/id/term/brocade-catalog/lg;Tagalog;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/tha;https://data.antwerp.be/id/term/brocade-catalog/lg;Thai;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/tib;https://data.antwerp.be/id/term/brocade-catalog/lg;Tibetan;;http://vocab.getty.edu/aat/300389410
+https://data.antwerp.be/id/term/brocade-catalog/lg/tmh;https://data.antwerp.be/id/term/brocade-catalog/lg;Tamashek;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/tuk;https://data.antwerp.be/id/term/brocade-catalog/lg;Turkmen;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/tup;https://data.antwerp.be/id/term/brocade-catalog/lg;Tupi languages;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/tur;https://data.antwerp.be/id/term/brocade-catalog/lg;Turkish;;http://vocab.getty.edu/aat/300389470
+https://data.antwerp.be/id/term/brocade-catalog/lg/ukr;https://data.antwerp.be/id/term/brocade-catalog/lg;Ukrainian;;http://vocab.getty.edu/aat/300389489
+https://data.antwerp.be/id/term/brocade-catalog/lg/und;https://data.antwerp.be/id/term/brocade-catalog/lg;Niet gedefinieerd;;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-catalog/lg/urd;https://data.antwerp.be/id/term/brocade-catalog/lg;Urdu;;
+https://data.antwerp.be/id/term/brocade-catalog/lg/vie;https://data.antwerp.be/id/term/brocade-catalog/lg;Vietnamese;;http://vocab.getty.edu/aat/300389525
+https://data.antwerp.be/id/term/brocade-catalog/lg/vol;https://data.antwerp.be/id/term/brocade-catalog/lg;Volapük;;http://vocab.getty.edu/aat/300443757
+https://data.antwerp.be/id/term/brocade-catalog/lg/wel;https://data.antwerp.be/id/term/brocade-catalog/lg;Welsh;;http://vocab.getty.edu/aat/300389555
+https://data.antwerp.be/id/term/brocade-catalog/lg/wen;https://data.antwerp.be/id/term/brocade-catalog/lg;Sorbian languages;;http://vocab.getty.edu/aat/300389306
+https://data.antwerp.be/id/term/brocade-catalog/lg/wln;https://data.antwerp.be/id/term/brocade-catalog/lg;Walloon;;http://vocab.getty.edu/aat/300389541
+https://data.antwerp.be/id/term/brocade-catalog/lg/yid;https://data.antwerp.be/id/term/brocade-catalog/lg;Yiddish;;http://vocab.getty.edu/aat/300389602
+https://data.antwerp.be/id/term/brocade-catalog/lg/zul;https://data.antwerp.be/id/term/brocade-catalog/lg;Zulu;;http://vocab.getty.edu/aat/300389637
+https://data.antwerp.be/id/term/brocade-catalog/lg/zxx;https://data.antwerp.be/id/term/brocade-catalog/lg;"No linguistic content; Not applicable";;http://vocab.getty.edu/aat/300389643
+https://data.antwerp.be/id/term/brocade-catalog/lg-ty;https://data.antwerp.be/id/term/brocade-catalog;Taal type;;http://vocab.getty.edu/aat/300055863
+https://data.antwerp.be/id/term/brocade-catalog/lg-ty/bt;https://data.antwerp.be/id/term/brocade-catalog/lg-ty;Brontaal;;
+https://data.antwerp.be/id/term/brocade-catalog/lg-ty/dt;https://data.antwerp.be/id/term/brocade-catalog/lg-ty;Doeltaal;;
+https://data.antwerp.be/id/term/brocade-catalog/library;https://data.antwerp.be/id/term/brocade-catalog;Bibliotheek;;http://vocab.getty.edu/aat/300008355
+https://data.antwerp.be/id/term/brocade-catalog/library/cbb;https://data.antwerp.be/id/term/brocade-catalog/library;Collectiebeleid Antwerpen Kunstenstad - Vakbibliotheek;;
+https://data.antwerp.be/id/term/brocade-catalog/library/dan;https://data.antwerp.be/id/term/brocade-catalog/library;Documentatiecentrum Antwerpse Noorderpolders;;
+https://data.antwerp.be/id/term/brocade-catalog/library/db;https://data.antwerp.be/id/term/brocade-catalog/library;Vakbibliotheek Den Bell;;
+https://data.antwerp.be/id/term/brocade-catalog/library/ehc;https://data.antwerp.be/id/term/brocade-catalog/library;Erfgoedbibliotheek Hendrik Conscience;;http://viaf.org/viaf/286682135
+https://data.antwerp.be/id/term/brocade-catalog/library/hh-eva;https://data.antwerp.be/id/term/brocade-catalog/library;HH-EVA;;
+https://data.antwerp.be/id/term/brocade-catalog/library/lh;https://data.antwerp.be/id/term/brocade-catalog/library;Letterenhuis;;http://viaf.org/viaf/150846374
+https://data.antwerp.be/id/term/brocade-catalog/library/mas;https://data.antwerp.be/id/term/brocade-catalog/library;Museum aan de Stroom;;
+https://data.antwerp.be/id/term/brocade-catalog/library/mid;https://data.antwerp.be/id/term/brocade-catalog/library;Documentatiecentrum Middelheimmuseum;;
+https://data.antwerp.be/id/term/brocade-catalog/library/mmb;https://data.antwerp.be/id/term/brocade-catalog/library;Museum Mayer van den Bergh - Vakbibliotheek;;http://viaf.org/viaf/130668175
+https://data.antwerp.be/id/term/brocade-catalog/library/mpm;https://data.antwerp.be/id/term/brocade-catalog/library;Museum Plantin Moretus / Prentenkabinet;;
+https://data.antwerp.be/id/term/brocade-catalog/library/rsl;https://data.antwerp.be/id/term/brocade-catalog/library;Red Star Line;;
+https://data.antwerp.be/id/term/brocade-catalog/library/rub;https://data.antwerp.be/id/term/brocade-catalog/library;Rubenianum;;http://viaf.org/viaf/153357050
+https://data.antwerp.be/id/term/brocade-catalog/library/sa;https://data.antwerp.be/id/term/brocade-catalog/library;Stadsarchief Antwerpen;;
+https://data.antwerp.be/id/term/brocade-catalog/library/vh;https://data.antwerp.be/id/term/brocade-catalog/library;Vleeshuis;;
+https://data.antwerp.be/id/term/brocade-catalog/nm;https://data.antwerp.be/id/term/brocade-catalog;Naam;;http://vocab.getty.edu/aat/300404688
+https://data.antwerp.be/id/term/brocade-catalog/nm-ex;https://data.antwerp.be/id/term/brocade-catalog;Naam toevoeging;;
+https://data.antwerp.be/id/term/brocade-catalog/nm-fn;https://data.antwerp.be/id/term/brocade-catalog;Achternaam;;http://vocab.getty.edu/aat/300435247
+https://data.antwerp.be/id/term/brocade-catalog/nm-vn;https://data.antwerp.be/id/term/brocade-catalog;Voornaam;;http://vocab.getty.edu/aat/300404651
+https://data.antwerp.be/id/term/brocade-catalog/nr-ty;https://data.antwerp.be/id/term/brocade-catalog;Nummer type;;http://vocab.getty.edu/aat/300055863
+https://data.antwerp.be/id/term/brocade-catalog/nr-ty/any;https://data.antwerp.be/id/term/brocade-catalog/nr-ty;Niet gekend (any);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-catalog/nr-ty/co;https://data.antwerp.be/id/term/brocade-catalog/nr-ty;Conversienummer;;
+https://data.antwerp.be/id/term/brocade-catalog/nr-ty/dep;https://data.antwerp.be/id/term/brocade-catalog/nr-ty;Wettelijk depotnummer;;
+https://data.antwerp.be/id/term/brocade-catalog/nr-ty/doi;https://data.antwerp.be/id/term/brocade-catalog/nr-ty;Digital Object Identifier;;
+https://data.antwerp.be/id/term/brocade-catalog/nr-ty/ean;https://data.antwerp.be/id/term/brocade-catalog/nr-ty;European Article Numbering;;
+https://data.antwerp.be/id/term/brocade-catalog/nr-ty/fp;https://data.antwerp.be/id/term/brocade-catalog/nr-ty;Fingerprint;;
+https://data.antwerp.be/id/term/brocade-catalog/nr-ty/hdl;https://data.antwerp.be/id/term/brocade-catalog/nr-ty;Niet gekend (hdl);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-catalog/nr-ty/ics;https://data.antwerp.be/id/term/brocade-catalog/nr-ty;Niet gekend (ics);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-catalog/nr-ty/isbn;https://data.antwerp.be/id/term/brocade-catalog/nr-ty;Internationaal Standaard Boeknummer;;
+https://data.antwerp.be/id/term/brocade-catalog/nr-ty/isbn13;https://data.antwerp.be/id/term/brocade-catalog/nr-ty;Internationaal Standaard Boeknummer;;
+https://data.antwerp.be/id/term/brocade-catalog/nr-ty/isbno;https://data.antwerp.be/id/term/brocade-catalog/nr-ty;Internationaal Standaard Boeknummer;;
+https://data.antwerp.be/id/term/brocade-catalog/nr-ty/ismn;https://data.antwerp.be/id/term/brocade-catalog/nr-ty;International Standard Music Number;;
+https://data.antwerp.be/id/term/brocade-catalog/nr-ty/issn;https://data.antwerp.be/id/term/brocade-catalog/nr-ty;International Standard Serial Number;;
+https://data.antwerp.be/id/term/brocade-catalog/nr-ty/lc;https://data.antwerp.be/id/term/brocade-catalog/nr-ty;Library of Congress Number;;
+https://data.antwerp.be/id/term/brocade-catalog/nr-ty/lugt;https://data.antwerp.be/id/term/brocade-catalog/nr-ty;LUGT nummer;;
+https://data.antwerp.be/id/term/brocade-catalog/nr-ty/mm;https://data.antwerp.be/id/term/brocade-catalog/nr-ty;Multimedia;;http://vocab.getty.edu/aat/300047910
+https://data.antwerp.be/id/term/brocade-catalog/nr-ty/oclc;https://data.antwerp.be/id/term/brocade-catalog/nr-ty;OCLC nummer;;
+https://data.antwerp.be/id/term/brocade-catalog/nr-ty/oclcwork;https://data.antwerp.be/id/term/brocade-catalog/nr-ty;OCLC work nummer;;
+https://data.antwerp.be/id/term/brocade-catalog/nr-ty/ppn;https://data.antwerp.be/id/term/brocade-catalog/nr-ty;Pica Productienummer;;
+https://data.antwerp.be/id/term/brocade-catalog/nr-ty/ugpl;https://data.antwerp.be/id/term/brocade-catalog/nr-ty;Uitgevers/plaatnummer;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty;https://data.antwerp.be/id/term/brocade-catalog;Annotatie type;;http://vocab.getty.edu/aat/300055863
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/abs;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Opslorping;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/ak;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;In (ak);;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/alg;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Algemeen;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/av;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Auteursnaam varieert;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/br;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Bibliografische referentie;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/bseries;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Reeks;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/cb;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Voortgezet door;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/cbo;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Opnieuw voortgezet door;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/cmp-dur;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Duur van de compositie;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/cmp-yr;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Jaar van de compositie;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/co;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Voortzetting van;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/cob;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Opnieuw voortzetting van;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/cong;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Congres;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/cui;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Gecumuleerd in;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/cuo;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Cumulatie van;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/doel;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Doelpubliek;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/etd-degree;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Graad (digitale thesis);;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/etd-dis;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Discipline (digitale thesis);;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/etd-grant;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Instelling (digitale thesis);;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/etd-level;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Niveau (digitale thesis);;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/ewi;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Samen met;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/ex;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Tentoonstelling;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/fac;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Facsimile;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/icp;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Tekst incipit;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/in;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;In (supplement van);;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/iswi;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Meestal samen uitgegeven met;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/jtitle;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;In (jtitle);;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/lot;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Aantal loten;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/mt;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Meertalige titel;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/nv;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Nummering varieert;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/orit;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;"Oorspronkelijke titel (niet gebruiken; alleen voor opac)";;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/pne;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Papier naar elektronische versie;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/pni;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Periodiek naar index;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/prom;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Promotor;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/pub;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Uitgegeven door/in;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/rec;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Gerecenseerd in;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/rep;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Reprint van uitgave;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/rp;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Overdruk uit;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/sf;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Afgesplitst van;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/st;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Supplement bij;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/sus;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Niet verschenen in;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/tho;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Eindwerk;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/to;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Vertaling van;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/tv;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Titel varieert;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/vv;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Bestaat uit;;
+https://data.antwerp.be/id/term/brocade-catalog/nt-ty/wi;https://data.antwerp.be/id/term/brocade-catalog/nt-ty;Met;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg;https://data.antwerp.be/id/term/brocade-catalog;Sigillum;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ap-kc-bekkers;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Schenking Ludo Bekkers;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ap-kc-dp;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Artesis Plantijn Hogeschool-KC Digitaal Platform;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ap-kc-hti;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Bibliotheek van het Departement D - Herman Teirlinck Instituut;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/db-nsm;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Uit de bibliotheek van het Nationaal Scheepvaartmuseum;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-abl;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds Antoinette Buckinx-Luyckx;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-ac;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds A.H. Cornette;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-adr;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie A. De Ridder;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-adv;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Gift Orde van Advocaten van Antwerpen;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-afp;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Alfons Jozef Van de Perre;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-aklt;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Alfons Thijs;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-al;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds Arthur Loontjens;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-am;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds August Monet;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-ap;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Alexandre Pinchart;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-as;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds A.J. Strijmans;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-at;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds Algemeene Tooneelbibliotheek;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-av;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Alexis Verbouwe;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-avdb;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Ex Libris A. van de Briel;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-avr;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Albert Van Roey;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-aww;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Gift Antwerpse Waterwerken;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-bal;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie van het balanseer;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-bam;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Bibliotheek AngÃ¨le Manteau;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-bdc;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds Basiel de Craene;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-bhv;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Bibliotheek Hugo Verriest;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-bhvx;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Bibliotheek Hugo Verriest doubletten;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-blh;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Bibliotheek Letterenhuis;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-bpc;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Bibliotheek Poesjkin Centrum Antwerpen;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-bro;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie van Johannes N.H. Bronkhorst;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-brox;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie van Johannes N.H. Bronkhorst - doubletten;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-bus;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Uitgeversfonds Buschmann;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-busx;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Uitgeversfonds Buschmann doubletten;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-bzn;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Bond Zonder Naam;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-cb;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie van ClÃ©ment Bovie;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-ch;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Camille Huysmans;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-cor;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Corona-gerelateerde uitgaven;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-cou;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Veiling Walter Couvreur;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-cpr;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Centsprenten;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-crt;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie van Cercle Russe Tolstoj;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-cstlb;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Leerboeken UA-bibliotheek;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-csu;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Strips Standaard Uitgeverij;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-dbnl;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;DBNL-digitaliseringsproject;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-dbr;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Doorbraak;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-ddgr;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Schenking Domien de Gruyter;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-depp;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Depot Uitgeverij P;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-dert;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Depot Uitgeverij Ertsberg;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-dha;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie van de Uitgeverij Houtekiet;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-dmp;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie van het Duitsch Ministerie v. Propaganda;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-dp;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;EHC-Digitaal platform;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-dsl;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Verkocht onder de toonbank;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-dup;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Depot Uitgeverij Pelckmans;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-dupx;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Depot Uitgeverij Pelckmans doubletten;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-dvr;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Depot Uitgeverij Vrijdag;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-dwm;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Drukkers in de marge;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-ea;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie van Edward Amter;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-eb;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds EugÃ¨ne Baie;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-ec;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Bibliotheek Ernest Claes;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-ecx;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Bibliotheek Ernest Claes - doubletten;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-edr;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie boekbanden van Emma De Roeck;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-ef;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Bibliotheek Edward Frison;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-efv;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie van de Vlaamse Esperantobond (Esperanto-FondaÄµo C. Vanbiervliet, [Kortrijk]);;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-eg;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Eugeen Gilliams;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-eka;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Georges Eekhoudkabinet;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-eks;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Aegyptica-strips van Eddy Kerssens;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-eksx;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Aegyptica-strips van Eddy Kerssens - doubletten;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-em;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Oude drukken Etnografisch Museum Antwerpen;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-eyle;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie misdaadromans van Wim van Eyle;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-fc;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds Colibrant;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-fd;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds Frans Dille;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-fdco;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie van Frans De Cort;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-feb;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie van de Vlaamse Esperantobond (Flandra Esperanto-Biblioteko, [Antwerpen]);;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-fg;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie van Frans Gittens;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-fhp;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Faculteit Historische Pedagogiek (UGent);;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-flvdb;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds Frans L. van den Brande;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-fn;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Schenking Frederik Nottebohm;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-front;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Vlaamse frontblaadjes Wereldoorlog I (Alexis Verbouwe);;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-fs;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds Fritz Sano;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-fvc;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds Frans J. van Cuyck;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-fvh;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds F. van Hoof;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-g;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Gift Bestendig Dotatiefonds;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-gek;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Georges Eekhoud;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-gel;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie gelegenheidsgedichten;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-gh;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds G. Hasse;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-gk;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Geneeskundige Kring;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-gl;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Guido Lauwaert;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-gmh;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Gift Missionarissen van het H. Hart;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-gok;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Google metadata ok;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-google;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Google-digitaliseringsproject;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-gs;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds G. Schamelhout;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-gsj;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds Ger Schmook jr.;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-gss;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds Ger Schmook;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-gu;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Uilenspiegel-collectie van Roger Gheyselinck;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-gw;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie G. Walschap;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-gwx;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie G. Walschap;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-hab;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Bibliotheek Hendrik Antheunis;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-havre;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Veiling Gustave van Havre 11-15 dec 1905;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-hbtd;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Schenking Havenbedrijf;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-hfj;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie van Henri Floris Jespers;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-hl;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Bibliotheek Hubert Lampo;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-hlo;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie van Hendrik Logeman;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-hlx;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Bibliotheek Hubert Lampo - doubletten;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-ho;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Frans M. Olbrechts;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-hv;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Depot Heemkunde Vlaanderen;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-hvb;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie van Herwig Verleyen;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-hvd;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Publicaties Henri Van Daele;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-hvh;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds Henri van Heurck;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-hvk;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds Hugo van Kuyck;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-hvt;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds Hendrik van Tichelen;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-imcf;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie van Ivo Michiels en Christiane Faes;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-imcfx;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie doubletten van Ivo Michiels en Christiane Faes;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-inc;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie incunabelen;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-jac;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie liturgica van de Sint-Jacobskerk [Antwerpen];;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-jb;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Legaat Jules Baetes;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-jc;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie van Jan Ceuleers;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-jdl;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie van Joseph De Lange;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-jdr;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds Jan de Roek;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-jds;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Jan De Schuyter;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-jevt;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds Jan Eggen van Terlan;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-jgp;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie van Jozef en Godelieve Peeters;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-jh;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds Joseph Hendel;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-jm;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Niet gekend (ehc-jm);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-jp;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie van Jules Persyn;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-jvc;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Jan van Cauwenberghe;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-jvh;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Bibliotheek Jos Vanhecke;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-jvr;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Jan Van Roey;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-jw;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie J.Winnips;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-kantl;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Koninklijke Academie voor Nederlandse Taal- en Letterkunde;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-kat;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie liturgica van de O.-L.-Vrouwkathedraal [Antwerpen];;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-ke;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds Karel Elebaers;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-kib;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Kempens Informatieblad en Kempens Informatieboek van Jef Geys;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-kmda;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Bruikleen Koninklijke Maatschappij voor Dierkunde van Antwerpen;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-kmdas;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Schenking Koninklijke Maatschappij voor Dierkunde van Antwerpen;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-ks;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie van Konstantijn Simillion;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-kub;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Kunstenaarsboeken;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-lb;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds Lode Baekelmans;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-lc;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds Lode Craeybeckx;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-lf;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds Louis Franck;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-lm;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds Lode Monteyne;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-ln;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Louis Nierijnck;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-ls;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds Luc Schepens;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-lsw;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds Lambert Swerts;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-mb;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds Maurits Bilcke;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-mg;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds Maurice Gilliams;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-mgd;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds Maurice Gilliams X;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-mgny;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Bibliotheek Marnix Gijsen (Belgisch Consulaat, New York);;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-mir;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Catalogus Miraeus, 1609;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-mk;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds Maxim KrÃ¶jer;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-mn;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Schenking May Neama;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-ms;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Bibliotheek Michel Seuphor;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-msx;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Bibliotheek Michel Seuphor - X;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-mvgwvc;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Ministerie van de Vlaamse Gemeenschap. Departement WVC;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-ncj;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds Nationaal Centrum voor Jeugdliteratuur - Stichting Lezen - Iedereen Leest;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-nsm;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie MAS/Nationaal Scheepvaartmuseum;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-obm;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Niet gekend (ehc-obm);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-ocmw-a;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Bibliotheek OCMW Antwerpen;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-od;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Opendoek;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-ok;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds Oscar Kreglinger;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-ovg;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Onderwijsbibliotheek Vlaamse Gemeenschap;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-pan;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Pandora;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-pbt;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Theaterteksten van de Provinciale Bibliotheek Tolhuis (Brugge);;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-pd;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Papeteries Duffel;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-pn;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Paul Neuhuys;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-pulp;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Pulpliteratuur;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-pvm;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds Paul van Morckhoven;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-ra;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie R. Avermaete;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-rc;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie van Roger Charlier;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-rg;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds Robert Guiette;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-rga;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Bibliotheek Rederijkerskamer De Goudbloem-Broedermin (Antwerpen);;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-rs;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Niet gekend (ehc-rs);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-rvp;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Schenking Robert van Passen;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-sd;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Schenking Steven Debroey;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-sfe;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie van Society of Friends, Ede;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-sk;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Legaat Serge Kosman;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-ssl;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie originelen uit de Collectie van Stijn Streuvels, Lijsternest (bruikleen);;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-ssli;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie doubletten uit de Collectie van Stijn Streuvels aanwezig in het Lijsternest te Ingooigem;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-sspt;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Stijn Streuvels van Paul Thiers (bruikleen);;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-stlbw;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Stedelijke Technische Leergangen voor Bibliotheekwezen van Antwerpen;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-svg;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Smidt van Gelder;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-tb;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Schenking Tone Brulin;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-tbu;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie van Thelesfoor Buyssens;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-ter;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Terbruggen;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-tvw;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Tuur Van Wallendael;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-ufo;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Uitgeversfonds Opdebeek;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-vbe;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Vlaamse beweging;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-veh;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Veiling Emmanuel Hiel;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-ven;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Legaat Venneman-De Rooster;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-vgw;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Wim Van Gansbeke;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-vh;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Museum Vleeshuis;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-vj;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Verzameling Vanessa Joosen;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-vm;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Bibliotheek Volkskundemuseum Antwerpen;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-vml;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Volkskundemuseum Antwerpen. Collectie volksmuziek;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-voe;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Depot Stichting Voetnoot;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-vsjv;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Schenking Vereniging van Schrijvers voor de Jeugd;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-vsjvx;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Schenking Vereniging van Schrijvers voor de Jeugd X;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-vwo;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie vlugschriften uit WOII;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-wco;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie van Willy Courteaux;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-wg;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Wim Gielen;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-wgr;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Reinaertcollectie Wim Gielen;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-wgrx;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Reinaertcollectie Wim Gielen X;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-wil;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie over Sint Willibrordus;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-wilx;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie over Sint Willibrordus - doublet;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-yok;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Fonds Y. Occhino Kernkamp;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-yvdb;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Bibliotheek Yvonne van den Berghe;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ehc-zpa;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Overdracht Zilvermuseum Sterckshof Provincie Antwerpen;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/eva-eb;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Niet gekend (eva-eb);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/mas-egc;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Uit de bibliotheek van de Erfgoedcel;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/mas-hh;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Uit de bibliotheek van het Hessenhuis;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/mas-nsm;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Uit de bibliotheek van het Nationaal Scheepvaartmuseum;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/mas-vm;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Uit de bibliotheek van het Volkskundemuseum;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/mid-bekkers;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Schenking Middelheimpromotors-Bibliotheek Ludo Bekkers;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/mid-dp;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;MID-Digitaal platform;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/mid-liefbrijs;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Schenking Lief Brijs;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/mid-midartvanderlinden;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Schenking Art Van der Linden;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/mid-midconservatorium;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Schenking bibliotheek Koninklijk Conservatorium Antwerpen;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/mid-midpromotors;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Schenking Middelheimpromotors;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/mmb-hb;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Historische Bibliotheek;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/mpm-bh;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Max Horn-bibliotheek;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/mpm-bnw;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Natuurwetenschappelijk museum van Antwerpen;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/mpm-cartografie;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Cartografische oude drukken in MPM;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/mpm-dp;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;MPM-Digitaal platform;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/mpm-google;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Google-digitaliseringsproject MPM;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/mpm-havre;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Aankopen veiling Gustave van Havre;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/mpm-hebr;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Hebreeuwse drukken in MPM;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/mpm-hendrik-vervliet;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Hendrik D.L. Vervliet;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/mpm-miniatuur;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Miniatuur boekjes MPM;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/mpm-muz;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Muziekdrukken in MPM;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/mpm-nieuws;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Publicaties met nieuws;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/mpm-ocmw;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Bibliotheek OCMW Antwerpen;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/mpm-persoons;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;MPM Collectie Ernest Persoons;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/mpm-plantkunde;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Botanische oude drukken;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/mpm-verh;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Verhaeren-Vandevoir;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/mpm-vervliet;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie J.B. Vervliet;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rsl-nsm;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Boeken Nationaal Scheepvaartmuseum;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rsl-vri;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Langdurige bruikleen Vrienden van de Red Star Line vzw;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-balis;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Niet gekend (rub-balis);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-baudouin;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Baudouin;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-biografieppr;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;RUB Biografie Peter Paul Rubens;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-bur;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Ludwig Burchard;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-casteels;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Marguerite Casteels;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-debruyn;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie De Bruyn;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-dhulst;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie R.-A. D'Hulst;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-digitaliseren;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Te digitaliseren;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-facsimile;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Niet gekend (rub-facsimile);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-geannoteerd;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Niet gekend (rub-geannoteerd);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-gift;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Schenking;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-gro;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie F. Grossmann;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-hairs;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Hairs;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-herbestemmen;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Te herbestemming;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-herckcharles;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Charles Van Herck;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-hercklouis;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Louis Van Herck;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-hersteld;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Dit exemplaar werd behandeld door een professionele boekbinder/restaurator;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-herstellen;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Te herstellen;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-hoplanddepot3;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Niet gekend (rub-hoplanddepot3);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-hoplandleeszaal1;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Niet gekend (ub-hoplandleeszaal1);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-kop;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Rubenianum - kopie;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-maillet;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Maillet;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-msg;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Smidt-Van Gelder;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-notities;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Niet gekend (rub-notities);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-origineel;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Niet gekend (rub-origineel);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-over;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Overdruk;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-pds;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Documentatiefonds Pierre de SÃ©journet;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-prentenkabinet;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Overname MPM/Prentenkabinet;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-print;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Niet gekend (rub-print);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-ruil;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Rubenianum - ruil;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-shaw-miller;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Lindsey Shaw-Miller;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-vanhemeldonck;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Van Hemeldonck;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-vervangexemplaar;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Vervangexemplaar;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-vey;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Horst Vey;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-washton;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Washton;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/rub-zoek;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Vermist document;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/sa-turnhout-autenboer;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Eugeen Van Autenboer;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/sa-turnhout-speelkaart;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Collectie Museum van de Speelkaart;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ua-dp;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;UA Digitaal Platform;;
+https://data.antwerp.be/id/term/brocade-catalog/obj-sg/ua-vvle;https://data.antwerp.be/id/term/brocade-catalog/obj-sg;Vlaamse Vereniging Leraren Engels;;
+https://data.antwerp.be/id/term/brocade-catalog/publication-ty;https://data.antwerp.be/id/term/brocade-catalog;Publicatie type;;http://vocab.getty.edu/aat/300055863
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty;https://data.antwerp.be/id/term/brocade-catalog;Relatie type;;http://vocab.getty.edu/aat/300055863
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/an;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;In nummer;heeft deel;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/ap;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;In;is deel van;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/at;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;In tijdschrift;is deel van;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/cb;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Voortgezet door;;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/cbo;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Voortgezet door / Voortzetting van;;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/co;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Voortzetting van;;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/cob;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Voortzetting van / voortgezet door;;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/colof;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Bundeling van;heeft deel;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/cui;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Gecumuleerde editie zie;;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/cuo;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Gecumuleerde uitgave van;;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/enp;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Papieren versie zie;;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/ewi;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Samen met;;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/gno;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Delen;heeft deel;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/in;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Supplement van;;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/incl;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Bevat;heeft deel;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/inclin;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Opgenomen in;is deel van;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/incorp;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Bevat;heeft deel;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/inp;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Index bij;;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/irbh;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;IR - Boek naar hoofdstuk;heeft deel;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/irta;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;IR - Tijdschrift naar artikel;heeft deel;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/iswi;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Ook uitgegeven met;;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/iwe;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Samen met;;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/lbnc;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Online via Abraham;;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/lstcv;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Bekijk de beschrijving in de STCV opac;;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/lvvl;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Bevat;heeft deel;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/lw;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Van lvd naar work;;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/na;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Artikels;heeft deel;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/nt;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Volume;is deel van;http://vocab.getty.edu/aat/300444269
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/ofcol;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Ook uitgegeven in;;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/ofrec;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Recensies;;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/ofrep;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Originele uitgave van;;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/ong;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Deel van;is deel van;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/oth;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Eindwerken;is deel van;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/pa;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Inhoud;heeft deel;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/partofi;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Onderdeel van;is deel van;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/pne;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Elektronische versie zie;;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/pni;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Index zie;;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/recof;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Recensie van;;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/rect;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Gerecenseerd in;;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/repof;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Reproductie/facsimile van;;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/rnv;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Bevat;heeft deel;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/ta;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Inhoud;heeft deel;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/tho;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Eindwerk;heeft deel;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/tn;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Inhoudstafel;heeft deel;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/trec;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Recensies;;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/vnr;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Deel van;is deel van;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/wi;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Met;;
+https://data.antwerp.be/id/term/brocade-catalog/relation-ty/wiis;https://data.antwerp.be/id/term/brocade-catalog/relation-ty;Ook uitgegeven met;;
+https://data.antwerp.be/id/term/brocade-catalog/ta;https://data.antwerp.be/id/term/brocade-catalog;Taal (ta);;http://vocab.getty.edu/aat/300386046
+https://data.antwerp.be/id/term/brocade-catalog/ta/e;https://data.antwerp.be/id/term/brocade-catalog/ta;Engels;;http://vocab.getty.edu/aat/300388277
+https://data.antwerp.be/id/term/brocade-catalog/ta/f;https://data.antwerp.be/id/term/brocade-catalog/ta;Frans;;http://vocab.getty.edu/aat/300388306
+https://data.antwerp.be/id/term/brocade-catalog/ta/n;https://data.antwerp.be/id/term/brocade-catalog/ta;Nederlands;;http://vocab.getty.edu/aat/300388256
+https://data.antwerp.be/id/term/brocade-catalog/ta/u;https://data.antwerp.be/id/term/brocade-catalog/ta;Niet gedefinieerd;;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-catalog/ti-ty;https://data.antwerp.be/id/term/brocade-catalog;Titel type;;http://vocab.getty.edu/aat/300055863
+https://data.antwerp.be/id/term/brocade-catalog/ti-ty/cb;https://data.antwerp.be/id/term/brocade-catalog/ti-ty;Niet gekend (cb);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-catalog/ti-ty/ch;https://data.antwerp.be/id/term/brocade-catalog/ti-ty;Niet gekend (ch);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-catalog/ti-ty/ci;https://data.antwerp.be/id/term/brocade-catalog/ti-ty;Niet gekend (ci);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-catalog/ti-ty/cj;https://data.antwerp.be/id/term/brocade-catalog/ti-ty;Niet gekend (cj);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-catalog/ti-ty/e;https://data.antwerp.be/id/term/brocade-catalog/ti-ty;Meervoudige titel;;
+https://data.antwerp.be/id/term/brocade-catalog/ti-ty/h;https://data.antwerp.be/id/term/brocade-catalog/ti-ty;Hoofdtitel;;
+https://data.antwerp.be/id/term/brocade-catalog/ti-ty/m;https://data.antwerp.be/id/term/brocade-catalog/ti-ty;Niet gekend (m);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-catalog/ti-ty/nr;https://data.antwerp.be/id/term/brocade-catalog/ti-ty;Niet gekend (nr);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-catalog/ti-ty/o;https://data.antwerp.be/id/term/brocade-catalog/ti-ty;Oorspronkelijke titel;;
+https://data.antwerp.be/id/term/brocade-catalog/ti-ty/p;https://data.antwerp.be/id/term/brocade-catalog/ti-ty;Paralleltitel;;
+https://data.antwerp.be/id/term/brocade-catalog/ti-ty/s;https://data.antwerp.be/id/term/brocade-catalog/ti-ty;Sorteertitel;;
+https://data.antwerp.be/id/term/brocade-catalog/ti-ty/tos;https://data.antwerp.be/id/term/brocade-catalog/ti-ty;Niet gekend (tos);;http://vocab.getty.edu/aat/300379012
+https://data.antwerp.be/id/term/brocade-catalog/ti-ty/u;https://data.antwerp.be/id/term/brocade-catalog/ti-ty;Uniforme titel;;
+https://data.antwerp.be/id/term/brocade-catalog/ti-ty/v;https://data.antwerp.be/id/term/brocade-catalog/ti-ty;Secundaire titel;;
