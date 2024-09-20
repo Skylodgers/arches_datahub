@@ -14,13 +14,13 @@
                     "graph_id": "207063b6-ee16-4ea4-8c05-6eeda78e3680",
                     "helpenabled": false,
                     "helptext": {
-                        "en": null
+                        "en": ""
                     },
                     "helptitle": {
-                        "en": null
+                        "en": ""
                     },
                     "instructions": {
-                        "en": null
+                        "en": ""
                     },
                     "is_editable": true,
                     "name": {
@@ -41,13 +41,13 @@
                     "graph_id": "207063b6-ee16-4ea4-8c05-6eeda78e3680",
                     "helpenabled": false,
                     "helptext": {
-                        "en": null
+                        "en": ""
                     },
                     "helptitle": {
-                        "en": null
+                        "en": ""
                     },
                     "instructions": {
-                        "en": null
+                        "en": ""
                     },
                     "is_editable": true,
                     "name": {
@@ -68,13 +68,13 @@
                     "graph_id": "207063b6-ee16-4ea4-8c05-6eeda78e3680",
                     "helpenabled": false,
                     "helptext": {
-                        "en": null
+                        "en": ""
                     },
                     "helptitle": {
-                        "en": null
+                        "en": ""
                     },
                     "instructions": {
-                        "en": null
+                        "en": ""
                     },
                     "is_editable": true,
                     "name": {
@@ -95,13 +95,13 @@
                     "graph_id": "207063b6-ee16-4ea4-8c05-6eeda78e3680",
                     "helpenabled": false,
                     "helptext": {
-                        "en": null
+                        "en": ""
                     },
                     "helptitle": {
-                        "en": null
+                        "en": ""
                     },
                     "instructions": {
-                        "en": null
+                        "en": ""
                     },
                     "is_editable": true,
                     "name": {
@@ -149,13 +149,13 @@
                     "graph_id": "207063b6-ee16-4ea4-8c05-6eeda78e3680",
                     "helpenabled": false,
                     "helptext": {
-                        "en": null
+                        "en": ""
                     },
                     "helptitle": {
-                        "en": null
+                        "en": ""
                     },
                     "instructions": {
-                        "en": null
+                        "en": ""
                     },
                     "is_editable": true,
                     "name": {
@@ -176,13 +176,13 @@
                     "graph_id": "207063b6-ee16-4ea4-8c05-6eeda78e3680",
                     "helpenabled": false,
                     "helptext": {
-                        "en": null
+                        "en": ""
                     },
                     "helptitle": {
-                        "en": null
+                        "en": ""
                     },
                     "instructions": {
-                        "en": null
+                        "en": ""
                     },
                     "is_editable": true,
                     "name": {
@@ -459,7 +459,22 @@
                 {
                     "card_id": "b2811aa1-a79b-4da5-aad5-e408b124e27e",
                     "config": {
-                        "en": ""
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "en": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
                     },
                     "id": "7cbe43bb-b9da-4ff3-8b74-517f183109f2",
                     "label": {
@@ -473,7 +488,14 @@
                 {
                     "card_id": "972bc866-9a1a-4eed-bf0b-e2ad953cff94",
                     "config": {
-                        "en": ""
+                        "defaultResourceInstance": [],
+                        "en": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "placeholder": {
+                            "en": ""
+                        }
                     },
                     "id": "b8a27a46-80db-4c50-ada0-95cf9f6aa9f0",
                     "label": {
@@ -762,7 +784,7 @@
                     "graph_id": "207063b6-ee16-4ea4-8c05-6eeda78e3680",
                     "hascustomalias": false,
                     "is_collector": true,
-                    "isrequired": false,
+                    "isrequired": true,
                     "issearchable": true,
                     "istopnode": false,
                     "name": "uitgever",
@@ -776,7 +798,7 @@
                 {
                     "alias": "statuut",
                     "config": {
-                        "rdmCollection": null
+                        "rdmCollection": "455a6746-fc27-496c-a924-81a049fc4b71"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -785,7 +807,7 @@
                     "graph_id": "207063b6-ee16-4ea4-8c05-6eeda78e3680",
                     "hascustomalias": false,
                     "is_collector": true,
-                    "isrequired": false,
+                    "isrequired": true,
                     "issearchable": true,
                     "istopnode": false,
                     "name": "statuut",
@@ -808,7 +830,7 @@
                     "graph_id": "207063b6-ee16-4ea4-8c05-6eeda78e3680",
                     "hascustomalias": false,
                     "is_collector": false,
-                    "isrequired": false,
+                    "isrequired": true,
                     "issearchable": true,
                     "istopnode": false,
                     "name": "naam",
@@ -822,7 +844,7 @@
                 {
                     "alias": "thema",
                     "config": {
-                        "rdmCollection": null
+                        "rdmCollection": "455a6746-fc27-496c-a924-81a049fc4b71"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -854,7 +876,7 @@
                     "graph_id": "207063b6-ee16-4ea4-8c05-6eeda78e3680",
                     "hascustomalias": false,
                     "is_collector": true,
-                    "isrequired": false,
+                    "isrequired": true,
                     "issearchable": true,
                     "istopnode": false,
                     "name": "beschrijving",
@@ -877,7 +899,7 @@
                     "graph_id": "207063b6-ee16-4ea4-8c05-6eeda78e3680",
                     "hascustomalias": false,
                     "is_collector": true,
-                    "isrequired": false,
+                    "isrequired": true,
                     "issearchable": true,
                     "istopnode": false,
                     "name": "titel",
@@ -900,7 +922,7 @@
                     "graph_id": "207063b6-ee16-4ea4-8c05-6eeda78e3680",
                     "hascustomalias": false,
                     "is_collector": true,
-                    "isrequired": false,
+                    "isrequired": true,
                     "issearchable": true,
                     "istopnode": false,
                     "name": "contactinformatie",
@@ -917,7 +939,11 @@
                         "graphs": [
                             {
                                 "graphid": "473c4c2a-36ad-485f-94fa-6b5d167da5ae",
-                                "name": "DCAT Distributie"
+                                "inverseRelationshipConcept": "ac41d9be-79db-4256-b368-2f4559cfbe55",
+                                "name": "DCAT Distributie",
+                                "relationshipCollection": "00000000-0000-0000-0000-000000000005",
+                                "relationshipConcept": "ac41d9be-79db-4256-b368-2f4559cfbe55",
+                                "useOntologyRelationship": false
                             }
                         ],
                         "searchDsl": "",
@@ -930,7 +956,7 @@
                     "graph_id": "207063b6-ee16-4ea4-8c05-6eeda78e3680",
                     "hascustomalias": false,
                     "is_collector": true,
-                    "isrequired": false,
+                    "isrequired": true,
                     "issearchable": true,
                     "istopnode": false,
                     "name": "distributie",
@@ -953,7 +979,7 @@
                     "graph_id": "207063b6-ee16-4ea4-8c05-6eeda78e3680",
                     "hascustomalias": false,
                     "is_collector": true,
-                    "isrequired": false,
+                    "isrequired": true,
                     "issearchable": true,
                     "istopnode": false,
                     "name": "toegankelijkheid",
@@ -1068,7 +1094,7 @@
                     "graph_id": "207063b6-ee16-4ea4-8c05-6eeda78e3680",
                     "hascustomalias": false,
                     "is_collector": true,
-                    "isrequired": false,
+                    "isrequired": true,
                     "issearchable": true,
                     "istopnode": false,
                     "name": "identificator",
@@ -1084,8 +1110,8 @@
             "publication": {
                 "graph_id": "207063b6-ee16-4ea4-8c05-6eeda78e3680",
                 "notes": null,
-                "publicationid": "cdbc7ea6-769d-11ef-86c9-96a6d2455259",
-                "published_time": "2024-09-19T10:42:40.540"
+                "publicationid": "95e9ed24-771a-11ef-a5b8-96a6d2455259",
+                "published_time": "2024-09-20T01:35:53.976"
             },
             "relatable_resource_model_ids": [],
             "resource_2_resource_constraints": [],
@@ -1121,7 +1147,7 @@
     ],
     "metadata": {
         "db": "PostgreSQL 15.8 (Postgres.app) on aarch64-apple-darwin21.6.0, compiled by Apple clang version 14.0.0 (clang-1400.0.29.102), 64-bit",
-        "git hash": "0ea2cebb 2024-09-18 09:52:10 +0200",
+        "git hash": "9f82976e 2024-09-19 18:52:56 +0200",
         "os": "Darwin",
         "os version": "23.6.0"
     }
