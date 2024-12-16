@@ -34,4 +34,6 @@
         <rdfs:range rdf:resource="E1_CRM_Entity"/>
 </rdf:Property>
 
+
+
 </rdf:RDF>

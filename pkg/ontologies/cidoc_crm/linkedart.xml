@@ -417,4 +417,28 @@
         <owl:inverseOf rdf:resource="https://linked.art/ns/terms/digitally_available_via"/>        
 </rdf:Property>
 
+
+
+<!-- Added for Archives: start -->
+<rdf:Property rdf:about="https://linked.art/ns/terms/members_exemplified_by">
+	<rdfs:label xml:lang="en">members exemplified by</rdfs:label>
+	<rdfs:comment xml:lang="en"/>
+	<rdfs:domain rdf:resource="https://linked.art/ns/terms/Set"/>
+	<rdfs:range rdf:resource="E1_CRM_Entity"/>
+</rdf:Property>
+<rdf:Property rdf:about="https://linked.art/ns/terms/members_contained_by">
+	<rdfs:label xml:lang="en">members contained by</rdfs:label>
+	<rdfs:comment xml:lang="en"/>
+	<rdfs:domain rdf:resource="https://linked.art/ns/terms/Set"/>
+	<rdfs:range rdf:resource="E18_Physical_Thing"/>
+	<owl:inverseOf rdf:resource="https://linked.art/ns/terms/contains_members_of"/>
+</rdf:Property>
+<rdf:Property rdf:about="https://linked.art/ns/terms/contains_members_of">
+	<rdfs:label xml:lang="en">contains members of</rdfs:label>
+	<rdfs:comment xml:lang="en"/>
+	<rdfs:domain rdf:resource="E18_Physical_Thing"/>
+	<rdfs:range rdf:resource="https://linked.art/ns/terms/Set"/>
+	<owl:inverseOf rdf:resource="https://linked.art/ns/terms/members_contained_by"/>
+</rdf:Property>
+
 </rdf:RDF>

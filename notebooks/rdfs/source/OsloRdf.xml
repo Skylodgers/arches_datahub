@@ -1,0 +1,1295 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:schema="https://schema.org/"
+    xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/"
+    xmlns:vlgen="https://data.vlaanderen.be/ns/generiek#"
+    xmlns:locn="http://www.w3.org/ns/locn#"
+    xmlns:vlce="https://data.vlaanderen.be/ns/cultureel-erfgoed#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:crmdig="http://www.ics.forth.gr/isl/CRMdig/"
+    xmlns:lrm="http://iflastandards.info/ns/lrm/lrmoo/"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:la="https://linked.art/ns/terms/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:edtf="http://id.loc.gov/datatypes/edtf/"
+    xmlns:frbroo="https://www.iflastandards.info/fr/frbr/frbroo#"
+    xmlns:prov="http://www.w3.org/ns/prov#"
+    xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+    xmlns:eli="http://data.europa.eu/eli/ontology#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:crmsci="http://www.ics.forth.gr/isl/CRMsci/"
+    xmlns:person="http://www.w3.org/ns/person#"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" > 
+  <rdf:Description rdf:about="crm:E80_Part_Removal">
+    <rdfs:label>VerwijderingDeel</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E11_Modification"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P67i_is_referred_to_by">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E89_Propositional_Object"/>
+    <rdfs:label>wordtNaarVerwezenDoor</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P16_used_specific_object">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E70_Thing"/>
+    <rdfs:label>gebruiktObject</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E16_Measurement">
+    <rdfs:label>Meting</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E13_Attribute_Assignment"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E31_Document">
+    <rdfs:label>Document</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P24_transferred_title_of">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
+    <rdfs:label>overdrachtVan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P62i_is_depicted_by">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E24_Physical_Human-Made_Thing"/>
+    <rdfs:label>wordtUitgebeeldDoor</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P104i_applies_to">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E30_Right"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E72_Legal_Object"/>
+    <rdfs:label>isVanToepassingOp</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E89_Propositional_Object">
+    <rdfs:label>Missing SubClass Propositional_Object</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E28_Conceptual_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P55_has_current_location">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E19_Physical_Object"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <rdfs:label>locatie</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="locn:fullAddress">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.w3.org/ns/locn#Address"/>
+    <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"/>
+    <rdfs:label>volledigAdres</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P4_has_time-span">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E2_Temporal_Entity"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span"/>
+    <rdfs:label>tijd</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="adms:Identifier">
+    <rdfs:label>Identificator</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:F30">
+    <rdfs:label>Publicatie</rdfs:label>
+    <rdfs:comment>http://iflastandards.info/ns/lrm/lrmoo/F30 Manifestation Creation</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F28"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P75i_is_possessed_by">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E30_Right"/>
+    <rdfs:range rdf:resource="http://purl.org/dc/terms/Agent"/>
+    <rdfs:label>isInBezitVan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P112_diminished">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E80_Part_Removal"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
+    <rdfs:label>inkrimpingVan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P128i_is_carried_by">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
+    <rdfs:label>drager</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="vlce:Beschrijving">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Beschrijving</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:R17">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F28"/>
+    <rdfs:range rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F22"/>
+    <rdfs:label>expressie</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E6_Destruction">
+    <rdfs:label>Vernietiging</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E78_Curated_Holding">
+    <rdfs:label>GecureerdeCollectie</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E24_Physical_Human-Made_Thing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:R9i">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F22"/>
+    <rdfs:range rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F1"/>
+    <rdfs:label>realiseert</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P140_assigned_attribute_to">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E13_Attribute_Assignment"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity"/>
+    <rdfs:label>toegekendAan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="foaf:familyName">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.w3.org/ns/person#Person"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:label>achternaam</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E26_Physical_Feature">
+    <rdfs:label>Missing SubClass Physical_Feature</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E70_Thing"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E1_CRM_Entity">
+    <rdfs:label>Entiteit</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E73_Information_Object">
+    <rdfs:label>InformatieObject</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E89_Propositional_Object"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P74_has_current_or_former_residence">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E39_Actor"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <rdfs:label>residentie</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E7_Activity">
+    <rdfs:label>Activiteit</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="dct:creator">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.w3.org/ns/adms#Identifier"/>
+    <rdfs:range rdf:resource="http://purl.org/dc/terms/Agent"/>
+    <rdfs:label>toegekendDoor</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:R16">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F27"/>
+    <rdfs:range rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F1"/>
+    <rdfs:label>werk</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E25_Human-Made_Feature">
+    <rdfs:label>MensgemaaktKenmerk</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E26_Physical_Feature"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E24_Physical_Human-Made_Thing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P94i_was_created_by">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E28_Conceptual_Object"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E65_Creation"/>
+    <rdfs:label>creatie</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:F19">
+    <rdfs:label>Publicatiewerk</rdfs:label>
+    <rdfs:comment>Deprecated, use superclass F1 Work</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="eli:LegalResource">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Rechtsgrond</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E10_Transfer_of_Custody">
+    <rdfs:label>Bewaring</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="https://linked.art/ns/terms/Transfer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E65_Creation">
+    <rdfs:label>Creatie</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P111i_was_added_by">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E79_Part_Addition"/>
+    <rdfs:label>isToegevoegdBij</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="schema:value">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <rdfs:range rdf:resource="https://schema.org/Number"/>
+    <rdfs:label>waarde</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P148_has_component">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E89_Propositional_Object"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E89_Propositional_Object"/>
+    <rdfs:label>heeftComponent</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E18_Physical_Thing">
+    <rdfs:label>MaterieelDing</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E72_Legal_Object"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E70_Thing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P29i_received_custody_through">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E39_Actor"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E10_Transfer_of_Custody"/>
+    <rdfs:label>inBewaringGekregen</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P27_moved_from">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E9_Move"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <rdfs:label>verhuisdVan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E3_Condition_State">
+    <rdfs:label>Conditie</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E2_Temporal_Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P31i_was_modified_by">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E11_Modification"/>
+    <rdfs:label>wijziging</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P94_has_created">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E65_Creation"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E28_Conceptual_Object"/>
+    <rdfs:label>creatie</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:R2">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F1"/>
+    <rdfs:range rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F1"/>
+    <rdfs:label>afgeleidVan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="prov:Location">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Locatie</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P165_incorporates">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+    <rdfs:label>omvat</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P11_had_participant">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <rdfs:range rdf:resource="http://purl.org/dc/terms/Agent"/>
+    <rdfs:label>deelnemer</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P113_removed">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E80_Part_Removal"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
+    <rdfs:label>verwijderd</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P67_refers_to">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E89_Propositional_Object"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity"/>
+    <rdfs:label>verwijstNaar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E33_Linguistic_Object">
+    <rdfs:label>Taalobject</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="dcmitype:Collection">
+    <rdfs:label>Collectie</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:F17">
+    <rdfs:label>Aggregatiewerk</rdfs:label>
+    <rdfs:comment>Deprecated, use superclass F1 Work</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P110_augmented">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E79_Part_Addition"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
+    <rdfs:label>uitbreidingVan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:F29">
+    <rdfs:label>Opnamesessie</rdfs:label>
+    <rdfs:comment>http://iflastandards.info/ns/lrm/lrmoo/F29 Recording Event</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F28"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:R24i">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F24"/>
+    <rdfs:range rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F30"/>
+    <rdfs:label>creatie</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P46_is_composed_of">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
+    <rdfs:label>bestaatUit</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P177_assigned_property_type">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E13_Attribute_Assignment"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#anyURI"/>
+    <rdfs:label>toegekendAttribuut</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E30_Right">
+    <rdfs:label>Recht</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E89_Propositional_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P104_is_subject_to">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E72_Legal_Object"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E30_Right"/>
+    <rdfs:label>isOnderworpenAan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="vlce:type">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="https://data.vlaanderen.be/ns/cultureel-erfgoed#Beschrijving"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>type</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:R3">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F1"/>
+    <rdfs:range rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F22"/>
+    <rdfs:label>isGerealiseerdIn</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E2_Temporal_Entity">
+    <rdfs:label>TemporeleEntiteit</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E92_Spacetime_Volume"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E22_Human-Made_Object">
+    <rdfs:label>MensgemaaktObject</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E24_Physical_Human-Made_Thing"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E19_Physical_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P14.1_in_the_role_of">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/PC14_carried_out_by"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>rol</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P1_is_identified_by">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+    <rdfs:label>identificator</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P126_employed">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E11_Modification"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E57_Material"/>
+    <rdfs:label>gebruiktMateriaal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P22i_acquired_title_through">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E39_Actor"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <rdfs:label>inEigendomGekregen</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P129_is_about">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E89_Propositional_Object"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity"/>
+    <rdfs:label>gaatOver</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:R25">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F31"/>
+    <rdfs:range rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F25"/>
+    <rdfs:label>volgt</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P30_transferred_custody_of">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E10_Transfer_of_Custody"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
+    <rdfs:label>overdrachtVan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P22_transferred_title_to">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <rdfs:range rdf:resource="http://purl.org/dc/terms/Agent"/>
+    <rdfs:label>overgedragenAan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:F18">
+    <rdfs:label>SerieelWerk</rdfs:label>
+    <rdfs:comment>Transfer to PRESSoo (F18/Znn Serial Work)</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P25_moved">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E9_Move"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E19_Physical_Object"/>
+    <rdfs:label>verhuisd</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P26_moved_to">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E9_Move"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <rdfs:label>verhuisdNaar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E87_Curation_Activity">
+    <rdfs:label>Curatie</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P102_has_title">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E71_Human-Made_Thing"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E35_Title"/>
+    <rdfs:label>titel</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P141_assigned">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E13_Attribute_Assignment"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity"/>
+    <rdfs:label>toegekendeWaarde</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P32_used_general_technique">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>gebruikteTechniek</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:F27">
+    <rdfs:label>Conceptie</rdfs:label>
+    <rdfs:comment>http://iflastandards.info/ns/lrm/lrmoo/F27 Work Conception</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E65_Creation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:R24">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F30"/>
+    <rdfs:range rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F24"/>
+    <rdfs:label>publicatieExpressie</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E12_Production">
+    <rdfs:label>Productie</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E11_Modification"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P24i_changed_ownership_through">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <rdfs:label>isOvergedragenBijVerwerving</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:R25i">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F25"/>
+    <rdfs:range rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F31"/>
+    <rdfs:label>uitvoering</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E24_Physical_Human-Made_Thing">
+    <rdfs:label>Missing SubClass Physical_Human-Made_Thing</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E71_Human-Made_Thing"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:F15">
+    <rdfs:label>ComplexWerk</rdfs:label>
+    <rdfs:comment>Deprecated, use superclass F1 Work</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P52_has_current_owner">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
+    <rdfs:range rdf:resource="http://purl.org/dc/terms/Agent"/>
+    <rdfs:label>eigenaar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P75_possesses">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E39_Actor"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E30_Right"/>
+    <rdfs:label>heeft</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P62_depicts">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E24_Physical_Human-Made_Thing"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity"/>
+    <rdfs:label>beeldtUit</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P29_custody_received_by">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E10_Transfer_of_Custody"/>
+    <rdfs:range rdf:resource="http://purl.org/dc/terms/Agent"/>
+    <rdfs:label>overgedragenAan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="foaf:givenName">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.w3.org/ns/person#Person"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:label>voornaam</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="xsd:dateTime">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>DateTime</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="skos:Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Type</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P23_transferred_title_from">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E39_Actor"/>
+    <rdfs:label>overgedragenVan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:F28">
+    <rdfs:label>ExpressieCreatie</rdfs:label>
+    <rdfs:comment>http://iflastandards.info/ns/lrm/lrmoo/F28 Expression Creation</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E65_Creation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="dct:issued">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.w3.org/ns/adms#Identifier"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+    <rdfs:label>toegekendOp</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:R23">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F30"/>
+    <rdfs:range rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F19"/>
+    <rdfs:label>gerealiseerdWerk</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="dc:title">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+    <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"/>
+    <rdfs:label>naam</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="vlce:Rol.agent">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="https://data.vlaanderen.be/ns/cultureel-erfgoed#Rol"/>
+    <rdfs:range rdf:resource="http://purl.org/dc/terms/Agent"/>
+    <rdfs:label>agent</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="org:Organization">
+    <rdfs:label>Organisatie</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://purl.org/dc/terms/Agent"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:R11">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F18"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E29_Design_or_Procedure"/>
+    <rdfs:label>uitgaveregel</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E11_Modification">
+    <rdfs:label>Wijziging</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P147i_was_curated_by">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E78_Curated_Holding"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E87_Curation_Activity"/>
+    <rdfs:label>gecureerdBij</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P39_measured">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
+    <rdfs:label>gemetenEntiteit</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P41_classified">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E17_Type_Assignment"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity"/>
+    <rdfs:label>getypeerdeEntiteit</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P72_has_language">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E56_Language"/>
+    <rdfs:label>taal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P53_has_former_or_current_location">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <rdfs:label>locatie</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P73i_is_translation_of">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object"/>
+    <rdfs:label>isVertalingVan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:R22i">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F21"/>
+    <rdfs:range rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F29"/>
+    <rdfs:label>realisatie</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:R10">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F15"/>
+    <rdfs:range rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F1"/>
+    <rdfs:label>heeftComponent</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:R22">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F29"/>
+    <rdfs:range rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F21"/>
+    <rdfs:label>gerealiseerdWerk</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:F25">
+    <rdfs:label>Voorstellingsplan</rdfs:label>
+    <rdfs:comment>Deprecated, use superclass CRM class E100 Activity Plan</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F22"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E5_Event">
+    <rdfs:label>Gebeurtenis</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E4_Period"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="rdf:langString">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>TaalString</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="vlce:tekst">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="https://data.vlaanderen.be/ns/cultureel-erfgoed#Beschrijving"/>
+    <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"/>
+    <rdfs:label>tekst</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="dct:Agent">
+    <rdfs:label>Agent</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P44_has_condition">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E3_Condition_State"/>
+    <rdfs:label>conditie</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:F1">
+    <rdfs:label>Werk</rdfs:label>
+    <rdfs:comment>http://iflastandards.info/ns/lrm/lrmoo/F1 Work</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E28_Conceptual_Object"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E36_Visual_Item">
+    <rdfs:label>VisueelItem</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P76_has_contact_point">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E39_Actor"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E41_Appellation"/>
+    <rdfs:label>contactinfo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E28_Conceptual_Object">
+    <rdfs:label>ConceptueelDing</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E26_Physical_Feature"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E71_Human-Made_Thing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:R21">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F29"/>
+    <rdfs:range rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F26"/>
+    <rdfs:label>opname</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:R9">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F14"/>
+    <rdfs:range rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F22"/>
+    <rdfs:label>isGerealiseerdIn</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P110i_was_augmented_by">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E79_Part_Addition"/>
+    <rdfs:label>isUitgebreidBij</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P108i_was_produced_by">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E24_Physical_Human-Made_Thing"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <rdfs:label>productie</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:F14">
+    <rdfs:label>IndividueelWerk</rdfs:label>
+    <rdfs:comment>Deprecated, use superclass F1 Work</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:F26">
+    <rdfs:label>Opname</rdfs:label>
+    <rdfs:comment>Deprecated, use (some form of Activity?)</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F22"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E77_Persistent_Item">
+    <rdfs:label>Missing SubClass Persistent_Item</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E17_Type_Assignment">
+    <rdfs:label>Classificatie</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E13_Attribute_Assignment"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E9_Move">
+    <rdfs:label>Verhuis</rdfs:label>
+    <rdfs:subClassOf rdf:resource="https://linked.art/ns/terms/Transfer"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E90_Symbolic_Object">
+    <rdfs:label>Missing SubClass Symbolic_Object</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E72_Legal_Object"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E28_Conceptual_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="foaf:name">
+    <rdfs:label>contactnaam</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="https://schema.org/ContactPoint"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:label>agentnaam</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="edtf:EDTF">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Periode</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P140i_was_attributed_by">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E13_Attribute_Assignment"/>
+    <rdfs:label>toekenning</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="schema:Number">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Getal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E4_Period">
+    <rdfs:label>Missing SubClass Period</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E92_Spacetime_Volume"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E2_Temporal_Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P138_represents">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity"/>
+    <rdfs:label>steltVoor</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P30i_custody_transferred_through">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E10_Transfer_of_Custody"/>
+    <rdfs:label>isOvergedragenBijBewaring</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P109_has_current_or_former_curator">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E78_Curated_Holding"/>
+    <rdfs:range rdf:resource="http://purl.org/dc/terms/Agent"/>
+    <rdfs:label>curator</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P40_observed_dimension">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <rdfs:label>vastgesteldeWaarde</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P147_curated">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E87_Curation_Activity"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E78_Curated_Holding"/>
+    <rdfs:label>cureerde</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P54_has_current_permanent_location">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E19_Physical_Object"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <rdfs:label>permanenteLocatie</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P70i_is_documented_in">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E31_Document"/>
+    <rdfs:label>wordtGedocumenteerdDoor</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:R23i">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F19"/>
+    <rdfs:range rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F30"/>
+    <rdfs:label>realisatie</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:R20">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F29"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E2_Temporal_Entity"/>
+    <rdfs:label>opnameVan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E54_Dimension">
+    <rdfs:label>Dimensie</rdfs:label>
+    <rdfs:comment>Dit is een CRM klasse en geen eigenschap/datatype zoals in OSLO gesteld wordt</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P3_has_note">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    <rdfs:label>beschrijving</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P128_carries">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+    <rdfs:label>draagt</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E71_Human-Made_Thing">
+    <rdfs:label>Missing SubClass Human-Made_Thing</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E70_Thing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="vlce:Waarde">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Waarde</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P105_right_held_by">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E72_Legal_Object"/>
+    <rdfs:range rdf:resource="http://purl.org/dc/terms/Agent"/>
+    <rdfs:label>rechtenhouder</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="vlce:Rol.activiteit">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="https://data.vlaanderen.be/ns/cultureel-erfgoed#Rol"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+    <rdfs:label>activiteit</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P190_has_symbolic_content">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    <rdfs:label>inhoud</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P113i_was_removed_by">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E80_Part_Removal"/>
+    <rdfs:label>isIngekrompenBij</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="adms:schemaAgency">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.w3.org/ns/adms#Identifier"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:label>toegekendDoor (string)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E19_Physical_Object">
+    <rdfs:label>Missing SubClass Physical_Object</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P39i_was_measured_by">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <rdfs:label>meting</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E14_Condition_Assessment">
+    <rdfs:label>Conditiebeoordeling</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E13_Attribute_Assignment"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:F24">
+    <rdfs:label>PublicatieExpressie</rdfs:label>
+    <rdfs:comment>Deprecated, use F3 Manifestation</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F22"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P108_has_produced">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E24_Physical_Human-Made_Thing"/>
+    <rdfs:label>product</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P138i_has_representation">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item"/>
+    <rdfs:label>wordtVoorgesteldDoor</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="locn:address">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="https://schema.org/ContactPoint"/>
+    <rdfs:range rdf:resource="http://www.w3.org/ns/locn#Address"/>
+    <rdfs:label>adres</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:R19i">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F1"/>
+    <rdfs:range rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F28"/>
+    <rdfs:label>realisatie</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E70_Thing">
+    <rdfs:label>Ding</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E77_Persistent_Item"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="dct:isPartOf">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity"/>
+    <rdfs:range rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+    <rdfs:label>maaktDeelUitVan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="locn:Address">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Adresvoorstelling</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:F21">
+    <rdfs:label>Opnamewerk</rdfs:label>
+    <rdfs:comment>Deprecated, use superclass F1 Work</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E72_Legal_Object">
+    <rdfs:label>WettelijkObject</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E70_Thing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E8_Acquisition">
+    <rdfs:label>Verwerving</rdfs:label>
+    <rdfs:subClassOf rdf:resource="https://linked.art/ns/terms/Transfer"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:R66">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F31"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E28_Conceptual_Object"/>
+    <rdfs:label>uitgevoerdeVersie</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="schema:unitCode">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <rdfs:range rdf:resource="https://data.vlaanderen.be/ns/generiek#StandaardEenheid"/>
+    <rdfs:label>standaardEenheid</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="vlce:Rol">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>Rol</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="adms:identifier">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity"/>
+    <rdfs:range rdf:resource="http://www.w3.org/ns/adms#Identifier"/>
+    <rdfs:label>identificator</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="person:Person">
+    <rdfs:label>Persoon</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://purl.org/dc/terms/Agent"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="xsd:string">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>String</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P14_carried_out_by">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+    <rdfs:range rdf:resource="http://purl.org/dc/terms/Agent"/>
+    <rdfs:label>uitgevoerdDoor</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P13_destroyed">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E6_Destruction"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
+    <rdfs:label>vernietigingVan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P129i_is_subject_of">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E89_Propositional_Object"/>
+    <rdfs:label>isHetOnderwerpVan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:F22">
+    <rdfs:label>ZelfstandigeExpressie</rdfs:label>
+    <rdfs:comment>Deprecated, use superclass F2 Expression</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P111_added">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E79_Part_Addition"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
+    <rdfs:label>toegevoegd</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P112i_was_diminished_by">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E80_Part_Removal"/>
+    <rdfs:label>isVerwijderdBij</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P23i_surrendered_title_through">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E39_Actor"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <rdfs:label>inEigendomGegeven</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E29_Design_or_Procedure">
+    <rdfs:label>OntwerpOfProcedure</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P7_took_place_at">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E4_Period"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <rdfs:label>plaats</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E79_Part_Addition">
+    <rdfs:label>ToevoegingDeel</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E11_Modification"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P43_has_dimension">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E70_Thing"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <rdfs:label>dimensie</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P14i_performed">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E39_Actor"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+    <rdfs:label>voerdeUit</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:R16i">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F1"/>
+    <rdfs:range rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F27"/>
+    <rdfs:label>conceptie</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P105i_has_right_on">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E39_Actor"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E72_Legal_Object"/>
+    <rdfs:label>oefentRechtUitOp</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P50_has_current_keeper">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
+    <rdfs:range rdf:resource="http://purl.org/dc/terms/Agent"/>
+    <rdfs:label>beheerder</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="rdfs:Literal">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>GetypeerdeString</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P41i_was_classified_by">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E17_Type_Assignment"/>
+    <rdfs:label>classificatie</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P28i_surrendered_custody_through">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E39_Actor"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E10_Transfer_of_Custody"/>
+    <rdfs:label>inBewaringGegeven</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P69_is_associated_with">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E29_Design_or_Procedure"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E29_Design_or_Procedure"/>
+    <rdfs:label>isGeassocieerdMet</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P13i_was_destroyed_by">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E6_Destruction"/>
+    <rdfs:label>vernietiging</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:F31">
+    <rdfs:label>Voorstelling</rdfs:label>
+    <rdfs:comment>http://iflastandards.info/ns/lrm/lrmoo/F31 Performance</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="skos:notation">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.w3.org/ns/adms#Identifier"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    <rdfs:label>identificator</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E13_Attribute_Assignment">
+    <rdfs:label>Toekenning</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E7_Activity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="foaf:page">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="https://schema.org/ContactPoint"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#anyURI"/>
+    <rdfs:label>website</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P70_documents">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E31_Document"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity"/>
+    <rdfs:label>documenteert</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P45_consists_of">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E57_Material"/>
+    <rdfs:label>materiaal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:R21i">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F26"/>
+    <rdfs:range rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F29"/>
+    <rdfs:label>creatie</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P2_has_type">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>type</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P35_has_identified">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E14_Condition_Assessment"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E3_Condition_State"/>
+    <rdfs:label>vastgesteldeStaat</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P25i_moved_by">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E19_Physical_Object"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E9_Move"/>
+    <rdfs:label>verhuis</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="xsd:anyURI">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>URI</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="dct:hasPart">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity"/>
+    <rdfs:label>bestaatUit</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:F20">
+    <rdfs:label>Voorstellingswerk</rdfs:label>
+    <rdfs:comment>Deprecated, use superclass F1 Work</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="schema:unitText">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:label>eenheid</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:R19">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F28"/>
+    <rdfs:range rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F1"/>
+    <rdfs:label>gerealiseerdWerk</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P34_concerned">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E14_Condition_Assessment"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
+    <rdfs:label>conditieVan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="vlgen:StandaardEenheid">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:label>StandaardEenheid</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P34i_was_assessed_by">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E14_Condition_Assessment"/>
+    <rdfs:label>conditiebeoordeling</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="frbroo:R17i">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F22"/>
+    <rdfs:range rdf:resource="https://www.iflastandards.info/fr/frbr/frbroo#F28"/>
+    <rdfs:label>creatie</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P42_assigned">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E17_Type_Assignment"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label>toegekendType</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P46i_forms_part_of">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
+    <rdfs:label>maaktDeelUitVan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:E92_Spacetime_Volume">
+    <rdfs:label>Missing SubClass Spacetime_Volume</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P28_custody_surrendered_by">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E10_Transfer_of_Custody"/>
+    <rdfs:range rdf:resource="http://purl.org/dc/terms/Agent"/>
+    <rdfs:label>overgedragenVan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="crm:P31_has_modified">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E11_Modification"/>
+    <rdfs:range rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
+    <rdfs:label>isGewijzigd</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>
